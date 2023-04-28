@@ -1,0 +1,2 @@
+jupyter-book
+sphinx_inline_tabs
