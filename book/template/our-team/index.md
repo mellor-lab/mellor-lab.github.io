@@ -1,4 +1,4 @@
-# Our Team
+# The Mellor Lab team
 
 ```{admonition} FYI Instructions
 Use this page to introduce members of your team. 
@@ -6,23 +6,29 @@ Contact details, github, researchgate and twitter profiles can be
 linked from the icons in the panels below each picture.
 ```
 
-(team)=
-## Meet the team
-````{panels}
-:column: col-lg-4 px-2 py-2
 
----
-![<RESEARCHER 1 NAME>](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+## Meet the team
+
+:::{card}
+:width: 75%
+:margin: 5
+
+
+**Matt Udakis**
 ^^^
 
-**`<RESEARCHER 1 NAME>`**  
+![<Matt Udakis>](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+
+
+**`<Matt Udakis>`**  
 _Research Software Engineer_  
-[{fa}`at`](mailto:USERNAME@ORGANIZATION.NET)
-[{fa}`linkedin,style=fab`](https://www.linkedin.com)
-[{fa}`twitter,style=fab`](https://twitter.com/)
-[{fa}`researchgate,style=fab`](https://www.researchgate.net/)
-[{fa}`orcid,style=fab`](https://orcid.org/)
-[{fa}`github,style=fab`](https://www.github.com)
+[<i class="fa-brands fa-twitter fa-beat fa-lg style=margin-right:5px"></i>](https://www.twitter.com)
+[<i class="fa-brands fa-linkedin-in fa-beat fa-lg style=margin-right:5px"></i>](https://www.linkedin.com)
+[<i class="fa-brands fa-researchgate fa-beat fa-lg style=margin-right:5px"></i>](https://www.researchgate.com)
+[<i class="fa-brands fa-orcid fa-beat fa-lg style=margin-right:5px"></i>](https://www.orcid.com)
+[<i class="fa-brands fa-github fa-beat fa-lg style=margin-right:5px"></i>](https://www.github.com)
+[<i class="fa-regular fa-at fa-beat fa-lg style=margin-right:5px"></i>](mailto:USERNAME@ORGANIZATION.NET)
+
 
 About me... `<NAME>` has a background in `<BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on `<FOCUS OF RESEARCH>`.
 They enjoy `<HOBBIES>` and recently took part in `<FUN THING>`.
@@ -36,7 +42,14 @@ They enjoy `<HOBBIES>` and recently took part in `<FUN THING>`.
 **Past projects:** 
 - ...
 
----
+:::
+
+
+:::{card}
+:width: 75%
+:margin: 5
+
+
 ![<RESEARCHER 2 NAME>](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
 ^^^
 
@@ -61,7 +74,13 @@ They enjoy `<HOBBIES>` and recently took part in `<FUN THING>`.
 **Past projects:** 
 - ...
 
----
+:::
+
+:::{card}
+:width: 75%
+:margin: 5
+
+
 ![<RESEARCHER 3 NAME>](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
 ^^^
 
@@ -86,4 +105,4 @@ They enjoy `<HOBBIES>` and recently took part in `<FUN THING>`.
 **Past projects:** 
 - ...
 
-````
+:::

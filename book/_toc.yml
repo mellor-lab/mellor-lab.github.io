@@ -1,5 +1,5 @@
 format: jb-book
-root: guide/what-is-our-handbook
+root: template/welcome
 parts:
   - caption: User Guide
     chapters:
@@ -17,8 +17,6 @@ parts:
 
   - caption: Template
     chapters:
-    - file: template/welcome
-      title: Welcome
     - file: template/research-interests
     - file: template/our-team/index
       sections:
