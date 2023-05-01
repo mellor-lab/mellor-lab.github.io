@@ -1,4 +1,3 @@
-#   
 # <center> The Mellor Group </center>
 
 ```{image} img/Lab_photo_2022.jpeg
