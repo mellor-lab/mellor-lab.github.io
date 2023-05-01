@@ -1,3 +1,7 @@
+p {
+    text-align: justify;
+}
+
 .bd-article-container h1, .bd-article-container h2, .bd-article-container h3, .bd-article-container h4, .bd-article-container h5, .bd-article-container p.caption {
     color: #b70e82ff;
 }
