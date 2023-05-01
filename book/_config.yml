@@ -6,6 +6,7 @@ url: "http://mellor-lab.github.io/mellor_lab_handbook"
 
 
 html:
+    home_page_in_navbar       : false
     extra_navbar: |
         <div>
             Handbook created using <a href="https://github.com/very-good-science/our-meta-handbook">Our Handbook</a>.
