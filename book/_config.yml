@@ -23,3 +23,4 @@ sphinx:
         </p>
     config:
         html_show_copyright: false
+        html_theme: pydata_sphinx_theme
