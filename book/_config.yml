@@ -1,7 +1,7 @@
 # Book settings
 title: "Mellor Lab handbook"
 author: The Our Handbook Community
-# logo: images/logo.png
+logo: contents/img/Brain_logo.png
 url: "http://mellor-lab.github.io/mellor_lab_handbook"
 
 html:

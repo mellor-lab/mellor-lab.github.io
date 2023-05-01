@@ -1,46 +1,38 @@
 format: jb-book
-root: template/welcome
+root: contents/welcome
+options:
+    title: ' title'
 parts:
-  - caption: User Guide
+  
+  - caption: Our Group
     chapters:
-    - file: guide/how-to-use/how-to-use-overview
-      title: How to use this template
+    - file: contents/research-interests
+    - file: contents/our-team/overview
       sections:
-      - file: guide/how-to-use/editing-together
-      - file: guide/how-to-use/put-online
-      - file: guide/how-to-use/before-a-workshop
-    - file: guide/contributing
-      title: Contributing to this template
+        - file: contents/our-team/current-members
+        - file: contents/our-team/past-members
+        - file: contents/our-team/work-with-us
+    - file: contents/projects/index
       sections:
-        - file: guide/style-guide
-    - file: guide/code-of-conduct
-
-  - caption: Template
-    chapters:
-    - file: template/research-interests
-    - file: template/our-team/index
+        - file: contents/projects/project1
+        - file: contents/projects/project2
+        - file: contents/projects/recent-outputs
+        - file: contents/projects/past-projects
+    - file: contents/research-environment/index
       sections:
-        - file: template/our-team/work-with-us
-        - file: template/our-team/past-members
-    - file: template/projects/index
+      - file: contents/research-environment/practicalities
+      - file: contents/research-environment/values
+      - file: contents/research-environment/ways-of-working
+      - file: contents/research-environment/open-research-practices
+    - file: contents/research-environment/how-we-work
+      sections:    
+      - file: contents/research-environment/group-meetings
+      - file: contents/research-environment/one-to-ones
+      - file: contents/research-environment/journal-club
+      - file: contents/research-environment/tools
+      - file: contents/research-environment/roadmap
+    - file: contents/resources/index
       sections:
-        - file: template/projects/project1
-        - file: template/projects/project2
-        - file: template/projects/recent-outputs
-        - file: template/projects/past-projects
-    - file: template/research-environment/index
-      sections:
-      - file: template/research-environment/practicalities
-      - file: template/research-environment/values
-      - file: template/research-environment/ways-of-working
-      - file: template/research-environment/open-research-practices
-      - file: template/research-environment/group-meetings
-      - file: template/research-environment/one-to-ones
-      - file: template/research-environment/journal-club
-      - file: template/research-environment/tools
-      - file: template/research-environment/roadmap
-    - file: template/resources/index
-      sections:
-      - file: template/resources/time-management
-      - file: template/resources/data-management
-    - file: template/glossary
+      - file: contents/resources/time-management
+      - file: contents/resources/data-management
+    - file: contents/glossary
