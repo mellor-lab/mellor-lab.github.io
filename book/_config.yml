@@ -1,8 +1,8 @@
 # Book settings
-title: "Our Handbook"
+title: "Mellor Lab handbook"
 author: The Our Handbook Community
-# logo: images/logo.png
-url: "http://very-good-science.github.io/our-handbook"
+logo: contents/img/Brain_logo.png
+url: "http://mellor-lab.github.io/mellor_lab_handbook"
 
 html:
     extra_navbar: |
@@ -14,6 +14,7 @@ html:
 sphinx:
     extra_extensions:
         - sphinx_inline_tabs
+        - sphinx_design
     extra_footer: |
         <p>
             License: <a href="https://creativecommons.org/licenses/by/3.0/legalcode">CC-BY 3.0</a>
