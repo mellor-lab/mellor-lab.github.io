@@ -9,7 +9,7 @@
 
 [`The Mellor Group`](our-team/current-members) based at Bristol University aims to help understand the mechanisms of learning and memory within the hippocampus. 
 
-Check out our [`CURRENT PROJECTS`](projects/index) and our [`RECENT PUBLICATIONS`](projects/recent-outputs).
+Check out our [`Current projects`](projects/index) and our [`Recent publications`](publications).
 
 
 ---
