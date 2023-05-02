@@ -16,6 +16,13 @@ _lab retreat 2021_
 
 :::{grid-item}
 
+<img src="../img/labretreats/Lab_photo_2020.jpg" height="300"><br>
+_lab retreat 2020_
+
+:::
+
+:::{grid-item}
+
 <img src="../img/labretreats/Lab_photo_2019.jpeg" height="300"><br>
 _lab retreat 2019_
 
