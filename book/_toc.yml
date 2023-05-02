@@ -6,7 +6,6 @@ parts:
   
   - caption: Our Group
     chapters:
-    - file: contents/research-interests
     - file: contents/our-team/overview
       sections:
         - file: contents/our-team/current-members
@@ -14,25 +13,13 @@ parts:
         - file: contents/our-team/work-with-us
     - file: contents/projects/index
       sections:
-        - file: contents/projects/project1
+        - file: contents/projects/olm-placecells
         - file: contents/projects/project2
-        - file: contents/projects/recent-outputs
-        - file: contents/projects/past-projects
-    - file: contents/research-environment/index
-      sections:
-      - file: contents/research-environment/practicalities
-      - file: contents/research-environment/values
-      - file: contents/research-environment/ways-of-working
-      - file: contents/research-environment/open-research-practices
     - file: contents/research-environment/how-we-work
       sections:    
       - file: contents/research-environment/group-meetings
       - file: contents/research-environment/one-to-ones
       - file: contents/research-environment/journal-club
       - file: contents/research-environment/tools
-      - file: contents/research-environment/roadmap
-    - file: contents/resources/index
-      sections:
-      - file: contents/resources/time-management
-      - file: contents/resources/data-management
-    - file: contents/glossary
+    - file: contents/publications    
+

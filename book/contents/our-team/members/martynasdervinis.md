@@ -14,14 +14,33 @@ _Research Associate_
 [<i class="fa-solid fa-envelope"></i>](mailto:USERNAME@ORGANIZATION.NET)
 
 
-About me... `<NAME>` has a background in `<BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on `<FOCUS OF RESEARCH>`.
-They enjoy `<HOBBIES>` and recently took part in `<FUN THING>`.
+About me... 
 
-**Research:** 
-- `<RESEARCH INTERESTS>`
+### Research:
+ 
+my research 
 
-**Current projects:**
-- [Project 1](../projects/project1)
 
-**Past projects:** 
-- ...
+### Current projects:
+
+- 
+
+
+&nbsp;
+
+
+```{admonition} Outside of the lab
+:class: note
+
+
+
+``` 
+
+
+&nbsp;
+
+---
+
+
+### Publications:
+

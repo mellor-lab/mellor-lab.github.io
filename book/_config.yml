@@ -7,6 +7,7 @@ url: "http://mellor-lab.github.io/mellor_lab_handbook"
 
 html:
     home_page_in_navbar       : false
+    logo_only                 : true
     extra_navbar: |
         <div>
             Handbook created using <a href="https://github.com/very-good-science/our-meta-handbook">Our Handbook</a>.
@@ -23,3 +24,22 @@ sphinx:
         </p>
     config:
         html_show_copyright: false
+
+
+# Parse and render settings
+parse:
+  myst_enable_extensions:  # default extensions to enable in the myst parser. See https://myst-parser.readthedocs.io/en/latest/using/syntax-optional.html
+    # - amsmath
+    - colon_fence
+    # - deflist
+    - dollarmath
+    # - html_admonition
+    # - html_image
+    - linkify
+    # - replacements
+    # - smartquotes
+    - substitution
+    - tasklist
+    - html_image
+  myst_url_schemes: [mailto, http, https] # URI schemes that will be recognised as external URLs in Markdown links
+  myst_dmath_double_inline: true  # Allow display math ($$) within an inline context

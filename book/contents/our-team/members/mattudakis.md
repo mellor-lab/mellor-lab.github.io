@@ -16,14 +16,53 @@ _Senior Research Associate_
 [<i class="fa-solid fa-envelope"></i>](mailto:USERNAME@ORGANIZATION.NET)
 <!--[<i class="fa-brands fa-orcid" style="color: #6eee5d;"></i>](https://www.orcid.org)-->
 
-About me... `<NAME>` has a background in `<BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on `<FOCUS OF RESEARCH>`.
-They enjoy `<HOBBIES>` and recently took part in `<FUN THING>`.
+I started my neuroscience adventures with a PhD in 2012 at the University of Bath, UK where I investigated the role of nicotinic acetylcholine receptors in the 
+mechanisms of learning and memory in the prefrontal cortex, using brain slice electrophysisology with optogenetics.
+In 2016 I join Jack's lab as a postdoc where my research focuses on understanding the roles inhibitory interenruson in learning and memory mechanisms within the hippocampus.
 
-**Research:** 
-- `<RESEARCH INTERESTS>`
 
-**Current projects:**
-- [Project 1](../projects/project1)
+### Research:
+ 
+My research within the lab started in 2016 where I investigated the interneuron subtype specifictiy of hippocampal inhibtory synaptic plasticity.
+Using brain slice electrophysiology and optogenetics we uncovered inhibitory plasticity rules unique to PV and SST interneurons in collaboration with Claudia Clopaths lab. [Udakis et al 2020](https://www.nature.com/articles/s41467-020-18074-8) 
 
-**Past projects:** 
-- ...
+Since then my research in the lab has focused on the role these interneurons have on hippocmpal placecell formation and stability.
+I use a combinatation of 2photon microscopy, brain slice electrophysiology and in vivo miniscope recording of placecells 
+
+### Current projects:
+
+- [OLM interneurons and placecell stability](../../projects/olm-placecells)
+
+
+&nbsp;
+
+
+```{admonition} Outside of the lab
+:class: note
+- I love to play squash. 
+- Make interesting electronics projects. 
+- Tell everyone about my cat Ralph!
+``` 
+
+
+&nbsp;
+
+---
+
+
+### Publications:
+
+_Acetylcholine prioritises direct synaptic inputs from entorhinal cortex to CA1 by differential modulation of feedforward inhibitory circuits_<br>
+Jon Palacios-Filardo, `Matt Udakis`, Giles A Brown, Benjamin G Tehan, Miles S Congreve, Pradeep J Nathan, Alastair JH Brown, Jack R Mellor <br>
+Nature communications **2021** ([article](https://www.nature.com/articles/s41467-021-25280-5)) 
+
+_Interneuron-specific plasticity at parvalbumin and somatostatin inhibitory synapses onto CA1 pyramidal neurons shapes hippocampal output_<br>
+`Matt Udakis`, Victor Pedrosa, Sophie EL Chamberlain, Claudia Clopath, Jack R Mellor <br>
+Nature communications, **2020** ([article](https://www.nature.com/articles/s41467-020-18074-8)) 
+
+_Integration of inhibitory and excitatory effects of α7 nicotinic acetylcholine receptor activation in the prelimbic cortex regulates network activity and plasticity_<br>
+`Matt Udakis`, Victoria Louise Wright, Susan Wonnacott, Christopher Philip Bailey <br>
+Neuropharmacology, **2016** ([article](https://www.sciencedirect.com/science/article/pii/S0028390816300636)) 
+
+
+
