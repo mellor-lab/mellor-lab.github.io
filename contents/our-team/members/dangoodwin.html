@@ -151,7 +151,6 @@ const thebe_selector_output = ".output, .cell_output"
     <div class="bd-toc-item navbar-nav active">
         <p aria-level="2" class="caption" role="heading"><span class="caption-text">Our Group</span></p>
 <ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="../../research-interests.html">Research Interests</a></li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="../overview.html">The Team</a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../current-members.html">Meet the team</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../past-members.html">Past team members</a></li>
@@ -161,9 +160,6 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l1 has-children"><a class="reference internal" href="../../projects/index.html">Our Projects</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../../projects/olm-placecells.html">OLM interneurons regulation of placecells</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../projects/project2.html">Project 2</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../projects/recent-outputs.html">Recent research outputs</a></li>
-
-<li class="toctree-l2"><a class="reference internal" href="../../projects/past-projects.html">Past projects</a></li>
 </ul>
 </li>
 <li class="toctree-l1 has-children"><a class="reference internal" href="../../research-environment/how-we-work.html">How we work</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul>
@@ -171,7 +167,6 @@ const thebe_selector_output = ".output, .cell_output"
 <li class="toctree-l2"><a class="reference internal" href="../../research-environment/one-to-ones.html">One-to-one Meetings</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../research-environment/journal-club.html">Journal club</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../research-environment/tools.html">Tools</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../research-environment/roadmap.html">Road map</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="../../publications.html">Publications</a></li>
@@ -298,7 +293,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -314,6 +311,16 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#research">Research:</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#current-projects">Current projects:</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#publications">Publications:</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -336,20 +343,26 @@ document.write(`
 <a class="reference external" href="https://www.github.com"><i class="fa-brands fa-github" style="color: #696969;"></i></a>
 <a class="reference external" href="http://www.bristol.ac.uk/phys-pharm-neuro/"><i class="fa-solid fa-building-columns" style="color: #d74242;"></i></a>
 <a class="reference external" href="mailto:USERNAME&#37;&#52;&#48;ORGANIZATION&#46;NET"><i class="fa-solid fa-envelope"></i></a></p>
-<p>About me… <code class="docutils literal notranslate"><span class="pre">&lt;NAME&gt;</span></code> has a background in <code class="docutils literal notranslate"><span class="pre">&lt;BACKGROUND&gt;</span></code> and works with <code class="docutils literal notranslate"><span class="pre">&lt;COLLABORATORS</span> <span class="pre">AND</span> <span class="pre">COMMUNITIES&gt;</span></code> on <code class="docutils literal notranslate"><span class="pre">&lt;FOCUS</span> <span class="pre">OF</span> <span class="pre">RESEARCH&gt;</span></code>.
-They enjoy <code class="docutils literal notranslate"><span class="pre">&lt;HOBBIES&gt;</span></code> and recently took part in <code class="docutils literal notranslate"><span class="pre">&lt;FUN</span> <span class="pre">THING&gt;</span></code>.</p>
-<p><strong>Research:</strong></p>
+<p>About me…</p>
+<section id="research">
+<h2>Research:<a class="headerlink" href="#research" title="Permalink to this heading">#</a></h2>
+<p>my research</p>
+</section>
+<section id="current-projects">
+<h2>Current projects:<a class="headerlink" href="#current-projects" title="Permalink to this heading">#</a></h2>
 <ul class="simple">
-<li><p><code class="docutils literal notranslate"><span class="pre">&lt;RESEARCH</span> <span class="pre">INTERESTS&gt;</span></code></p></li>
+<li></li>
 </ul>
-<p><strong>Current projects:</strong></p>
-<ul class="simple">
-<li><p><span class="xref myst">Project 1</span></p></li>
-</ul>
-<p><strong>Past projects:</strong></p>
-<ul class="simple">
-<li><p>…</p></li>
-</ul>
+<p> </p>
+<div class="note admonition">
+<p class="admonition-title">Outside of the lab</p>
+</div>
+<p> </p>
+<hr class="docutils" />
+</section>
+<section id="publications">
+<h2>Publications:<a class="headerlink" href="#publications" title="Permalink to this heading">#</a></h2>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -392,6 +405,22 @@ They enjoy <code class="docutils literal notranslate"><span class="pre">&lt;HOBB
             </div>
             
             
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#research">Research:</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#current-projects">Current projects:</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#publications">Publications:</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>

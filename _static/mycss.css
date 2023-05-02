@@ -12,6 +12,12 @@ code {
 
 }
 
+pre {
+    color: #579aca;
+    background-color: transparent;
+
+}
+
 code.literal {
     background-color: transparent;
     border: 0px;

@@ -14,14 +14,33 @@ _PhD Student_
 [<i class="fa-solid fa-building-columns" style="color: #d74242;"></i>](http://www.bristol.ac.uk/phys-pharm-neuro/)
 [<i class="fa-solid fa-envelope"></i>](mailto:USERNAME@ORGANIZATION.NET)
 
-About me... `<NAME>` has a background in `<BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on `<FOCUS OF RESEARCH>`.
-They enjoy `<HOBBIES>` and recently took part in `<FUN THING>`.
+About me... 
 
-**Research:** 
-- `<RESEARCH INTERESTS>`
+### Research:
+ 
+my research 
 
-**Current projects:**
-- [Project 2](../projects/project2)
 
-**Past projects:** 
-- ...
+### Current projects:
+
+- 
+
+
+&nbsp;
+
+
+```{admonition} Outside of the lab
+:class: note
+
+
+
+``` 
+
+
+&nbsp;
+
+---
+
+
+### Publications:
+
