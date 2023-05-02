@@ -3,7 +3,7 @@
 <img src="../../img/members/jithin.jpg" width="300">
 
 
-**`Martynas Dervinis`**  
+**`Jithin Nair`**  
 _Research Associate_  
 [<i class="fa-brands fa-twitter fa-lg" style="color:#2a67cf"></i>](https://www.twitter.com)
 [<i class="fa-brands fa-linkedin-in fa-lg" style="color:#5a97d8"></i>](https://www.linkedin.com)
