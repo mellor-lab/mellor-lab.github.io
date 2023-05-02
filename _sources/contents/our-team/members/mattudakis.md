@@ -62,7 +62,7 @@ Nature communications, **2020** ([article](https://www.nature.com/articles/s4146
 
 _Integration of inhibitory and excitatory effects of α7 nicotinic acetylcholine receptor activation in the prelimbic cortex regulates network activity and plasticity_<br>
 `Matt Udakis`, Victoria Louise Wright, Susan Wonnacott, Christopher Philip Bailey <br>
-Neuropharmacology, **2020** ([article](https://www.sciencedirect.com/science/article/pii/S0028390816300636)) 
+Neuropharmacology, **2016** ([article](https://www.sciencedirect.com/science/article/pii/S0028390816300636)) 
 
 
 
