@@ -123,6 +123,14 @@ _Postdoc_
 
 :::
 
+:::{grid-item-card}
+
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+
+**`Sonam Gurung`**  
+_PostDoc_  
+
+:::
 
 :::{grid-item-card}
 
@@ -179,6 +187,16 @@ _PhD student_
 _Postdoc_  
 
 :::
+
+:::{grid-item-card}
+
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+
+**`Juan Agullo`**  
+_PhD student_  
+
+:::
+
 
 :::{grid-item-card}
 
