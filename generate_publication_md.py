@@ -20,11 +20,6 @@ with open('book\contents\publications.md', 'w') as file:
         
         curr_year = year
          
-
-
-
-
-
         # pubmed gets some old papers that are not Jacks
         if year >= 1990:
             if not curr_year == prev_year:

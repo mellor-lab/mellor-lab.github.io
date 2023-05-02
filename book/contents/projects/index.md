@@ -2,9 +2,7 @@
 
 ## Upcoming
 
-:::{panels}
-:container: +full-width
-:column: col-lg-4 px-2 py-2
+:::{card}
 ---
 :header: bg-jb-one
 ```{image} https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png

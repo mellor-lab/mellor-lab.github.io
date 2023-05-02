@@ -1,83 +1,198 @@
 # Past team members
 
-```{admonition} FYI Instructions
-Use this page to archive the profiles of past team members, with a
-note on where they went next.
-```
-
-````{panels}
-:column: col-lg-4 px-2 py-2
+&nbsp;
 
 ---
-![<RESEARCHER 1 NAME>](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
-^^^
 
-**`<RESEARCHER 1 NAME>`**  
-_Research Software Engineer_  
-[{fa}`at`](mailto:USERNAME@ORGANIZATION.NET)
-[{fa}`linkedin,style=fab`](https://www.linkedin.com)
-[{fa}`twitter,style=fab`](https://twitter.com/)
-[{fa}`researchgate,style=fab`](https://www.researchgate.net/)
-[{fa}`github,style=fab`](https://www.github.com)
+::::{grid} 2
+:gutter: 3
 
-About me... `<NAME>` has a background in `<BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on `<FOCUS OF RESEARCH>`.
-They enjoy `<HOBBIES>` and recently took part in `<FUN THING>`.
+:::{grid-item}
 
-**Research:** 
-- `<RESEARCH INTERESTS>`
+<img src="../img/labretreats/Lab_photo_2021.jpg" height="300"><br>
+_lab retreat 2021_
 
-**Current projects:**
-- [Project 1](../projects/project1)
+:::
 
-**Past projects:** 
-- ...
+:::{grid-item}
 
+<img src="../img/labretreats/Lab_photo_2019.jpeg" height="300"><br>
+_lab retreat 2019_
+
+:::
+
+:::{grid-item}
+
+<img src="../img/labretreats/Lab_photo_2018.jpg" height="300"><br>
+_lab retreat 2018_
+
+:::
+
+:::{grid-item}
+
+<img src="../img/labretreats/Lab_photo_2017.jpg" height="300"><br>
+_lab retreat 2017_
+
+:::
+
+:::{grid-item}
+
+<img src="../img/labretreats/Lab_photo_2016.jpg" height="300"><br>
+_lab retreat 2016_
+
+:::
+
+:::{grid-item}
+
+<img src="../img/labretreats/Lab_photo_2012.jpg" height="300"><br>
+_lab retreat 2012_
+
+:::
+
+::::
+
+&nbsp;
+
+## Past members
 ---
-![<RESEARCHER 2 NAME>](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
-^^^
 
-**`<RESEARCHER 2 NAME>`**  
-_Research Associate_  
-[{fa}`at`](mailto:USERNAME@ORGANIZATION.NET)
-[{fa}`linkedin,style=fab`](https://www.linkedin.com)
-[{fa}`twitter,style=fab`](https://twitter.com/)
-[{fa}`researchgate,style=fab`](https://www.researchgate.net/)
-[{fa}`github,style=fab`](https://www.github.com)
 
-About me... `<NAME>` has a background in `<BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on `<FOCUS OF RESEARCH>`.
-They enjoy `<HOBBIES>` and recently took part in `<FUN THING>`.
+::::{grid} 4
+:gutter: 3
 
-**Research:** 
-- `<RESEARCH INTERESTS>`
+:::{grid-item-card}
 
-**Current projects:**
-- [Project 2](../projects/project2)
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
 
-**Past projects:** 
-- ...
+**`Mascia Amici`**  
+_Postdoc_  
 
----
-![<RESEARCHER 3 NAME>](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
-^^^
+:::
 
-**`<RESEARCHER 3 NAME>`**  
-_Data Scientist_  
-[{fa}`at`](mailto:USERNAME@ORGANIZATION.NET)
-[{fa}`linkedin,style=fab`](https://www.linkedin.com)
-[{fa}`twitter,style=fab`](https://twitter.com/)
-[{fa}`researchgate,style=fab`](https://www.researchgate.net/)
-[{fa}`github,style=fab`](https://www.github.com)
+:::{grid-item-card}
 
-About me... `<NAME>` has a background in `<BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on `<FOCUS OF RESEARCH>`.
-They enjoy `<HOBBIES>` and recently took part in `<FUN THING>`.
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
 
-**Research:** 
-- `<RESEARCH INTERESTS>`
+**`Rachel Humphries`**  
+_PhD student_  
 
-**Current projects:**
-- [Project 1](../projects/project1)
+:::
 
-**Past projects:** 
-- ...
+:::{grid-item-card}
 
-````
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+
+**`Sarah Stuart`**  
+_Postdoc_  
+
+:::
+
+
+:::{grid-item-card}
+
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+
+**`Simonas Griesius`**  
+_PhD student_  
+
+:::
+
+:::{grid-item-card}
+
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+
+**`Matt Wilkinson`**  
+_PhD student_  
+
+:::
+
+
+:::{grid-item-card}
+
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+
+**`Jon Palacios`**  
+_Postdoc_  
+
+:::
+
+
+:::{grid-item-card}
+
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+
+**`Travis Bacon`**  
+_PhD student_  
+
+:::
+
+
+:::{grid-item-card}
+
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+
+**`Pratap Tomar`**  
+_Postdoc_  
+
+:::
+
+:::{grid-item-card}
+
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+
+**`Clair Booth`**  
+_Postdoc_  
+
+:::
+
+:::{grid-item-card}
+
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+
+**`Cezar Tigret`**  
+_Postdoc_  
+
+:::
+
+:::{grid-item-card}
+
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+
+**`Luke Prince`**  
+_PhD student_  
+
+:::
+
+
+:::{grid-item-card}
+
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+
+**`Sophie Chamberlain`**  
+_Postdoc_  
+
+:::
+
+:::{grid-item-card}
+
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+
+**`Robin Willows-Rough`**  
+_PhD student_  
+
+:::
+
+
+:::{grid-item-card}
+
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+
+**`Laura Atherton`**  
+_PhD student_  
+
+:::
+
+
+::::
+
+
