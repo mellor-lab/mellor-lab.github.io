@@ -3,7 +3,7 @@
 &nbsp; 
 &nbsp;
 
- ### `2022`
+  **2022**
 
 ---
 _PDZD8 Disruption Causes Cognitive Impairment in Humans, Mice, and Fruit Flies_<br>
@@ -24,7 +24,7 @@ Genes Brain Behav, **`2022`** ([article](https://doi.org/10.1111/gbb.12797))<br>
 
 &nbsp;
 
- ### `2021`
+  **2021**
 
 ---
 _Investigation of reward learning and feedback sensitivity in non-clinical participants with a history of early life stress_<br>
@@ -57,7 +57,7 @@ Neuropharmacology, **`2021`** ([article](https://doi.org/10.1016/j.neuropharm.20
 
 &nbsp;
 
- ### `2020`
+  **2020**
 
 ---
 _Noradrenaline Release from Locus Coeruleus Terminals in the Hippocampus Enhances Excitation-Spike Coupling in CA1 Pyramidal Neurons Via β-Adrenoceptors_<br>
@@ -82,7 +82,7 @@ Sci Rep, **`2020`** ([article](https://doi.org/10.1038/s41598-020-59384-7))<br>
 
 &nbsp;
 
- ### `2019`
+  **2019**
 
 ---
 _Neuromodulation of hippocampal long-term synaptic plasticity_<br>
@@ -91,7 +91,7 @@ Curr Opin Neurobiol, **`2019`** ([article](https://doi.org/10.1016/j.conb.2018.0
 
 &nbsp;
 
- ### `2018`
+  **2018**
 
 ---
 _Convergent Metabotropic Signaling Pathways Inhibit SK Channels to Promote Synaptic Plasticity in the Hippocampus_<br>
@@ -104,7 +104,7 @@ Sci Rep, **`2018`** ([article](https://doi.org/10.1038/s41598-018-22542-z))<br>
 
 &nbsp;
 
- ### `2017`
+  **2017**
 
 ---
 _Acetylcholine modulates gamma frequency oscillations in the hippocampus by activation of muscarinic M1 receptors_<br>
@@ -117,7 +117,7 @@ Cell Rep, **`2017`** ([article](https://doi.org/10.1016/j.celrep.2016.12.085))<b
 
 &nbsp;
 
- ### `2016`
+  **2016**
 
 ---
 _Neuromodulation of the Feedforward Dentate Gyrus-CA3 Microcircuit_<br>
@@ -146,7 +146,7 @@ Cereb Cortex, **`2016`** ([article](https://doi.org/10.1093/cercor/bhv227))<br>
 
 &nbsp;
 
- ### `2015`
+  **2015**
 
 ---
 _Memory trace replay: the shaping of memory consolidation by neuromodulation_<br>
@@ -159,7 +159,7 @@ J Neurosci, **`2015`** ([article](https://doi.org/10.1523/JNEUROSCI.3571-14.2015
 
 &nbsp;
 
- ### `2013`
+  **2013**
 
 ---
 _Cholinergic modulation of hippocampal network function_<br>
@@ -180,7 +180,7 @@ Biophys J, **`2013`** ([article](https://doi.org/10.1016/j.bpj.2013.01.015))<br>
 
 &nbsp;
 
- ### `2012`
+  **2012**
 
 ---
 _Putting plasticity in its place_<br>
@@ -201,7 +201,7 @@ PLoS One, **`2012`** ([article](https://doi.org/10.1371/journal.pone.0030402))<b
 
 &nbsp;
 
- ### `2011`
+  **2011**
 
 ---
 _Agonist-induced PKC phosphorylation regulates GluK2 SUMOylation and kainate receptor endocytosis_<br>
@@ -226,7 +226,7 @@ Neural Plast, **`2011`** ([article](https://doi.org/10.1155/2011/960389))<br>
 
 &nbsp;
 
- ### `2010`
+  **2010**
 
 ---
 _Facilitation of long-term potentiation by muscarinic M(1) receptors is mediated by inhibition of SK channels_<br>
@@ -243,7 +243,7 @@ Front Synaptic Neurosci, **`2010`** ([article](https://doi.org/10.3389/fnsyn.201
 
 &nbsp;
 
- ### `2009`
+  **2009**
 
 ---
 _Hippocampal place cell firing patterns can induce long-term synaptic plasticity in vitro_<br>
@@ -256,7 +256,7 @@ J Biol Chem, **`2009`** ([article](https://doi.org/10.1074/jbc.M901203200))<br>
 
 &nbsp;
 
- ### `2008`
+  **2008**
 
 ---
 _Bidirectional activity-dependent plasticity of membrane potential and the influence on spiking in rat hippocampal dentate granule cells_<br>
@@ -265,7 +265,7 @@ Neuropharmacology, **`2008`** ([article](https://doi.org/10.1016/j.neuropharm.20
 
 &nbsp;
 
- ### `2007`
+  **2007**
 
 ---
 _The development of synaptic plasticity induction rules and the requirement for postsynaptic spikes in rat hippocampal CA1 pyramidal neurones_<br>
@@ -278,7 +278,7 @@ Nature, **`2007`** ([article](https://doi.org/10.1038/nature05736))<br>
 
 &nbsp;
 
- ### `2006`
+  **2006**
 
 ---
 _Synaptic plasticity of kainate receptors_<br>
@@ -287,7 +287,7 @@ Biochem Soc Trans, **`2006`** ([article](https://doi.org/10.1042/BST0340949))<br
 
 &nbsp;
 
- ### `2003`
+  **2003**
 
 ---
 _Presynaptic kainate receptors impart an associative property to hippocampal mossy fiber long-term potentiation_<br>
@@ -296,7 +296,7 @@ Nat Neurosci, **`2003`** ([article](https://doi.org/10.1038/nn1116))<br>
 
 &nbsp;
 
- ### `2002`
+  **2002**
 
 ---
 _Mediation of hippocampal mossy fiber long-term potentiation by presynaptic Ih channels_<br>
@@ -305,7 +305,7 @@ Science, **`2002`** ([article](https://doi.org/10.1126/science.1064285))<br>
 
 &nbsp;
 
- ### `2001`
+  **2001**
 
 ---
 _Synaptically released neurotransmitter fails to desensitize postsynaptic GABA(A) receptors in cerebellar cultures_<br>
@@ -330,7 +330,7 @@ Nat Neurosci, **`2001`** ([article](https://doi.org/10.1038/83941))<br>
 
 &nbsp;
 
- ### `2000`
+  **2000**
 
 ---
 _Somato-synaptic variation of GABA(A) receptors in cultured murine cerebellar granule cells: investigation of the role of the alpha6 subunit_<br>
@@ -355,7 +355,7 @@ Neuron, **`2000`** ([article](https://doi.org/10.1016/s0896-6273(00)81149-6))<br
 
 &nbsp;
 
- ### `1998`
+  **1998**
 
 ---
 _Properties of GABA(A) receptors in cultured rat oligodendrocyte progenitor cells_<br>
@@ -372,7 +372,7 @@ J Physiol, **`1998`** ([article](https://doi.org/10.1111/j.1469-7793.1998.377bw.
 
 &nbsp;
 
- ### `1997`
+  **1997**
 
 ---
 _Frequency-dependent actions of benzodiazepines on GABAA receptors in cultured murine cerebellar granule cells_<br>
