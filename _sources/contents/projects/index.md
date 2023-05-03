@@ -1,14 +1,14 @@
 # Our Projects
 
-We have a range of projects within our group spanning from the molecular level to the systems level, with collaboration a key to our success
-we utalise a range of methodology including:
+We have a range of ongoing projects within our group spanning from the molecular to the systems level, with collaboration a key to our success.
+We utilise a range of methodologies including:
 - Brain slice electrophysiology 
-- 2photon calcium imaging in brain slices
-- Head fixed virtual reality with 2photon calcium imaging 
+- 2-photon imaging in brain slices
+- Behaviour in virtual reality with 2-photon imaging 
+- Calcium imaging with minaturised microscopes
 - Molecular Biochemistry 
-- Animal behavioor
+- Animal behaviour
 - Computational modelling 
-- in vivo calcium imaging with minaturised microscopes
 
 ---
 
