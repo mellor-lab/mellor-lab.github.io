@@ -1,13 +1,13 @@
 # <center> Mellor Group <br> `Synapses, Plasticity and Cognition lab`</center> 
 
-```{image} img/Lab_photo_2022.jpeg
+```{image} img/lab_photo_2022.jpg
 :width: 750px
 :align: center
 ```
 
 ### Welcome to our group webpages
 
-[`The Mellor Group`](our-team/current-members) based at the [University of Bristol](https://www.bristol.ac.uk/phys-pharm-neuro/) aims to understand the mechanisms of `learning and memory` within the hippocampus. 
+[The Mellor Group](our-team/current-members) based at the [University of Bristol](https://www.bristol.ac.uk/phys-pharm-neuro/) aims to understand the mechanisms of `learning and memory` within the hippocampus. 
 
 We focus on the fundamental process of `synaptic plasticity` that shapes who we are as individuals with implications in many neurological and psychiatric disorders. 
 
