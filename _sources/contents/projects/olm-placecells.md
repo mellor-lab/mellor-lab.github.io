@@ -3,23 +3,23 @@
 This project lead by [matt udakis](../our-team/members/mattudakis) aims to investigate how OLM interneurons
 regulate placecell activity, formation and stability in the hippocampus. 
 
-::::{grid} 1 2 2 2
+::::{grid} 1 3 3 3
 
 :::{grid-item}
-
-:::{image} ../img/inscopix_project.png 
+:columns: 8
+```{image} ../img/inscopix_project.png 
 :align: center
+```
 :::
 
 
 :::{grid-item}
-
-:::{image} ../img/miniscope_gif_2.gif
-:width: 200px 
+:columns: 4
+```{image} ../img/miniscope_gif_2.gif
+:width: 300px 
 :align: center
+```
 :::
-
-
 
 ::::
 
