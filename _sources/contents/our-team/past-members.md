@@ -265,7 +265,170 @@ _PhD student_
 
 :::
 
+:::{grid-item-card}
 
+<!-- 
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
+-->
+
+**`Siobhan Dennis`**  
+_PhD student and postdoc_  
+
+:::
+
+:::{grid-item-card}
+
+<!-- 
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
+-->
+
+**`Milos Petrovic`**  
+_Postdoc_  
+
+:::
+
+:::{grid-item-card}
+
+<!-- 
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
+-->
+
+**`Rajen Mistry`**  
+_Postdoc_  
+
+:::
+
+:::{grid-item-card}
+
+<!-- 
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
+-->
+
+**`Thom Griffith`**  
+_PhD student_  
+
+:::
+
+:::{grid-item-card}
+
+<!-- 
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
+-->
+
+**`Netasha Shaikh`**  
+_PhD student_  
+
+:::
+
+:::{grid-item-card}
+
+<!-- 
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
+-->
+
+**`Ruth Betterton`**  
+_PhD student_  
+
+:::
+
+:::{grid-item-card}
+
+<!-- 
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
+-->
+
+**`Leonor Teles-Grilo Ruivo`**  
+_PhD student_  
+
+:::
+
+:::{grid-item-card}
+
+<!-- 
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
+-->
+
+**`Josef Sadowski`**  
+_PhD student_  
+
+:::
+
+:::{grid-item-card}
+
+<!-- 
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
+-->
+
+**`Valeria Olivo`**  
+_PhD student_  
+
+:::
+
+:::{grid-item-card}
+
+<!-- 
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
+-->
+
+**`Andrew Patton`**  
+_PhD student_  
+
+:::
+
+:::{grid-item-card}
+
+<!-- 
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
+-->
+
+**`Catherine Wood`**  
+_PhD student_  
+
+:::
+
+:::{grid-item-card}
+
+<!-- 
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
+-->
+
+**`Katherine Buchanan`**  
+_PhD student_  
+
+:::
+
+:::{grid-item-card}
+
+<!-- 
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
+-->
+
+**`Rebecca Dixon`**  
+_PhD student_  
+
+:::
+
+:::{grid-item-card}
+
+<!-- 
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
+-->
+
+**`Justna Muhith`**  
+_PhD student_  
+
+:::
+
+:::{grid-item-card}
+
+<!-- 
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
+-->
+
+**`Karen Plant`**  
+_PhD student_  
+
+:::
 ::::
 
 
