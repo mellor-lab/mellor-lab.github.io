@@ -20,7 +20,7 @@
 **Jack Mellor**
 ^^^
 
-![Jack_Mellor](../img/members/jackdartmoorhead.jpg)
+![Jack_Mellor](../img/members/JackDartmoorHead.jpg)
 
 **`Jack Mellor`**  
 _Principle investigator_  
