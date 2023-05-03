@@ -18,7 +18,7 @@ This project lead by [Martynas Dervinis](../our-team/members/martynasdervinis) a
 
 
 ### Aim:
-[`Bristol neuroscience data guide`](https://dervinism.github.io/bristol-neuroscience-data-guide/intro.html) project aims to create a framework for open source storage and sharing of neuroscience data   
+[Bristol neuroscience data guide](https://dervinism.github.io/bristol-neuroscience-data-guide/intro.html) project aims to create a framework for open source storage and sharing of neuroscience data   
 
 ### Techniques:
 ...
