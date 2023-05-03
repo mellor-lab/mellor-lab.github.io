@@ -1,19 +1,19 @@
 # Group meetings
 
-```{admonition} FIXME Instructions
-Group meetings (not be confused with [one-to-one](one-to-ones) meetings) can take many forms and serve different purposes.
-Generally speaking, they should be some form of regular meeting that all (or most) of your group attends.
+We run collaborative group meetings with the groups of Mike Ashby and Paul Anastasiades. These run on three weekly cycles and 
+consist of Data presentations/ project updates, journal clubs and individual group meetings.
 
-Things to consider:
 
-- __Time, frequency and length of the meetings__ - you could have more-frequent shorter meetings in the morning, or less-frequent longer all-day meetings
-- __Format and location__ - is the meeting in-person, virtual or hybrid, and what tools will you need to facilitate it?
-- __Purpose__ - is it for group members to keep everyone informed of their current work, a place where they can ask for help from others, is it for sharing of knowledge, or just team bonding?
+## Data presentations 
 
-We have provided some examples below, from which you can choose what works best for you.
-```
-
-## Example group meeting 1
+These are a great opportunity for researchers within the lab to share their current project progress. Typically these are 45 minute presentations
+where anything goes. Data can be presented in its rawest format or as a polished project overview. The main aim of these
+meeting are to get feedback from others in the lab, to help our projects advance.
+ 
+This could include:
+- project plans 
+- data/ analysis problems 
+- 
 
 Logistics
 - Every day at 10:00am
