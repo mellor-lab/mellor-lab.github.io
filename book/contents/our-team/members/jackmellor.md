@@ -1,7 +1,7 @@
 # Jack Mellor
 
 
-<img src=../../img/members/jackdartmoorhead.jpg width="300">
+<img src="../../img/members/jackdartmoorhead.jpg" width="300">
 
 
 &nbsp;
