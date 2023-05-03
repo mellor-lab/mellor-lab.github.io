@@ -42,7 +42,7 @@ We utilise a range of methodologies including:
 :text-align: center
 :img-top: ../img/projects/bndg.png
 
-<p style='text-align: center;'> Bristol Neuroscience Data Guide </p>
+<p style='text-align: center;'> Bristol neuroscience data guide </p>
 :::
 ::::
 
