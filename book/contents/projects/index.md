@@ -14,8 +14,10 @@ we utalise a range of methodology including:
 
 ## Check out some of our on going projects
 
+&nbsp;
+
 ::::{grid} 1 2 3 4
-:gutter: 5
+:gutter: 3
 
 :::{grid-item-card}
 :link: olm-placecells
@@ -23,15 +25,15 @@ we utalise a range of methodology including:
 :text-align: center
 :img-top: ../img/projects/olm-ca1.png
 
-OLM interneurons regulation of placecells
+<p style='text-align: center;'> OLM interneurons regulation of placecells </p> 
+
 :::
 
 :::{grid-item-card}
 :link: vr-2photon
 :link-type: doc
-:text-align: center
 :img-top: ../img/projects/mouse_VR.png
-Virtual reality and 2photon calcium imaging
+<p style='text-align: center;'> Calcium imaging during exploration in virtual reality </p> 
 :::
 
 :::{grid-item-card}
@@ -40,7 +42,7 @@ Virtual reality and 2photon calcium imaging
 :text-align: center
 :img-top: ../img/projects/bndg.png
 
-Bristol Neuroscience data guide
+<p style='text-align: center;'> Bristol Neuroscience data guide </p>
 :::
 ::::
 
