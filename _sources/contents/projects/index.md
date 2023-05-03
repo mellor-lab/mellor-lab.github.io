@@ -21,7 +21,7 @@ we utalise a range of methodology including:
 :link: olm-placecells
 :link-type: doc
 :text-align: center
-:img-top: ../img/projects/miniscope.gif
+:img-top: ../img/projects/olm-ca1.png
 
 OLM interneurons regulation of placecells
 :::
