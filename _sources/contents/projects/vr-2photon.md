@@ -1,6 +1,6 @@
 # Virtual reality 2photon
 
-This project lead by [Dan Goddwin](../our-team/members/dangoodwin) aims to ...
+This project lead by [Dan Goodwin](../our-team/members/dangoodwin) aims to ...
 
 
 ::::{grid} 1 3 3 3
@@ -9,7 +9,8 @@ This project lead by [Dan Goddwin](../our-team/members/dangoodwin) aims to ...
 :columns: 8
 ```{image} ../img/projects/mouse_VR.png 
 :class: bg-transparent
-:align: center
+:align: left
+:width: 300px
 ```
 :::
 

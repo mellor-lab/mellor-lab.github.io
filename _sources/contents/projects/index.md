@@ -33,6 +33,15 @@ OLM interneurons regulation of placecells
 :img-top: ../img/projects/mouse_VR.png
 Virtual reality and 2photon calcium imaging
 :::
+
+:::{grid-item-card}
+:link: bris-neuro-data-guide
+:link-type: doc
+:text-align: center
+:img-top: ../img/projects/bndg.png
+
+Bristol Neuroscience data guide
+:::
 ::::
 
 
