@@ -20,8 +20,6 @@ parts:
       sections:    
       - file: contents/research-environment/group-meetings
       - file: contents/research-environment/one-to-ones
-      - file: contents/research-environment/journal-club
-      - file: contents/research-environment/tools
     - file: contents/publications 
     - file: contents/funding
 
