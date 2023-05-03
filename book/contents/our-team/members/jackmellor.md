@@ -22,7 +22,7 @@ I graduated from the University of Cambridge in 1995 with a degree in Neurophysi
 
 ### Research:
  
-my research 
+
 
 
 ### Current projects:
