@@ -6,8 +6,8 @@ consist of data presentations/project updates, journal clubs and separate group 
 
 ## Data presentations 
 
-These are a great opportunity for researchers within the lab to `share their current project progress`. Two lab members will typically present a 45 minute presentation each where anything goes. Data can be presented in its rawest format or as a polished project overview. The main aim of these
-meeting are to get `feedback` from others in the lab, to `help our projects advance`.
+These are a great opportunity for researchers within the lab to `share their current project progress`. Two lab members will typically present a 45 minute presentation each, where anything goes. Data can be presented in its rawest format or as a polished project overview. The main aim of these
+meetings are to get `feedback` from others in the lab, to `help our projects advance`.
  
 ### `What we present:`
 - Project outlines  
