@@ -6,7 +6,7 @@
 
 
 Every group member meets with Jack Mellor for 1 hour every 2 months.
-These are scheduled as recurring meetings but can be rescheduled if there is an event clash.
+These are scheduled as recurring meetings but can be reorganised if there is an event clash.
 
 
 ## Meeting purpose
@@ -16,7 +16,7 @@ These are scheduled as recurring meetings but can be rescheduled if there is an 
   -  Get `feedback` on iterations of work
   -  Raise any issues, and `talk through problems`
   -  Get support in accessing support and opportunities (such as [mental health support](https://www.bristol.ac.uk/students/support/wellbeing/), [disability adjustments](http://www.bristol.ac.uk/disability-services/), PhD enrichment schemes or training).
-- For managers/supervisors to:
+- For the team leader to:
   - Understand how work is progressing so that they can best support team members
 - For both to:
   - Agree timelines and goals
