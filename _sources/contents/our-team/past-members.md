@@ -4,7 +4,7 @@
 
 ---
 
-::::{grid} 1 2
+::::{grid} 1 2 2 2
 :gutter: 3
 
 :::{grid-item}
