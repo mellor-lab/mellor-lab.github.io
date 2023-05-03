@@ -1,4 +1,4 @@
-# <center> Mellor Group - Synapses, Plasticity and Cognition lab </center>
+# <center> Mellor Group <br> `Synapses, Plasticity and Cognition lab`</center> 
 
 ```{image} img/Lab_photo_2022.jpeg
 :width: 750px
