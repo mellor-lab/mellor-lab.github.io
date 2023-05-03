@@ -20,7 +20,7 @@
 **Jack Mellor**
 ^^^
 
-![`Jack_Mellor`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+![`Jack_Mellor`](../img/members/jackdartmoorhead.jpg)
 
 **`Jack Mellor`**  
 _Principle investigator_  
@@ -43,7 +43,7 @@ _Principle investigator_
 **Matt Udakis**
 ^^^
 
-![Matt Udakis](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+![Matt Udakis](../img/members/mattudakis.jpg)
 
 **`Matt Udakis`**  
 _Senior Research Associate_  

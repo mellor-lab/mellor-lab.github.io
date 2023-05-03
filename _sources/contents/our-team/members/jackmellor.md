@@ -1,7 +1,7 @@
 # Jack Mellor
 
 
-<img src="https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png" width="300">
+<img src="../../img/members/jackdartmoorhead.jpg" width="300">
 
 
 &nbsp;
@@ -18,16 +18,7 @@ _Principle investigator_
 [<i class="fa-solid fa-envelope"></i>](mailto:USERNAME@ORGANIZATION.NET)
 
 
-About me... 
-
-### Research:
- 
-my research 
-
-
-### Current projects:
-
-- 
+I graduated from the University of Cambridge in 1995 with a degree in Neurophysiology and stayed in Cambridge to study for his PhD on the biophysics and pharmacology of inhibitory synaptic transmission at the MRC Laboratory of Molecular Biology with Andrew Randall. After completing my graduate work in 1998, I worked briefly on science policy at the UK government before joining Roger Nicoll’s laboratory at the University of California San Francisco working on the mechanisms of synaptic plasticity in the hippocampus. In 2002 I returned to the UK and joined the laboratory of John Isaac at the University of Bristol before setting up my own group in 2004 with an MRC funded Career Development Fellowship. I now lead a team that collaborates extensively with academic, clinical and industry partners focussing on how hippocampal network function is modified by synaptic plasticity and neuromodulators and how these processes are perturbed in psychiatric and neurological disorders leading to disruptions in cognition.  
 
 
 &nbsp;
@@ -36,15 +27,17 @@ my research
 ```{admonition} Outside of the lab
 :class: note
 
+- I enjoy being taught by my children 
+- Exploring the Scottish Highlands
+- Surfing (anywhere with waves)
+- Rowing boats
+- Playing music
 
 
 ``` 
 
+---
 
 &nbsp;
 
----
-
-
-### Publications:
 
