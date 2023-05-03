@@ -55,10 +55,6 @@ _Kainate receptors and synaptic plasticity_<br>
 Nair JD, Wilkinson KA, Henley JM, Mellor JR.<br>
 Neuropharmacology, **`2021`** ([article](https://doi.org/10.1016/j.neuropharm.2021.108540))<br>
 
-_Acute Myocardial Dysfunction and Hypereosinophilic Infiltrative Myocarditis Secondary to New-Onset Pediatric Acute Lymphoblastic Leukemia_<br>
-Ogueri VN, Mellor JR, Muralidhar N, MacDonell-Yilmaz R, Welch JJG, Goudie BW, Agarwal S, Rozenfeld RA.<br>
-JACC Case Rep, **`2021`** ([article](https://doi.org/10.1016/j.jaccas.2021.03.017))<br>
-
 &nbsp;
 
  **2020**
@@ -89,10 +85,6 @@ Sci Rep, **`2020`** ([article](https://doi.org/10.1038/s41598-020-59384-7))<br>
  **2019**
 
 ---
-_Baseline training sequence affects speed of emergent conditional discriminations_<br>
-Petursdottir AI, Cox RE, McKeon CA, Mellor JR.<br>
-J Exp Anal Behav, **`2019`** ([article](https://doi.org/10.1002/jeab.539))<br>
-
 _Neuromodulation of hippocampal long-term synaptic plasticity_<br>
 Palacios-Filardo J, Mellor JR.<br>
 Curr Opin Neurobiol, **`2019`** ([article](https://doi.org/10.1016/j.conb.2018.08.009))<br>
@@ -157,10 +149,6 @@ Cereb Cortex, **`2016`** ([article](https://doi.org/10.1093/cercor/bhv227))<br>
  **2015**
 
 ---
-_The Effects of Auditory Tact and Auditory Imagining Instructions on the Emergence of Novel Intraverbals_<br>
-Mellor JR, Barnes CS, Rehfeldt RA.<br>
-Anal Verbal Behav, **`2015`** ([article](https://doi.org/10.1007/s40616-015-0036-0))<br>
-
 _Memory trace replay: the shaping of memory consolidation by neuromodulation_<br>
 Atherton LA, Dupret D, Mellor JR.<br>
 Trends Neurosci, **`2015`** ([article](https://doi.org/10.1016/j.tins.2015.07.004))<br>
@@ -168,15 +156,6 @@ Trends Neurosci, **`2015`** ([article](https://doi.org/10.1016/j.tins.2015.07.00
 _Clathrin-independent trafficking of AMPA receptors_<br>
 Glebov OO, Tigaret CM, Mellor JR, Henley JM.<br>
 J Neurosci, **`2015`** ([article](https://doi.org/10.1523/JNEUROSCI.3571-14.2015))<br>
-
-&nbsp;
-
- **2014**
-
----
-_Implementing the Verbal Behavior Milestones Assessment and Placement Program (VB-MAPP): Teaching Assessment Techniques_<br>
-Barnes CS, Mellor JR, Rehfeldt RA.<br>
-Anal Verbal Behav, **`2014`** ([article](https://doi.org/10.1007/s40616-013-0004-5))<br>
 
 &nbsp;
 
@@ -308,12 +287,21 @@ Biochem Soc Trans, **`2006`** ([article](https://doi.org/10.1042/BST0340949))<br
 
 &nbsp;
 
+ **2003**
+
+---
+_Presynaptic kainate receptors impart an associative property to hippocampal mossy fiber long-term potentiation_<br>
+Schmitz D, Mellor J, Breustedt J, Nicoll RA.<br>
+Nat Neurosci, **`2003`** ([article](https://doi.org/10.1038/nn1116))<br>
+
+&nbsp;
+
  **2002**
 
 ---
-_Modeling of the pore domain of the GLUR1 channel: homology with K+ channel and binding of channel blockers_<br>
-Tikhonov DB, Mellor JR, Usherwood PN, Magazanik LG.<br>
-Biophys J, **`2002`** ([article](https://doi.org/10.1016/S0006-3495(02)75538-0))<br>
+_Mediation of hippocampal mossy fiber long-term potentiation by presynaptic Ih channels_<br>
+Mellor J, Nicoll RA, Schmitz D.<br>
+Science, **`2002`** ([article](https://doi.org/10.1126/science.1064285))<br>
 
 &nbsp;
 
@@ -323,6 +311,22 @@ Biophys J, **`2002`** ([article](https://doi.org/10.1016/S0006-3495(02)75538-0))
 _Synaptically released neurotransmitter fails to desensitize postsynaptic GABA(A) receptors in cerebellar cultures_<br>
 Mellor JR, Randall AD.<br>
 J Neurophysiol, **`2001`** ([article](https://doi.org/10.1152/jn.2001.85.5.1847))<br>
+
+_Presynaptic kainate receptors at hippocampal mossy fiber synapses_<br>
+Schmitz D, Mellor J, Frerking M, Nicoll RA.<br>
+Proc Natl Acad Sci U S A, **`2001`** ([article](https://doi.org/10.1073/pnas.191351498))<br>
+
+_Contrasting localizations of MALS/LIN-7 PDZ proteins in brain and molecular compensation in knockout mice_<br>
+Misawa H, Kawasaki Y, Mellor J, Sweeney N, Jo K, Nicoll RA, Bredt DS.<br>
+J Biol Chem, **`2001`** ([article](https://doi.org/10.1074/jbc.M009334200))<br>
+
+_Presynaptic kainate receptor mediation of frequency facilitation at hippocampal mossy fiber synapses_<br>
+Schmitz D, Mellor J, Nicoll RA.<br>
+Science, **`2001`** ([article](https://doi.org/10.1126/science.1057105))<br>
+
+_Hippocampal mossy fiber LTP is independent of postsynaptic calcium_<br>
+Mellor J, Nicoll RA.<br>
+Nat Neurosci, **`2001`** ([article](https://doi.org/10.1038/83941))<br>
 
 &nbsp;
 
@@ -340,6 +344,14 @@ Neurosci Lett, **`2000`** ([article](https://doi.org/10.1016/s0304-3940(00)01082
 _Tonic benzodiazepine-sensitive GABAergic inhibition in cultured rodent cerebellar granule cells_<br>
 Leao RM, Mellor JR, Randall AD.<br>
 Neuropharmacology, **`2000`** ([article](https://doi.org/10.1016/s0028-3908(99)00177-x))<br>
+
+_Kainate receptors and synaptic plasticity_<br>
+Nicoll RA, Mellor J, Frerking M, Schmitz D.<br>
+Nature, **`2000`** ([article](https://doi.org/10.1038/35023075))<br>
+
+_The actions of synaptically released zinc at hippocampal mossy fiber synapses_<br>
+Vogt K, Mellor J, Tong G, Nicoll R.<br>
+Neuron, **`2000`** ([article](https://doi.org/10.1016/s0896-6273(00)81149-6))<br>
 
 &nbsp;
 
