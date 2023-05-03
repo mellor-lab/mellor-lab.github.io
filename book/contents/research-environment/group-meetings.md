@@ -6,40 +6,49 @@ consist of Data presentations/ project updates, journal clubs and individual gro
 
 ## Data presentations 
 
-These are a great opportunity for researchers within the lab to share their current project progress. Typically these are 45 minute presentations
+These are a great opportunity for researchers within the lab to share their current project progress. Two lab members will typically present for 45 minute presentations
 where anything goes. Data can be presented in its rawest format or as a polished project overview. The main aim of these
 meeting are to get feedback from others in the lab, to help our projects advance.
  
-This could include:
-- project plans 
+**What we present**
+- Project outlines  
 - data/ analysis problems 
-- 
+- Finished analysed data
+- Ideas for grant proposals
 
-Logistics
-- Every day at 10:00am
-- Stand-up meeting in the office with tea/coffee; remote team members via a video call
-- Attendance not required every day, but recommended once per week
 
-Format
-- Quick check-in from each group member, optionally sharing 'one cool thing' they found or tool they started using recently
+&nbsp;
 
-Purpose
-- Allows us to keep pace with developments in a fast-moving subject area
-- Helps us to bond as a team
 
-## Example group meeting 2
+## Journal club
 
-Logistics
-- Every 2 weeks, on a Wednesday morning 10:00am-12:00pm
-- Alternates between an in-person meeting (with remote team members via a video call) and a virtual meeting with everyone on a video call
-- Attendance strongly recommended
+These take the format of a classic journal club. We aim to present a paper that has recently been published that we think
+will be of general interest to the groups attending. 
 
-Format
-- Group members each prepare one slide for a 2-minute update
-- 20-minute slot for one group member to talk about a project in more detail (alternates each time) with 10 minutes for questions
-- Other in-depth items can be added to the agenda, which is circulated in advance
+**Purpous**
+- Great opportunity to delve into the methodology 
+- Gain better understanding of the topic area
+- Improve critical thinking skills
 
-Purpose
-- Allows group members to ask for help from others
-- Gives everyone an understanding of the wider group activities and allows them to ask questions and learn new things
-- Helps us to bond as a team
+These journal clubs can be used to present peer reviewed publications or publications via preprint.
+
+
+&nbsp;
+
+
+## Individual group meetings
+
+These meetings involve us meeting up as a group to discuss lab matters. These meetings can take many forms but are a great opportunity 
+for us to discuss lab issues, problems that we might be facing in our projects or just a chit chat about how we are getting on. 
+
+**What we discuss**
+- Discuss what we have been working 
+- Present recent findings to the group.
+- Describe problems and problem solve through solutions 
+- Discuss failures to normalise the pitfalls of science research
+
+
+```{admonition} The unwritten rule
+In general if you are presenting you have to feed the audiance by providing treats in the form of 
+pasteries, cake or fruit.  
+```
