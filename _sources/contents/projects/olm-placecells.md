@@ -1,6 +1,6 @@
 # OLM interneuron regulation of place cells
 
-This project lead by [matt udakis](../our-team/members/mattudakis) aims to investigate how OLM interneurons
+This project led by [Matt Udakis](../our-team/members/mattudakis) aims to investigate how OLM interneurons
 regulate place cell activity, formation and stability in the hippocampus. 
 
 ::::{grid} 1 3 3 3
@@ -23,14 +23,14 @@ regulate place cell activity, formation and stability in the hippocampus.
 
 ::::
 
-*hippocampal pyramidal neurons during spatial navigation* 
+*hippocampal pyramidal neurons activity during spatial navigation* 
 
 ### Aim:
-We aim to investigate how OLM interneurons regulate synaptic plasticity leading to place cell formation and maintain their stability over multiple environements.
+We aim to investigate how OLM interneurons regulate synaptic plasticity leading to place cell formation and maintainance of their stability over multiple environements.
 
 ### Techniques:
-We use in vivo calcium imaging to record from CA1 place cells whilst animals explore familar and novel environments over multiple days
-we are combining this with optogentic tools to peterb OLM inhibitory interneurons during exploration. 
-In vivo work is complemented by brain slice 2photon microscopy to understand the potential role these interneurons have in controlling placecell plasticity at a dendritic level. 
+We use in vivo calcium imaging to record from CA1 place cells whilst animals explore familar and novel environments across multiple days
+we are combining this with optogenetic tools to perterb OLM inhibitory interneurons during exploration. 
+This in vivo work is complemented by brain slice electrophysiology and  2photon microscopy to understand the potential role these interneurons have in controlling place cell plasticity at a dendritic level. 
 
 
