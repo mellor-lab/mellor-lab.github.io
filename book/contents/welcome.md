@@ -15,4 +15,4 @@ How memory is encoded is dependent on the behavioural context of learnt informat
 
 To address these questions we use an array of technical approaches including ex vivo and in vivo electrophysiology, optogenetics and 2-photon imaging combined with behavioural assays and computational modelling.
 
-Check out our [`Current projects`](projects/index) and our [`Recent publications`](publications).
+Check out our [Current projects](projects/index) and our [Recent publications](publications).
