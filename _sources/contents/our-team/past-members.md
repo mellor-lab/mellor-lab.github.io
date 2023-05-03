@@ -9,8 +9,8 @@
 
 :::{grid-item}
 
-```{image} ../img/labretreats/Lab_photo_2021.jpg
-:target: ../../_images/lab_photo_2021.jpg
+```{image} ../img/labretreats/labphoto_2021.jpg
+:target: ../../_images/labphoto_2021.jpg
 
 ```
 _lab retreat 2021_
@@ -20,8 +20,8 @@ _lab retreat 2021_
 :::{grid-item}
 
 
-```{image} ../img/labretreats/Lab_photo_2020.jpg
-:target: ../../_images/lab_photo_2020.jpg
+```{image} ../img/labretreats/labphoto_2020.jpg
+:target: ../../_images/labphoto_2020.jpg
 ```
 _lab retreat 2020_
 
@@ -29,8 +29,8 @@ _lab retreat 2020_
 
 :::{grid-item}
 
-```{image} ../img/labretreats/Lab_photo_2019.jpeg
-:target: ../../_images/lab_photo_2019.jpg
+```{image} ../img/labretreats/labphoto_2019.jpg
+:target: ../../_images/labphoto_2019.jpg
 ```
 _lab retreat 2019_
 
@@ -38,8 +38,8 @@ _lab retreat 2019_
 
 :::{grid-item}
 
-```{image} ../img/labretreats/Lab_photo_2018.jpg
-:target: ../../_images/lab_photo_2018.jpg
+```{image} ../img/labretreats/labphoto_2018.jpg
+:target: ../../_images/labphoto_2018.jpg
 ```
 _lab retreat 2018_
 
@@ -47,8 +47,8 @@ _lab retreat 2018_
 
 :::{grid-item}
 
-```{image} ../img/labretreats/Lab_photo_2017.jpg
-:target: ../../_images/lab_photo_2017.jpg
+```{image} ../img/labretreats/labphoto_2017.jpg
+:target: ../../_images/labphoto_2017.jpg
 ```
 _lab retreat 2017_
 
@@ -57,16 +57,16 @@ _lab retreat 2017_
 
 :::{grid-item}
 
-```{image} ../img/labretreats/Lab_photo_2016.jpg
-:target: ../../_images/lab_photo_2016.jpg
+```{image} ../img/labretreats/labphoto_2016.jpg
+:target: ../../_images/labphoto_2016.jpg
 ```
 _lab retreat 2016_
 :::
 
 :::{grid-item}
 
-```{image} ../img/labretreats/Lab_photo_2012.jpg
-:target: ../../_images/lab_photo_2012.jpg
+```{image} ../img/labretreats/labphoto_2012.jpg
+:target: ../../_images/labphoto_2012.jpg
 ```
 _lab retreat 2012_
 
