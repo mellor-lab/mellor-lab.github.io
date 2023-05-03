@@ -3,7 +3,25 @@
 This project lead by [matt udakis](../our-team/members/mattudakis) aims to investigate how OLM interneurons
 regulate placecell activity, formation and stability in the hippocampus. 
 
-<img src="../img/inscopix_project.png" width="490" height="250"  margin="50px"> <img src="../img/miniscope_gif_2.gif" height="250"><br>
+::::{grid} 1 2 2 2
+
+:::{grid-item}
+
+:::{image} ../img/inscopix_project.png 
+
+:::
+
+
+:::{grid-item}
+
+:::{image} ../img/miniscope_gif_2.gif
+:width: 200px 
+:::
+
+
+
+::::
+
 *hippocampal pyramidal neurons during spatial navigation* 
 
 ### Aim:
