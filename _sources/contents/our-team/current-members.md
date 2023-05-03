@@ -11,7 +11,7 @@
 ---
 
 ::::{grid} 1 2 2 2
-:gutter: 2
+:gutter: 5
 
 :::{grid-item-card}
 :link: members/jackmellor
@@ -33,7 +33,7 @@ _Principle investigator_
 ## Postdocs
 
 ::::{grid} 1 2 2 2
-:gutter: 2
+:gutter: 5
 
 
 :::{grid-item-card}
@@ -87,7 +87,7 @@ _Research Associate_
 ## PhD Students
 
 ::::{grid} 1 2 2 2
-:gutter: 2
+:gutter: 5
 
 
 :::{grid-item-card}

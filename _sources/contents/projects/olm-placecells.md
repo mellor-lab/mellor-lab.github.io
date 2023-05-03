@@ -8,7 +8,7 @@ regulate placecell activity, formation and stability in the hippocampus.
 :::{grid-item}
 
 :::{image} ../img/inscopix_project.png 
-
+:align: center
 :::
 
 
@@ -16,6 +16,7 @@ regulate placecell activity, formation and stability in the hippocampus.
 
 :::{image} ../img/miniscope_gif_2.gif
 :width: 200px 
+:align: center
 :::
 
 
