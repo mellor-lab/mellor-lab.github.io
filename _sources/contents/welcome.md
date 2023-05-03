@@ -1,13 +1,13 @@
-# <center> The Mellor Group </center>
+# <center> Mellor Group - Synapses, Plasticity and Cognition lab </center>
 
 ```{image} img/Lab_photo_2022.jpeg
 :width: 750px
 :align: center
 ```
 
-### Welcome to our group handbook
+### Welcome to our group webpages
 
-[`The Mellor Group`](our-team/current-members) based at Bristol University aims to help understand the mechanisms of learning and memory within the hippocampus. 
+[`The Mellor Group`](our-team/current-members) based at the University of Bristol aims to understand the mechanisms of learning and memory within the hippocampus. 
 
 Check out our [`Current projects`](projects/index) and our [`Recent publications`](publications).
 

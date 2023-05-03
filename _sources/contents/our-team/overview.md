@@ -1,6 +1,6 @@
 ## The Team
 
-Our team, led by Jack Mellor, is a mixture of both Postdocs and PhD students working on a variety of different [projects](../projects/index)
+Our team, led by Jack Mellor, is a mixture of Postdoctoral researchers and Postgraduate students working on a variety of [projects](../projects/index)
 We are a friendly and approachable group who work together to do the best science we can.
 
 ```{admonition} Our members

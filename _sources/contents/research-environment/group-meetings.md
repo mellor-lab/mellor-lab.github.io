@@ -1,45 +1,50 @@
 # Group meetings
 
-```{admonition} FIXME Instructions
-Group meetings (not be confused with [one-to-one](one-to-ones) meetings) can take many forms and serve different purposes.
-Generally speaking, they should be some form of regular meeting that all (or most) of your group attends.
+We run collaborative group meetings with the groups of Mike Ashby and Paul Anastasiades. These run on three weekly cycles and 
+consist of Data presentations/ project updates, journal clubs and individual group meetings.
 
-Things to consider:
+&nbsp;
 
-- __Time, frequency and length of the meetings__ - you could have more-frequent shorter meetings in the morning, or less-frequent longer all-day meetings
-- __Format and location__ - is the meeting in-person, virtual or hybrid, and what tools will you need to facilitate it?
-- __Purpose__ - is it for group members to keep everyone informed of their current work, a place where they can ask for help from others, is it for sharing of knowledge, or just team bonding?
+## Data presentations 
 
-We have provided some examples below, from which you can choose what works best for you.
+These are a great opportunity for researchers within the lab to share their current project progress. Two lab members will typically present for 45 minute presentations
+where anything goes. Data can be presented in its rawest format or as a polished project overview. The main aim of these
+meeting are to get feedback from others in the lab, to help our projects advance.
+ 
+**What we present:**
+- Project outlines  
+- data/ analysis problems 
+- Finished analysed data
+- Ideas for grant proposals
+
+
+## Journal club
+
+These take the format of a classic journal club. We aim to present a paper that has recently been published that we think
+will be of general interest to the groups attending. 
+
+**Purpose:**
+- Great opportunity to delve into the methodology 
+- Gain better understanding of the topic area
+- Improve critical thinking skills
+
+These journal clubs can be used to present peer reviewed publications or publications via preprint.
+
+
+## Individual group meetings
+
+These meetings involve us meeting up as a group to discuss lab matters. These meetings can take many forms but are a great opportunity 
+for us to discuss lab issues, problems that we might be facing in our projects or just a chit chat about how we are getting on. 
+
+**What we discuss:**
+- Discuss what we have been working 
+- Present recent findings to the group.
+- Describe problems and problem solve through solutions 
+- Discuss failures to normalise the pitfalls of science research
+
+&nbsp;
+
+```{admonition} The unwritten rule
+If you are presenting you have to feed the audience by providing treats in the form of 
+pastries, cake or fruit.  
 ```
-
-## Example group meeting 1
-
-Logistics
-- Every day at 10:00am
-- Stand-up meeting in the office with tea/coffee; remote team members via a video call
-- Attendance not required every day, but recommended once per week
-
-Format
-- Quick check-in from each group member, optionally sharing 'one cool thing' they found or tool they started using recently
-
-Purpose
-- Allows us to keep pace with developments in a fast-moving subject area
-- Helps us to bond as a team
-
-## Example group meeting 2
-
-Logistics
-- Every 2 weeks, on a Wednesday morning 10:00am-12:00pm
-- Alternates between an in-person meeting (with remote team members via a video call) and a virtual meeting with everyone on a video call
-- Attendance strongly recommended
-
-Format
-- Group members each prepare one slide for a 2-minute update
-- 20-minute slot for one group member to talk about a project in more detail (alternates each time) with 10 minutes for questions
-- Other in-depth items can be added to the agenda, which is circulated in advance
-
-Purpose
-- Allows group members to ask for help from others
-- Gives everyone an understanding of the wider group activities and allows them to ask questions and learn new things
-- Helps us to bond as a team
