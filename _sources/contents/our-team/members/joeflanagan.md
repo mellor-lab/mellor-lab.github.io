@@ -16,16 +16,25 @@ _PhD Student_
 [<i class="fa-solid fa-building-columns" style="color: #d74242;"></i>](http://www.bristol.ac.uk/phys-pharm-neuro/)
 [<i class="fa-solid fa-envelope"></i>](mailto:USERNAME@ORGANIZATION.NET)
 
-About me... 
+I graduated from UCL with a MSci Natural Sciences in 2022 with a background spanning neuroscience, pharmacology, psychology, and organic chemistry. 
+I join Jack Mellor's as a PhD student in 2022.
+
+I'm fascinated by the mechanistic role that dysfunctional endocannabinoid and serotonergic signalling 
+plays in the pathophysiology of neuropsychiatric disorders, neurodegenerative diseases, 
+and cancer; and how compounds targeting dysfunctional endocannabinoid and serotonergic 
+signalling (i.e., cannabinoids and psychedelics) may prove to be breakthrough treatments for these 
+debilitating disorders/diseases that currently lack efficacious pharmacotherapies.
+ 
 
 ### Research:
- 
-my research 
 
+I'm currently researching the molecular and synaptic mechanisms which underlie the sustained antidepressant 
+effects of NMDA receptor antagonists a project jointly supervised by Jack Mellor and Emma Robbinson. 
 
 ### Current projects:
 
 - 
+
 
 
 &nbsp;
