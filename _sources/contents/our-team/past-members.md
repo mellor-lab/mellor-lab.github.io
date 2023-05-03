@@ -4,7 +4,7 @@
 
 ---
 
-::::{grid} 2
+::::{grid} 1 2
 :gutter: 3
 
 :::{grid-item}
@@ -64,7 +64,7 @@ _lab retreat 2012_
 ---
 
 
-::::{grid} 4
+::::{grid} 1 2 3 4
 :gutter: 3
 
 :::{grid-item-card}

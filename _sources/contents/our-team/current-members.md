@@ -10,7 +10,7 @@
 
 ---
 
-::::{grid} 2
+::::{grid} 1 2
 :gutter: 5
 
 :::{grid-item-card}
@@ -32,7 +32,7 @@ _Principle investigator_
 
 ## Postdocs
 
-::::{grid} 2
+::::{grid} 1 2
 :gutter: 5
 
 
@@ -86,7 +86,7 @@ _Research Associate_
 
 ## PhD Students
 
-::::{grid} 2
+::::{grid} 1 2
 :gutter: 5
 
 
