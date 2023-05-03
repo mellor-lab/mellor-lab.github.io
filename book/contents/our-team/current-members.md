@@ -20,7 +20,7 @@
 **Jack Mellor**
 ^^^
 
-![`Jack_Mellor`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+![`Jack_Mellor`](../../img/members/jackdartmoorhead.jpg)
 
 **`Jack Mellor`**  
 _Principle investigator_  
