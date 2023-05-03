@@ -23,7 +23,7 @@ with open('book\contents\publications.md', 'w') as file:
         # pubmed gets some old papers that are not Jacks
         if year >= 1990:
             if not curr_year == prev_year:
-                file.write('&nbsp;\n\n **{}**\n\n---\n'.format(year))
+                file.write('&nbsp;\n\n ### `{}`\n\n---\n'.format(year))
                             
             # Print a formatted string containing the title and author
             file.write('_{}_<br>\n{}<br>\n{}, **`{}`** ([article](https://doi.org/{}))<br>\n\n'.format(title, author, journal, year,DOI))

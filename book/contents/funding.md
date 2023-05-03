@@ -1,15 +1,21 @@
 # Funding 
 
-**We are generously funded by:**
 
--Medical Research Council (MRC, UKRI)
+## `We are generously funded by:`
 
--Biotechnology and Biological Sciences Research Council (BBSRC, UKRI)
+- Medical Research Council (MRC, UKRI)
 
--Research England (UKRI) 
+- Biotechnology and Biological Sciences Research Council (BBSRC, UKRI)
 
--Wellcome Trust
+- Research England (UKRI) 
 
--Boehringer Ingelheim
+- Wellcome Trust
 
--COMPASS Pathways
+- Boehringer Ingelheim
+
+- COMPASS Pathways
+
+
+&nbsp;
+
+
