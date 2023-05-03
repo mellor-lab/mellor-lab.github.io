@@ -14,7 +14,7 @@ parts:
     - file: contents/projects/index
       sections:
         - file: contents/projects/olm-placecells
-        - file: contents/projects/project2
+        - file: contents/projects/vr-2photon
     - file: contents/research-environment/how-we-work
       sections:    
       - file: contents/research-environment/group-meetings
