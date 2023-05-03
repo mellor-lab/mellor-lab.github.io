@@ -5,53 +5,68 @@
 ---
 
 ::::{grid} 1 2 2 2
-:gutter: 3
+:gutter: 2
 
 :::{grid-item}
 
-<img src="../img/labretreats/Lab_photo_2021.jpg" height="300"><br>
+```{image} ../img/labretreats/Lab_photo_2021.jpg
+:height: 250
+```
 _lab retreat 2021_
-
 :::
 
+
 :::{grid-item}
 
-<img src="../img/labretreats/Lab_photo_2020.jpg" height="300"><br>
+
+```{image} ../img/labretreats/Lab_photo_2020.jpg
+:height: 250
+```
 _lab retreat 2020_
 
 :::
 
 :::{grid-item}
 
-<img src="../img/labretreats/Lab_photo_2019.jpeg" height="300"><br>
+```{image} ../img/labretreats/Lab_photo_2019.jpeg
+:height: 250
+```
 _lab retreat 2019_
 
 :::
 
 :::{grid-item}
 
-<img src="../img/labretreats/Lab_photo_2018.jpg" height="300"><br>
+```{image} ../img/labretreats/Lab_photo_2018.jpg
+:height: 250
+```
 _lab retreat 2018_
 
 :::
 
 :::{grid-item}
 
-<img src="../img/labretreats/Lab_photo_2017.jpg" height="300"><br>
+```{image} ../img/labretreats/Lab_photo_2017.jpg
+:height: 250
+```
 _lab retreat 2017_
 
+
 :::
 
 :::{grid-item}
 
-<img src="../img/labretreats/Lab_photo_2016.jpg" height="300"><br>
+```{image} ../img/labretreats/Lab_photo_2016.jpg
+:height: 250
+```
 _lab retreat 2016_
-
 :::
 
 :::{grid-item}
 
-<img src="../img/labretreats/Lab_photo_2012.jpg" height="300"><br>
+```{image} ../img/labretreats/Lab_photo_2012.jpg
+:height: 250
+```
 _lab retreat 2012_
 
 :::
