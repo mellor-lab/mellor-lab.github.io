@@ -1,4 +1,4 @@
-# Virtual reality 2photon
+# Imaging neuronal activity in vivo during exploration in virtual reality
 
 This project lead by [Dan Goodwin](../our-team/members/dangoodwin) aims to ...
 
