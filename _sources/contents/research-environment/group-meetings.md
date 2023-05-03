@@ -43,7 +43,7 @@ These meetings are a chance to `check in` with day-to-day progress, `problem sol
 
 &nbsp;
 
-```{admonition} The unwritten rule
+```{admonition} The unwritten rule 
 If you are presenting you have to feed the audience by providing treats in the form of 
-pastries, cake or fruit.  
+pastries, cake or fruit. 🍩 🍰 🍏  
 ```
