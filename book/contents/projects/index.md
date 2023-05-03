@@ -25,7 +25,7 @@ We utilise a range of methodologies including:
 :text-align: center
 :img-top: ../img/projects/olm-ca1.png
 
-<p style='text-align: center;'> OLM interneurons regulation of placecells </p> 
+<p style='text-align: center;'> OLM interneurons regulation of place cells </p> 
 
 :::
 
@@ -42,7 +42,7 @@ We utilise a range of methodologies including:
 :text-align: center
 :img-top: ../img/projects/bndg.png
 
-<p style='text-align: center;'> Bristol Neuroscience data guide </p>
+<p style='text-align: center;'> Bristol Neuroscience Data Guide </p>
 :::
 ::::
 
