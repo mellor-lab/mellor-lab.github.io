@@ -26,6 +26,7 @@ These are scheduled as recurring meetings but can be rescheduled if there is an 
   - practising talks/interviews (we can also do this at [group-meetings](group-meetings)
   - demonstrating technology/methods that might be useful to one-another
 
+---
 
 ## Guidelines
 The following guidelines exist to help us get the best out of meetings.
@@ -40,7 +41,7 @@ Individuals might agree on different format if it suits them better.
 - Have any files or materials ready to show
 - When you present a problem, also attempt to find a solution.
 
----
+&nbsp;
 
 ```{note} 
 One-to-one meetings aren't the only contact you'll have with the team, sometimes [group meetings](group-meetings) can be better places to get feedback from more people.

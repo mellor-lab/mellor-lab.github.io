@@ -3,7 +3,6 @@
 We run collaborative weekly meetings with the groups of `Mike Ashby` and `Paul Anastasiades`. These run on three weekly cycles and 
 consist of data presentations/project updates, journal clubs and separate group meetings.
 
-&nbsp;
 
 ## Data presentations 
 
@@ -16,6 +15,7 @@ meeting are to get `feedback` from others in the lab, to `help our projects adva
 - Finished analysed data
 - Ideas for grant proposals
 
+---
 
 ## Journal club
 
@@ -29,6 +29,7 @@ will be of `general interest` to the groups attending.
 
 These journal clubs can be used to present peer reviewed publications or published preprints.
 
+---
 
 ## Individual group meetings
 
