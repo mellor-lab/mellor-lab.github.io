@@ -1,19 +1,15 @@
 # This is a basic workflow to help you get started with Actions
 
-name: build-site
+name: deploy-book
 
-# Controls when the action will run.
+# Controls when the action will run. 
 on:
   # Triggers the workflow on push or pull request events but only for the main branch for the book content directory.
   push:
     branches: [ main ]
     paths:
       book/**
-
-  pull_request:
-    branches: [ main ]
-    paths:
-      book/**
+    
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -43,3 +39,9 @@ jobs:
       - name: Build the book
         run: |
           jupyter-book build book
+      # Push the book's HTML to github-pages
+      - name: GitHub Pages action
+        uses: peaceiris/actions-gh-pages@v3.6.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: book/_build/html
