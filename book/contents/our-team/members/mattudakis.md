@@ -18,20 +18,20 @@ _Senior Research Associate_
 
 I started my neuroscience adventures with a PhD in 2012 at the University of Bath, UK where I investigated the role of nicotinic acetylcholine receptors in the 
 mechanisms of learning and memory in the prefrontal cortex, using brain slice electrophysisology with optogenetics.
-In 2016 I join Jack's lab as a postdoc where my research focuses on understanding the roles inhibitory interenruson in learning and memory mechanisms within the hippocampus.
+In 2016 I join Jack's lab as a postdoc where my research focuses on understanding the roles different inhibitory interneurons in the hippocmapus regulate learning and memory mechanisms. 
 
 
 ### Research:
  
-My research within the lab started in 2016 where I investigated the interneuron subtype specifictiy of hippocampal inhibtory synaptic plasticity.
-Using brain slice electrophysiology and optogenetics we uncovered inhibitory plasticity rules unique to PV and SST interneurons in collaboration with Claudia Clopaths lab. [Udakis et al 2020](https://www.nature.com/articles/s41467-020-18074-8) 
+My research within the lab started with a project investigating the interneuron subtype specifictiy of hippocampal inhibtory synaptic plasticity.
+Using brain slice electrophysiology and optogenetics we uncovered inhibitory plasticity rules unique to PV and SST interneurons whilst computational modelling  in collaboration with Claudia Clopath's lab provided an hypothesis for how this plasticity might alter place cell stability. [Udakis et al 2020](https://www.nature.com/articles/s41467-020-18074-8) 
 
-Since then my research in the lab has focused on the role these interneurons have on hippocmpal placecell formation and stability.
-I use a combinatation of 2photon microscopy, brain slice electrophysiology and in vivo miniscope recording of placecells 
+Since then my research in the lab has focused on testing this hypothesis and trying to understant the role these interneurons have on hippocampal place cell formation and stability.
+I use a combinatation of 2-photon microscopy, brain slice electrophysiology and in vivo calcium imaging of place cells via miniscope recordings. 
 
 ### Current projects:
 
-- [OLM interneurons and placecell stability](../../projects/olm-placecells)
+- [OLM interneurons and place cell stability](../../projects/olm-placecells)
 
 
 &nbsp;
@@ -40,7 +40,8 @@ I use a combinatation of 2photon microscopy, brain slice electrophysiology and i
 ```{admonition} Outside of the lab
 :class: note
 - I love to play squash. 
-- Make interesting electronics projects. 
+- Make interesting electronics projects.
+- Watch as much football as possible. 
 - Tell everyone about my cat Ralph!
 ``` 
 

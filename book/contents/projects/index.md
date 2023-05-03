@@ -1,14 +1,14 @@
 # Our Projects
 
-We have a range of projects within our group spanning from the molecular level to the systems level, with collaboration a key to our success
-we utalise a range of methodology including:
+We have a range of ongoing projects within our group spanning from the molecular to the systems level, with collaboration a key to our success.
+We utilise a range of methodologies including:
 - Brain slice electrophysiology 
-- 2photon calcium imaging in brain slices
-- Head fixed virtual reality with 2photon calcium imaging 
+- 2-photon imaging in brain slices
+- Behaviour in virtual reality with 2-photon imaging 
+- Calcium imaging with minaturised microscopes
 - Molecular Biochemistry 
-- Animal behavioor
+- Animal behaviour
 - Computational modelling 
-- in vivo calcium imaging with minaturised microscopes
 
 ---
 
@@ -25,7 +25,7 @@ we utalise a range of methodology including:
 :text-align: center
 :img-top: ../img/projects/olm-ca1.png
 
-<p style='text-align: center;'> OLM interneurons regulation of placecells </p> 
+<p style='text-align: center;'> OLM interneurons regulation of place cells </p> 
 
 :::
 
@@ -42,7 +42,7 @@ we utalise a range of methodology including:
 :text-align: center
 :img-top: ../img/projects/bndg.png
 
-<p style='text-align: center;'> Bristol Neuroscience data guide </p>
+<p style='text-align: center;'> Bristol neuroscience data guide </p>
 :::
 ::::
 

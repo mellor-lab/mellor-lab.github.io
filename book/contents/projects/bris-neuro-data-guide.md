@@ -1,6 +1,6 @@
-# Bristol Neuroscience data guide
+# Bristol neuroscience data guide
 
-This project lead by [Martynas Dervinis](../our-team/members/martynasdervinis) aims to ...
+This project led by [Martynas Dervinis](../our-team/members/martynasdervinis) aims to ...
 
 
 ::::{grid} 1 3 3 3
