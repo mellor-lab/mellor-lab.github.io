@@ -202,7 +202,7 @@ _Postdoc_
 ![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
 -->
 
-**`Cezar Tigret`**  
+**`Cezar Tigaret`**  
 _Postdoc_  
 
 :::
