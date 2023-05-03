@@ -2,7 +2,7 @@
 
 &nbsp;
 
-![Hippocampus](../img/Lab_photo_2022.jpeg)
+![Hippocampus](../img/lab_photo_2022.jpg)
 
 &nbsp;
 
