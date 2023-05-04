@@ -19,7 +19,8 @@ parts:
         - file: contents/projects/bris-neuro-data-guide
         - file: contents/projects/antidepressant-ketamine
           title: Sustained antidepressant effects of ketamine
-
+        - file: contents/projects/adaptive-learning
+          title: Choliniergic mediated adaptive learning
     - file: contents/research-environment/how-we-work
       sections:    
       - file: contents/research-environment/group-meetings

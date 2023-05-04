@@ -46,6 +46,15 @@ We utilise a range of methodologies including:
 :::
 
 :::{grid-item-card}
+:link: adaptive-learning
+:link-type: doc
+:text-align: center
+:img-top: ../img/projects/ms_slice.png
+
+<p style='text-align: center;'> Cholinergic mediated adaptive learning and machine learning models </p>
+:::
+
+:::{grid-item-card}
 :link: antidepressant-ketamine
 :link-type: doc
 :text-align: center
