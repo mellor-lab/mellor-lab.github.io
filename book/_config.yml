@@ -6,7 +6,7 @@ url: "http://mellor-lab.github.io/mellor_lab_handbook"
 
 
 html:
-    google_analytics_id       : G-DFGRNXM71K
+    google_analytics_id       : "G-DFGRNXM71K"
     home_page_in_navbar       : false
     logo_only                 : true
     extra_navbar: |
