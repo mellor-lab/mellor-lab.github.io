@@ -53,5 +53,3 @@ effects of NMDA receptor antagonists Ketamine a project jointly supervised by Ja
 ---
 
 
-### Publications:
-
