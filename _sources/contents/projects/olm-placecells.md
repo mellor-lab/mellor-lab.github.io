@@ -27,11 +27,11 @@ regulate place cell activity, formation and stability in the hippocampus.
 *hippocampal pyramidal neurons activity during spatial navigation* 
 
 ### Aim:
-We aim to investigate how OLM interneurons regulate synaptic plasticity leading to place cell formation and maintainance of their stability over multiple environements.
+We aim to investigate how OLM interneurons regulate synaptic plasticity leading to place cell formation and maintenance of their stability over multiple environments.
 
 ### Techniques:
-We use in vivo calcium imaging to record from CA1 place cells whilst animals explore familar and novel environments across multiple days
-we are combining this with optogenetic tools to perterb OLM inhibitory interneurons during exploration. 
+We use in vivo calcium imaging to record from CA1 place cells whilst animals explore familiar and novel environments across multiple days
+we are combining this with optogenetic tools to perturb OLM inhibitory interneurons during exploration. 
 This in vivo work is complemented by brain slice electrophysiology and  2photon microscopy to understand the potential role these interneurons have in controlling place cell plasticity at a dendritic level. 
 
 

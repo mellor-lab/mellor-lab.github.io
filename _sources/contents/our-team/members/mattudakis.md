@@ -13,7 +13,7 @@ _Senior Research Associate_
 [<i class="fa-brands fa-researchgate" style="color: #57dba8;"></i>](https://www.researchgate.net/profile/Matt-Udakis)
 [<i class="fa-brands fa-github" style="color: #696969;"></i>](https://www.github.com/mattudakis)
 [<i class="fa-solid fa-building-columns" style="color: #d74242;"></i>](https://research-information.bris.ac.uk/en/persons/matt-udakis)
-[<i class="fa-solid fa-envelope"></i>](mailto:USERNAME@ORGANIZATION.NET)
+[<i class="fa-solid fa-envelope"></i>](mailto:matt.udakis@bristol.ac.uk)
 <!--[<i class="fa-brands fa-orcid" style="color: #6eee5d;"></i>](https://www.orcid.org)-->
 
 I started my neuroscience adventures with a PhD in 2012 at the University of Bath, UK where I investigated the role of nicotinic acetylcholine receptors in the 
