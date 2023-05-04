@@ -2,7 +2,7 @@
 
 &nbsp;
 
-We believe in an `open team science` approach that supports researchers to take risks and fulfill their potential. 
+We believe in an `open team science` approach that supports researchers to take risks and fulfil their potential. 
 Within the team we operate a flat structure where all voices are equal and valued. 
 
 We set challenging goals of each other but acknowledge that it's not always possible to achieve everything. 

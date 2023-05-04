@@ -1,6 +1,6 @@
 # Group meetings
 
-We run collaborative weekly meetings with the groups of `Mike Ashby` and `Paul Anastasiades`. These run on three weekly cycles and 
+We run collaborative weekly meetings with the groups of [Mike Ashby](https://research-information.bris.ac.uk/en/persons/michael-c-ashby) and [Paul Anastasiades](https://research-information.bris.ac.uk/en/persons/paul-g-anastasiades). These run on three weekly cycles and 
 consist of data presentations/project updates, journal clubs and separate group meetings.
 
 
@@ -27,7 +27,7 @@ will be of `general interest` to the groups attending.
 - Gain better understanding of the topic area
 - Improve critical thinking skills
 
-These journal clubs can be used to present peer reviewed publications or published preprints.
+These [journal clubs](journal-club) can be used to present peer reviewed publications or published preprints.
 
 ---
 

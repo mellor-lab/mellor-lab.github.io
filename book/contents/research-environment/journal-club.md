@@ -1,8 +1,5 @@
 # Journal club
-```{admonition} FIXME Instructions
-For Group's with a journal club fill in the information below.
-Edit or delete sections as appropriate.
-```
+
 We run a journal club where we come together as a group and discuss papers of interest. 
 This club is particularly useful for early career researchers but will be of interest to everyone.
 The club is informal and participation is strongly encouraged.
@@ -14,8 +11,8 @@ The club is informal and participation is strongly encouraged.
 
 Basic rules for the meeting:
 - Listen to other people.
-Do not talk over people.
+- Do not talk over people.
 - Do not be afraid to voice your opinion.
-This is supposed to be an informal meeting.
+- This is supposed to be an informal meeting.
 - Read the papers in advance.
 - If you are leading the session think of some areas for discussion in advance and keep the conversation flowing.

@@ -14,8 +14,8 @@ _Principle investigator_
 <!--[<i class="fa-brands fa-researchgate" style="color: #57dba8;"></i>](https://www.researchgate.com)-->
 [<i class="fa-brands fa-orcid" style="color: #6eee5d;"></i>](https://orcid.org/0000-0002-7706-8105)
 [<i class="fa-brands fa-github" style="color: #696969;"></i>](https://www.github.com/mellor-lab)
-[<i class="fa-solid fa-building-columns" style="color: #d74242;"></i>](https://www.bristol.ac.uk/people/person/Jack-Mellor-72952ade-4a8b-4c91-8a8e-d7bea0689832/)
-[<i class="fa-solid fa-envelope"></i>](mailto:USERNAME@ORGANIZATION.NET)
+[<i class="fa-solid fa-building-columns" style="color: #d74242;"></i>](https://research-information.bris.ac.uk/en/persons/jack-r-mellor)
+[<i class="fa-solid fa-envelope"></i>](mailto:jack.mellor@bristol.ac.uk)
 
 
 I graduated from the University of Cambridge in 1995 with a degree in Neurophysiology and stayed in Cambridge to study for a PhD on the biophysics and pharmacology of inhibitory synaptic transmission at the MRC Laboratory of Molecular Biology with Andrew Randall. 

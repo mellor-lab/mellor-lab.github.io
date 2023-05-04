@@ -5,7 +5,7 @@ We utilise a range of methodologies including:
 - Brain slice electrophysiology 
 - 2-photon imaging in brain slices
 - Behaviour in virtual reality with 2-photon imaging 
-- Calcium imaging with minaturised microscopes
+- Calcium imaging with miniaturised microscopes
 - Molecular Biochemistry 
 - Animal behaviour
 - Computational modelling 
@@ -51,7 +51,7 @@ We utilise a range of methodologies including:
 :text-align: center
 :img-top: ../img/projects/ketamine-structure.png
 
-<p style='text-align: center;'> Ketamines sustained antidepressant effects </p>
+<p style='text-align: center;'> Ketamine’s sustained antidepressant effects </p>
 :::
 
 ::::
