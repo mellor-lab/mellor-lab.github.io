@@ -6,6 +6,7 @@ url: "http://mellor-lab.github.io/mellor_lab_handbook"
 
 
 html:
+    google_analytics_id: G-DFGRNXM71K
     home_page_in_navbar       : false
     logo_only                 : true
     extra_navbar: |
@@ -13,7 +14,7 @@ html:
             Handbook created using <a href="https://github.com/very-good-science/our-meta-handbook">Our Handbook</a>.
             Powered by <a href="https://jupyterbook.org/">Jupyter Book</a>.
         </div>
-    google_analytics_id: G-DFGRNXM71K
+    
 
 sphinx:
     extra_extensions:
