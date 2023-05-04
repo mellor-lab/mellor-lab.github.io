@@ -11,6 +11,7 @@ This project led by [Dan Goodwin](../our-team/members/dangoodwin) aims to ...
 :class: bg-transparent
 :align: left
 :width: 300px
+:class: no-scaled-link
 ```
 :::
 

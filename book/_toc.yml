@@ -17,6 +17,9 @@ parts:
         - file: contents/projects/vr-2photon
           title: Calcium imaging during navigation in VR
         - file: contents/projects/bris-neuro-data-guide
+        - file: contents/projects/antidepressant-ketamine
+          title: Sustained antidepressant effects of ketamine
+
     - file: contents/research-environment/how-we-work
       sections:    
       - file: contents/research-environment/group-meetings

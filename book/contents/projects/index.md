@@ -44,6 +44,16 @@ We utilise a range of methodologies including:
 
 <p style='text-align: center;'> Bristol neuroscience data guide </p>
 :::
+
+:::{grid-item-card}
+:link: antidepressant-ketamine
+:link-type: doc
+:text-align: center
+:img-top: ../img/projects/ketamine-structure.png
+
+<p style='text-align: center;'> Ketamines sustained antidepressant effects </p>
+:::
+
 ::::
 
 

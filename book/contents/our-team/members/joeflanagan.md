@@ -16,24 +16,20 @@ _PhD Student_
 [<i class="fa-solid fa-building-columns" style="color: #d74242;"></i>](http://www.bristol.ac.uk/phys-pharm-neuro/)
 [<i class="fa-solid fa-envelope"></i>](mailto:USERNAME@ORGANIZATION.NET)
 
-I graduated from UCL with a MSci Natural Sciences in 2022 with a background spanning neuroscience, pharmacology, psychology, and organic chemistry. 
-I join Jack Mellor's as a PhD student in 2022.
-
-I'm fascinated by the mechanistic role that dysfunctional endocannabinoid and serotonergic signalling 
-plays in the pathophysiology of neuropsychiatric disorders, neurodegenerative diseases, 
-and cancer; and how compounds targeting dysfunctional endocannabinoid and serotonergic 
-signalling (i.e., cannabinoids and psychedelics) may prove to be breakthrough treatments for these 
-debilitating disorders/diseases that currently lack efficacious pharmacotherapies.
+I graduated from UCL in July 2022 with an MSci in Natural Sciences where I specialised in neuroscience and 
+pharmacology whilst also completing modules in psychology and organic/medicinal chemistry. 
+My MSci research project focused on GABAAR mutations and epilepsy. 
+I joined the Mellor Group as a PhD student in September 2022 
  
 
 ### Research:
 
 I'm currently researching the molecular and synaptic mechanisms which underlie the sustained antidepressant 
-effects of NMDA receptor antagonists a project jointly supervised by Jack Mellor and Emma Robbinson. 
+effects of NMDA receptor antagonists Ketamine a project jointly supervised by Jack Mellor and Emma Robbinson. 
 
 ### Current projects:
 
-- 
+- [Mechanisms underlying antidepressant effects of Ketamine](../../projects/antidepressant-ketamine)
 
 
 
@@ -43,7 +39,11 @@ effects of NMDA receptor antagonists a project jointly supervised by Jack Mellor
 ```{admonition} Outside of the lab
 :class: note
 
-
+- Play poker with Bristol Poker Society.
+- Train Muay Thai kickboxing.
+- Hit the gym.
+- Check out live music events.
+- Explore Bristol for cheap eats.
 
 ``` 
 
