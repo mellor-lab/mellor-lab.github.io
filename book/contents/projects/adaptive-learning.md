@@ -24,7 +24,7 @@ This work generates circuit to systems level predictions that can be experimenta
 ### `Cholinergic-mediated adaptive learning in cortical microcircuits` 
 
 ```{image} ../img/projects/dual_opto_ach.png 
-:class: bg-transparent
+:class: no-scaled-link
 :align: left
 :scale: 15
 ```
