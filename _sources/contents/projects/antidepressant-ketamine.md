@@ -12,7 +12,7 @@ antidepressant effects of ketamine and NMDA receptor antagonist.
 :class: bg-transparent
 :align: left
 :width: 300px
-:class: no-scaled-link
+:
 ```
 :::
 
