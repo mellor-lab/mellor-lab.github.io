@@ -30,19 +30,28 @@ We utilise a range of methodologies including:
 :::
 
 :::{grid-item-card}
-:link: vr-2photon
-:link-type: doc
-:img-top: ../img/projects/mouse_VR.png
-<p style='text-align: center;'> Calcium imaging during exploration in virtual reality </p> 
-:::
-
-:::{grid-item-card}
 :link: bris-neuro-data-guide
 :link-type: doc
 :text-align: center
 :img-top: ../img/projects/bndg.png
 
 <p style='text-align: center;'> Bristol neuroscience data guide </p>
+:::
+
+:::{grid-item-card}
+:link: vr-2photon
+:link-type: doc
+:img-top: ../img/projects/mouse_VR_thumb.png
+<p style='text-align: center;'> Calcium imaging during exploration in virtual reality </p> 
+:::
+
+:::{grid-item-card}
+:link: antidepressant-ketamine
+:link-type: doc
+:text-align: center
+:img-top: ../img/projects/ketamine-structure.png
+
+<p style='text-align: center;'> Ketamine’s sustained antidepressant effects </p>
 :::
 
 :::{grid-item-card}
@@ -54,14 +63,7 @@ We utilise a range of methodologies including:
 <p style='text-align: center;'> Cholinergic mediated adaptive learning and machine learning models </p>
 :::
 
-:::{grid-item-card}
-:link: antidepressant-ketamine
-:link-type: doc
-:text-align: center
-:img-top: ../img/projects/ketamine-structure.png
 
-<p style='text-align: center;'> Ketamine’s sustained antidepressant effects </p>
-:::
 
 ::::
 
