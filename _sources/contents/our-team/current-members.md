@@ -67,13 +67,11 @@ _Research Associate_
 :::
 
 :::{grid-item-card}
-:link: members/martynasdervinis
-:link-type: doc
 
 **Martynas Dervinis**
 ^^^
 
-![Martynas Dervinis](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+![Martynas Dervinis](../img/members/martynas.jpg)
 
 **`Martynas Dervinis`**  
 _Research Associate_  
