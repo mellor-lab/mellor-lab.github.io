@@ -7,14 +7,14 @@ how GluK2 Q/R editing radically alters the KAR properties and neuronal networks
 &nbsp;
 
 
-::::{grid}
+::::{grid} 1 2 2 2
 
 :::{grid-item}
+:columns: 10
 
 ```{image} ../img/projects/kainate-project.png 
 :align: left
 :class: bg-transparent no-scaled-link
-:scale: 25
 ```
 _pre-mRNA GluK2 Q/R editing_
 
