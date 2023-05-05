@@ -5,8 +5,6 @@
 :width: 300
 ```
 
-&nbsp;
-
 **`Dan Goodwin`**  
 _PhD Student_  
 [<i class="fa-brands fa-twitter fa-lg" style="color:#2a67cf"></i>]()

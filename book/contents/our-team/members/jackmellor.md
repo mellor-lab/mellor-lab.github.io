@@ -6,9 +6,6 @@
 :width: 300
 ```
 
-&nbsp;
-
-
 **`Jack Mellor`**  
 _Principle investigator_  
 [<i class="fa-brands fa-orcid" style="color: #6eee5d;"></i>](https://orcid.org/0000-0002-7706-8105)

@@ -5,9 +5,6 @@
 :width: 300
 ```
 
-&nbsp;
-
-
 **`Matt Udakis`**  
 _Senior Research Associate_  
 [<i class="fa-brands fa-twitter fa-lg" style="color:#2a67cf"></i>](https://twitter.com/matt_youdaykiss?lang=en-GB)

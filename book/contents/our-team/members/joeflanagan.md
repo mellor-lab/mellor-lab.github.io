@@ -5,8 +5,6 @@
 :width: 300
 ```
 
-&nbsp;
-
 **`Joe Flanagan`**  
 _PhD Student_  
 [<i class="fa-solid fa-building-columns" style="color: #d74242;"></i>](https://research-information.bris.ac.uk/en/persons/joe-flanagan)
