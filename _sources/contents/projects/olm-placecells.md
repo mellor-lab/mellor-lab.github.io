@@ -8,7 +8,7 @@ regulate place cell activity, formation and stability in the hippocampus.
 :::{grid-item}
 :columns: 8
 ```{image} ../img/projects/inscopix_project.png 
-:class: bg-transparent
+:class: bg-transparent no-scaled-link
 :align: center
 ```
 :::
@@ -18,6 +18,7 @@ regulate place cell activity, formation and stability in the hippocampus.
 :columns: 4
 ```{image} ../img/projects/miniscope.gif
 :align: center
+:class: bg-transparent no-scaled-link
 ```
 :::
 
@@ -32,5 +33,9 @@ We aim to investigate how OLM interneurons regulate synaptic plasticity leading 
 We use in vivo calcium imaging to record from CA1 place cells whilst animals explore familiar and novel environments across multiple days
 we are combining this with optogenetic tools to perturb OLM inhibitory interneurons during exploration. 
 This in vivo work is complemented by brain slice electrophysiology and  2photon microscopy to understand the potential role these interneurons have in controlling place cell plasticity at a dendritic level. 
+
+
+&nbsp;
+
 
 

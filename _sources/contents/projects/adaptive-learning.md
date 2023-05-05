@@ -12,7 +12,7 @@ These projects led by [Heng Wei Zhu](../our-team/members/hengweizhu) in collabor
   
 &nbsp;  
 ```{image} ../img/projects/burstccn.png 
-:class: bg-transparent
+:class: bg-transparent no-scaled-link
 :align: center
 ```
 :::
@@ -51,7 +51,7 @@ Predictions made by this model are examined using ex vivo brain slice electrophy
 
 &nbsp; 
 ```{image} ../img/projects/dual_opto_ach.png 
-:class: bg-transparent
+:class: bg-transparent no-scaled-link
 :align: center
 ```
 

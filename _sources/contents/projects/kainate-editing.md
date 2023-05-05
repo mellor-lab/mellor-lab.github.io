@@ -15,7 +15,7 @@ how GluK2 Q/R editing radically alters the KAR properties and neuronal networks
 
 ```{image} ../img/projects/kainate-project.png 
 :align: left
-:class: no-scaled-link
+:class: bg-transparent no-scaled-link
 ```
 _pre-mRNA GluK2 Q/R editing_
 
@@ -32,4 +32,9 @@ On going work aims to investigate how this might be implicated in neurological a
 ### Techniques:
 For these projects we use a combination of biochemical techniques paired with whole-cell patch clamp recordings to be able
 to study the direct links between structure and function of these receptors.
+
+
+&nbsp;
+
+
 
