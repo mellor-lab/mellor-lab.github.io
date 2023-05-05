@@ -29,6 +29,6 @@ KAR signalling and regulates synaptic expression of AMPARs and plasticity [Nair 
 On going work aims to investigate how this might be implicated in neurological and neurodevelopmental disorders.
 
 ### Techniques:
-For these projects we use a combination of Biochemical techniques paired with whole-cell patch clamp recordings to be able
-to study the direct links between structure and function of these receptors
+For these projects we use a combination of biochemical techniques paired with whole-cell patch clamp recordings to be able
+to study the direct links between structure and function of these receptors.
 
