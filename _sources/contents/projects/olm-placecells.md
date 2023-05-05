@@ -7,7 +7,7 @@ regulate place cell activity, formation and stability in the hippocampus.
 
 :::{grid-item}
 :columns: 8
-```{image} ../img/projects/inscopix_project_transparent.png 
+```{image} ../img/projects/inscopix_project.png 
 :class: bg-transparent
 :align: center
 ```

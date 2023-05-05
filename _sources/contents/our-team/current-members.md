@@ -73,7 +73,7 @@ _Research Associate_
 **Martynas Dervinis**
 ^^^
 
-![Martynas Dervinis](../img/members/martynas_crop.jpg)
+![Martynas Dervinis](../img/members/martynas.jpg)
 
 **`Martynas Dervinis`**  
 _Research Associate_  
