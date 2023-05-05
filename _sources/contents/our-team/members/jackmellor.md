@@ -1,8 +1,10 @@
 # Jack Mellor
 
 
-<img src="../../img/members/jack.jpg" width="300">
-
+```{image} ../../img/members/jack.jpg 
+:class: no-scaled-link
+:width: 300
+```
 
 &nbsp;
 

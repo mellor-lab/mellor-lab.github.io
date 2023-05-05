@@ -53,8 +53,8 @@ _Senior Research Associate_
 :::
 
 :::{grid-item-card}
-:link: members/jithinnair
-:link-type: doc
+<!-- :link: members/jithinnair
+:link-type: doc -->
 
 **Jithin Nair**
 ^^^
@@ -67,6 +67,8 @@ _Research Associate_
 :::
 
 :::{grid-item-card}
+<!-- :link: members/martynasdervinis
+:link-type: doc -->
 
 **Martynas Dervinis**
 ^^^
@@ -104,8 +106,8 @@ _PhD Student_
 
 
 :::{grid-item-card}
-:link: members/dangoodwin
-:link-type: doc
+<!-- :link: members/dangoodwin
+:link-type: doc -->
 
 **Dan Goodwin** 
 ^^^

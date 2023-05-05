@@ -1,7 +1,9 @@
 # Martynas Dervinis
 
-<img src="../../img/members/martynas.jpg" width="300">
-
+```{image} ../../img/members/martynas.jpg 
+:class: no-scaled-link
+:width: 300
+```
 
 **`Martynas Dervinis`**  
 _Research Associate_  

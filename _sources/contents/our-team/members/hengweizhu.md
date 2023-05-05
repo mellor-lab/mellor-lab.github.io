@@ -1,6 +1,9 @@
 # Heng Wei Zhu
 
-<img src="../../img/members/heng.jpg" width="300">
+```{image} ../../img/members/heng.jpg 
+:class: no-scaled-link
+:width: 300
+```
 
 &nbsp;
 

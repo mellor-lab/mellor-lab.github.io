@@ -1,7 +1,9 @@
 # Dan Goodwin
 
-<img src="https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png" width="300">
-
+```{image} https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png 
+:class: no-scaled-link
+:width: 300
+```
 
 &nbsp;
 
