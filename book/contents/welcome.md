@@ -17,4 +17,4 @@ To address these questions we use an array of technical approaches including ex 
 Check out our [current projects](projects/index) and our [recent publications](publications).
 
 
-### Join the group! We are currently [hiring](our-team/work-with-us).
+### `Join the group! We are currently` [`hiring.`](our-team/work-with-us)
