@@ -16,8 +16,7 @@ _PhD Student_
 [<i class="fa-brands fa-github" style="color: #696969;"></i>](https://www.github.com)-->
 
 
-I completed my undergraduate degree in Neuroscience at the University of Bristol in 2018,
-After which I started a Wellcome Trust Neural Dynamics PhD programme jointly supervised by Jack and Rui Ponte Costa. 
+I completed my undergraduate degree in Neuroscience at the University of Bristol in 2018. Following that, I began my PhD on the Wellcome Trust Neural Dynamics PhD programme which is co-supervised by Jack and Rui Ponte Costa. 
 
 ### Research:
 
@@ -53,7 +52,7 @@ backpropagation to explore a role for the cholinergic system in credit assignmen
 ### Publications:
 
 _Single-phase deep learning in cortico-cortical networks_<br>
-Will Greedy, `Heng Wei Zhu`, Joseph Pemberton, Jack Mellor, Rui Ponte Costa <br>
+Will Greedy*, `Heng Wei Zhu`*, Joseph Pemberton, Jack Mellor, Rui Ponte Costa <br>
 NeurIPS **2022** ([article](https://proceedings.neurips.cc/paper_files/paper/2022/hash/99088dffd5eab0babebcda4bc58bbcea-Abstract-Conference.html))
 
 
