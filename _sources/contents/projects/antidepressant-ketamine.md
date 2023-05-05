@@ -16,9 +16,8 @@ antidepressant effects of the NMDA receptor antagonist ketamine.
 ```
 :::
 
-
-
 ::::
+
 Ketamine has shown promise as a potential therapeutic for due to its sustained antidepressant effects.
 How ketamine, an antagonist to NMDA receptors, resuts in these effects is unclear.
 
