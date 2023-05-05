@@ -2,32 +2,30 @@
 title: "Mellor Group Handbook"
 author: 
 logo: contents/img/Brain_logo.png
-url: "http://mellor-lab.github.io/mellor_lab_handbook"
+url: "http://mellor-lab.github.io/"
 
 
 html:
     google_analytics_id       : "UA-267148039-1"
     home_page_in_navbar       : false
     logo_only                 : true
-    extra_navbar: |
-        <div>
-            Handbook created using <a href="https://github.com/very-good-science/our-meta-handbook">Our Handbook</a>.
-            Powered by <a href="https://jupyterbook.org/">Jupyter Book</a>.
-        </div>
-
-
+    extra_navbar              : "<div>your html</div>"
+    
 sphinx:
     extra_extensions:
         - sphinx_inline_tabs
         - sphinx_design
-    extra_footer: |
-        <p>
-            License: <a href="https://creativecommons.org/licenses/by/3.0/legalcode">CC-BY 3.0</a>
-        </p>
     config:
         html_show_copyright: false
         html_theme_options:    
             use_download_button: false
+            nosidebar: true
+            # show_prev_next: false
+            extra_footer: <p> Powered by <a href='https://jupyterbook.org/'>Jupyter Book</a></p>
+            # announcement: "<p> We are currently hiring! check out our <a href='our-team/work-with-us.html' rg/'> positions </a></p>"
+
+
+
 
 # Parse and render settings
 parse:
