@@ -17,19 +17,19 @@ _Research Associate_
 
 My interest in neuroscience began in 2016 while pursuing a master’s dissertation on unconventional glycine-binding NMDAR 
 receptors and their role in learning and memory formation. 
-In 2018 I moved to Bristol to join for a PhD with Prof. Jeremy Henley and Prof. Jack Mellor, 
-where I investigated the role of Kaintae receptors in the plasticity of AMPA receptors. 
-In 2021 I joined as a post-doc 
+In 2018 I moved to Bristol to join for a PhD with Jeremy Henley and Jack, 
+where I investigated the role of Kainate receptors in the plasticity of AMPA receptors. 
+In 2021 I joined the lab as a Postdoc. 
  
 
 ### Research:
  
-My research focuses the role of ion channel on the network activity of brain circuitss. I am interested in understanding
+My research focuses the role of ion channels on the network activity of brain circuits. I am interested in understanding
 the role of GluK2 pre-mRNA editing in maintaining healthy neuronal networks and its dysfunction in neurological and neurodevelopmental disorders.
 
-I am also interested in the role that AMPA receptor function has on eplielptogeneis.
+I am also interested in the role that AMPA receptor function has on epileptogenesis.
 
-To investigate these topics I utalize my biochemical skill-set with brain slice electrophysiology to study circuit function. 
+To investigate these topics I utilize my biochemical skill-set with brain slice electrophysiology to study circuit function. 
 
 
 ### Current projects:
@@ -83,3 +83,9 @@ Neuropharmacology, **2021.** ([article](https://www.sciencedirect.com/science/ar
 _SUMOylation of synaptic and synapse‐associated proteins: An update_
 Jeremy M Henley, Richard Seager, Yasuko Nakamura, Karolina Talandyte, `Jithin Nair`, Kevin A Wilkinson  
 Journal of Neurochemistry, **2020.** ([article](https://onlinelibrary.wiley.com/doi/full/10.1111/jnc.15103))
+
+
+&nbsp;
+
+
+

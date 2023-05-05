@@ -106,8 +106,8 @@ _PhD Student_
 
 
 :::{grid-item-card}
-<!-- :link: members/dangoodwin
-:link-type: doc -->
+:link: members/dangoodwin
+:link-type: doc
 
 **Dan Goodwin** 
 ^^^
