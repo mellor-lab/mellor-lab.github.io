@@ -21,6 +21,7 @@ parts:
           title: Sustained antidepressant effects of ketamine
         - file: contents/projects/adaptive-learning
           title: Choliniergic mediated adaptive learning
+        - file: contents/projects/kainate-editing
     - file: contents/research-environment/how-we-work
       sections:    
       - file: contents/research-environment/group-meetings
