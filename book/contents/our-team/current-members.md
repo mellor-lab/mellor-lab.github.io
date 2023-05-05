@@ -73,7 +73,7 @@ _Research Associate_
 **Martynas Dervinis**
 ^^^
 
-![Martynas Dervinis](../img/members/martynas.jpg)
+![Martynas Dervinis](../img/members/martynas_crop.jpg)
 
 **`Martynas Dervinis`**  
 _Research Associate_  
@@ -112,7 +112,7 @@ _PhD Student_
 **Dan Goodwin** 
 ^^^
 
-![Dan Goodwin](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+![Dan Goodwin](../img/members/dangoodwin.png)
 
 **`Dan Goodwin`**  
 _PhD Student_  
