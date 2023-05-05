@@ -53,8 +53,8 @@ _Senior Research Associate_
 :::
 
 :::{grid-item-card}
-<!-- :link: members/jithinnair
-:link-type: doc -->
+:link: members/jithinnair
+:link-type: doc
 
 **Jithin Nair**
 ^^^

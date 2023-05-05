@@ -64,6 +64,15 @@ We utilise a range of methodologies including:
 :::
 
 
+:::{grid-item-card}
+:link: kainate-editing
+:link-type: doc
+:text-align: center
+:img-top: ../img/projects/gluk2-structure.jpg
+
+<p style='text-align: center;'> GluK2 editing in maintaining neuronal networks </p>
+:::
+
 
 ::::
 
