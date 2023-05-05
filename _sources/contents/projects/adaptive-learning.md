@@ -1,7 +1,6 @@
 # Cortical networks and cholinergic adaptive learning
 
-These projects led by [Heng Wei Zhu](../our-team/members/hengweizhu) aims to bridge the gap between biological and computational neural
-networks to investigate if the features of biological networks can apply to machine learning networks
+These projects led by [Heng Wei Zhu](../our-team/members/hengweizhu) in collaboration with Rui Ponte Costa's group aims to bridge the gap between biological and computational neural networks to investigate if the features of biological networks can apply to machine learning networks
 
 
 ### `Single-phase deep learning in cortico-cortical networks`
