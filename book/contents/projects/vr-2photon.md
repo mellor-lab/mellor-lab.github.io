@@ -14,14 +14,6 @@ We aim to investigate the role of the retrosplenial cortex in spatial navigation
 
 :::{grid-item}
 
-We use in vivo 2-photon microscopy in tandem with virtual reality to record cholinergic and calcium activity while animals navigate virtual environments. 
-
-Virtual reality allows us to induce grand or minute changes to their environment and measure how this influences neuronal activity. This work is complimented by in vitro electrophysiology and 2-photon microscopy to investigate how acetylcholine modulates the intrinsic properties of different subtypes of cells in the retrosplenial cortex.
-
-:::
-
-:::{grid-item}
-
 
 ```{image} ../img/projects/mouse_VR.png 
 :align: center
@@ -30,6 +22,15 @@ Virtual reality allows us to induce grand or minute changes to their environment
 ```
 
 :::
+
+:::{grid-item}
+
+We use in vivo 2-photon microscopy in tandem with virtual reality to record cholinergic and calcium activity while animals navigate virtual environments. 
+
+Virtual reality allows us to induce grand or minute changes to their environment and measure how this influences neuronal activity. This work is complimented by in vitro electrophysiology and 2-photon microscopy to investigate how acetylcholine modulates the intrinsic properties of different subtypes of cells in the retrosplenial cortex.
+
+:::
+
 
 ::::
 

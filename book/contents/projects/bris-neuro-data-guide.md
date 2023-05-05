@@ -17,6 +17,15 @@ to make data accessible to collaborators and the public.
 ::::{grid} 1 2 2 2
 :padding: 0
 
+:::{grid-item}
+
+```{image} ../img/projects/bndg.png 
+:align: left
+:width: 350px
+:class: no-scaled-link
+```
+:::
+
 
 :::{grid-item}
 
@@ -28,14 +37,6 @@ We hope that by facilitating the sharing of datasets on going development of [Br
 
 :::
 
-:::{grid-item}
-
-```{image} ../img/projects/bndg.png 
-:align: center
-:width: 350px
-:class: no-scaled-link
-```
-:::
 
 ::::
 
