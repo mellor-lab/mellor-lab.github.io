@@ -1,6 +1,6 @@
 # Joe Flanagan  
 
-```{image} ../../img/members/joeflanagan.png
+```{image} ../../img/members/joeflanagan.jpg
 :class: no-scaled-link
 :width: 300
 ```
