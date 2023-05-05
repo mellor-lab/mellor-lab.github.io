@@ -95,7 +95,7 @@ _Research Associate_
 **Heng Wei Zhu** 
 ^^^
 
-![Heng Wei Zhu](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+![Heng Wei Zhu](../img/members/heng.jpg)
 
 **`Heng Wei Zhu`**  
 _PhD Student_  
