@@ -60,27 +60,27 @@ To investigate these topics I utilize my biochemical skill-set with brain slice 
 
 ### Publications:
 
-_GluK2 Q/R editing regulates kainate receptor signalling and synaptic AMPA receptor expression and function._
+_GluK2 Q/R editing regulates kainate receptor signalling and synaptic AMPA receptor expression and function._  
 `J Nair`, K Wilkinson, C Mulle, B Vissel, J Mellor, J Henley  
 bioRxiv	**2022** ([article](https://www.biorxiv.org/content/10.1101/2022.10.31.514576v1.abstract))
 
-_Surface biotinylation of primary neurons to monitor changes in AMPA receptor surface expression in response to kainate receptor stimulation_
+_Surface biotinylation of primary neurons to monitor changes in AMPA receptor surface expression in response to kainate receptor stimulation_  
 `Jithin D. Nair`, Jeremy M. Henley, Kevin A. Wilkinson  
 Star Protocols **2021** ([article](https://www.sciencedirect.com/science/article/pii/S2666166721006985))
 
-_Sustained postsynaptic kainate receptor activation downregulates AMPA receptor surface expression and induces hippocampal LTD_
+_Sustained postsynaptic kainate receptor activation downregulates AMPA receptor surface expression and induces hippocampal LTD_  
 `JD Nair`, E Braksator, BP Yucel, A Fletcher-Jones, R Seager, JR Mellor, Zafar I Bashir, Kevin A Wilkinson, Jeremy M Henley  
 Iscience, **2021.** ([article](https://www.sciencedirect.com/science/article/pii/S2589004221009974))
 
-_Kainate and AMPA receptors in epilepsy: Cell biology, signalling pathways and possible crosstalk_
+_Kainate and AMPA receptors in epilepsy: Cell biology, signalling pathways and possible crosstalk_  
 Jeremy M Henley, `Jithin D Nair`, Richard Seager, Busra P Yucel, Gavin Woodhall, Benjamin S Henley, Karolina Talandyte, Hope I Needs, Kevin A Wilkinson  
 Neuropharmacology, **2021.** ([article](https://www.sciencedirect.com/science/article/pii/S0028390821001234))
 
-_Kainate Receptors and Synaptic Plasticity_
+_Kainate Receptors and Synaptic Plasticity_  
 `JD Nair`, KA Wilkinson, JM Henley, JR Mellor  
 Neuropharmacology, **2021.** ([article](https://www.sciencedirect.com/science/article/pii/S0028390821000940))
 
-_SUMOylation of synaptic and synapse‐associated proteins: An update_
+_SUMOylation of synaptic and synapse‐associated proteins: An update_  
 Jeremy M Henley, Richard Seager, Yasuko Nakamura, Karolina Talandyte, `Jithin Nair`, Kevin A Wilkinson  
 Journal of Neurochemistry, **2020.** ([article](https://onlinelibrary.wiley.com/doi/full/10.1111/jnc.15103))
 
