@@ -112,7 +112,7 @@ _PhD Student_
 **Dan Goodwin** 
 ^^^
 
-![Dan Goodwin](../img/members/dangoodwin.png)
+![Dan Goodwin](../img/members/dangoodwin.jpg)
 
 **`Dan Goodwin`**  
 _PhD Student_  
@@ -127,7 +127,7 @@ _PhD Student_
 **Joe Flanagan** 
 ^^^
 
-![Joe Flanagan](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+![Joe Flanagan](../img/members/joeflanagan.jpg)
 
 **`Joe Flanagan`**  
 _PhD Student_  

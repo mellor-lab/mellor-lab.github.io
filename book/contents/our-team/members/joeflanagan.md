@@ -1,6 +1,6 @@
 # Joe Flanagan  
 
-```{image} https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png
+```{image} ../../img/members/joeflanagan.jpg
 :class: no-scaled-link
 :width: 300
 ```

@@ -1,6 +1,6 @@
 # Dan Goodwin
 
-```{image} ../../img/members/dangoodwin.png 
+```{image} ../../img/members/dangoodwin.jpg 
 :class: no-scaled-link
 :width: 300
 ```
