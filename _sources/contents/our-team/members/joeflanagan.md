@@ -1,6 +1,6 @@
 # Joe Flanagan  
 
-```{image} ../../img/members/joeflanagan.jpg
+```{image} ../../img/members/joeflanagan.png
 :class: no-scaled-link
 :width: 300
 ```
@@ -9,13 +9,13 @@
 
 **`Joe Flanagan`**  
 _PhD Student_  
-[<i class="fa-brands fa-twitter fa-lg" style="color:#2a67cf"></i>](https://www.twitter.com)
+[<i class="fa-solid fa-building-columns" style="color: #d74242;"></i>](https://research-information.bris.ac.uk/en/persons/joe-flanagan)
+[<i class="fa-solid fa-envelope"></i>](mailto:joe.flanagan@bristol.ac.uk)
+<!-- [<i class="fa-brands fa-twitter fa-lg" style="color:#2a67cf"></i>](https://www.twitter.com)
 [<i class="fa-brands fa-linkedin-in fa-lg" style="color:#5a97d8"></i>](https://www.linkedin.com)
 [<i class="fa-brands fa-researchgate" style="color: #57dba8;"></i>](https://www.researchgate.com)
 [<i class="fa-brands fa-orcid" style="color: #6eee5d;"></i>](https://www.orcid.org)
-[<i class="fa-brands fa-github" style="color: #696969;"></i>](https://www.github.com)
-[<i class="fa-solid fa-building-columns" style="color: #d74242;"></i>](http://www.bristol.ac.uk/phys-pharm-neuro/)
-[<i class="fa-solid fa-envelope"></i>](mailto:USERNAME@ORGANIZATION.NET)
+[<i class="fa-brands fa-github" style="color: #696969;"></i>](https://www.github.com) -->
 
 I graduated from UCL in July 2022 with an MSci in Natural Sciences where I specialised in neuroscience and 
 pharmacology whilst also completing modules in psychology and organic/medicinal chemistry. 
