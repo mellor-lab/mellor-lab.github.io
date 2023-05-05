@@ -1,6 +1,6 @@
 # Imaging neuronal activity in vivo during exploration in virtual reality
 
-This project led by [Dan Goodwin](../our-team/members/dangoodwin) aims to ...
+This project is led by [Dan Goodwin](../our-team/members/dangoodwin) in collaboration with Jon Witton and Dan Dombeck's groups and aims to ...
 
 
 ::::{grid} 1 3 3 3
