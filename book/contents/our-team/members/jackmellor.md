@@ -9,8 +9,6 @@
 
 **`Jack Mellor`**  
 _Principle investigator_
-
-`jack.mellor at bristol.ac.uk`  
 <!--[<i class="fa-brands fa-twitter fa-lg" style="color:#2a67cf"></i>](https://www.twitter.com)-->
 <!--[<i class="fa-brands fa-linkedin-in fa-lg" style="color:#5a97d8"></i>](https://www.linkedin.com)-->
 <!--[<i class="fa-brands fa-researchgate" style="color: #57dba8;"></i>](https://www.researchgate.com)-->
