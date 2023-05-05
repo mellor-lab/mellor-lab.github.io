@@ -3,6 +3,7 @@
 ```{image} img/labphoto_2022.jpg
 :width: 750px
 :align: center
+:class: no-scaled-link
 ```
 
 ### Welcome to our group webpages
