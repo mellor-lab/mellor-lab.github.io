@@ -5,8 +5,6 @@
 :width: 300
 ```
 
-&nbsp;
-
 **`Heng Wei Zhu`**  
 _PhD Student_  
 [<i class="fa-brands fa-twitter fa-lg" style="color:#2a67cf"></i>](https://twitter.com/HengWZhu)
