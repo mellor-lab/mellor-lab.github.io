@@ -1,6 +1,6 @@
 # Heng Wei Zhu
 
-<img src="https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png" width="300">
+<img src="../../img/members/heng.jpg" width="300">
 
 &nbsp;
 
