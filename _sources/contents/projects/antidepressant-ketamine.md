@@ -1,7 +1,6 @@
 # Mechanisms of the sustained antidepressant effects of ketamine
 
-This project led by [Joe Flanagan](../our-team/members/joeflanagan) aims to better understand the sustained 
-antidepressant effects of the NMDA receptor antagonist ketamine.
+This project led by [Joe Flanagan](../our-team/members/joeflanagan) in collaboration with Emma Robinson's group and Boehringer Ingelheim aims to better understand the sustained antidepressant effects of the NMDA receptor antagonist ketamine.
 
 
 ::::{grid} 1 3 3 3
