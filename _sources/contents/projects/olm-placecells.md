@@ -23,7 +23,7 @@ regulate place cell activity, formation and stability in the hippocampus.
 
 ::::
 
-*hippocampal pyramidal neurons activity during spatial navigation* 
+*Hippocampal pyramidal neurons activity during spatial navigation* 
 
 ### Aim:
 We aim to investigate how OLM interneurons regulate synaptic plasticity leading to place cell formation and maintenance of their stability over multiple environments.

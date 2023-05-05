@@ -13,9 +13,11 @@ This project led by [Joe Flanagan](../our-team/members/joeflanagan) in collabora
 :width: 300px
 :
 ```
+_ketamine structure_
 :::
 
 ::::
+
 
 Ketamine has shown promise as a potential therapeutic for due to its sustained antidepressant effects.
 How ketamine, an antagonist to NMDA receptors, resuts in these effects is unclear.

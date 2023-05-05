@@ -14,9 +14,8 @@ navigation is encoded in the retrosplenial cortex. To do this we utilize precise
 :width: 300px
 :class: no-scaled-link
 ```
+_virtual-reality setup_ 
 :::
-
-
 
 ::::
 
