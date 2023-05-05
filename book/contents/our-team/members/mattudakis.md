@@ -1,7 +1,9 @@
 # Matt Udakis
 
-<img src="../../img/members/mattudakis.jpg" width="300">
-
+```{image} ../../img/members/mattudakis.jpg 
+:class: no-scaled-link
+:width: 300
+```
 
 &nbsp;
 

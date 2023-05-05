@@ -1,7 +1,9 @@
 # Jithin Nair
 
-<img src="../../img/members/jithin.jpg" width="300">
-
+```{image} ../../img/members/jithin.jpg 
+:class: no-scaled-link
+:width: 300
+```
 
 **`Jithin Nair`**  
 _Research Associate_  
