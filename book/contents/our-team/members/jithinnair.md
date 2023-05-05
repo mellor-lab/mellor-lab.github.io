@@ -29,7 +29,7 @@ the role of GluK2 pre-mRNA editing in maintaining healthy neuronal networks and 
 
 I am also interested in the role that AMPA receptor function has on eplielptogeneis.
 
-To investigate these topics I utalise my biochemical skill-set with brain slice electrophysiology to study circuit function. 
+To investigate these topics I utalize my biochemical skill-set with brain slice electrophysiology to study circuit function. 
 
 
 ### Current projects:
