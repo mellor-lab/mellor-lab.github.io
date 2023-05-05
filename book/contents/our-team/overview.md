@@ -10,6 +10,9 @@ Find out more about our [current](current-members) and [past](past-members) grou
 ![Hippocampus](../img/labphoto_2022.jpg)
 *Our annual lab retreat Devon, UK, 2022* 
 
+&nbsp;
+
+
 
 
 
