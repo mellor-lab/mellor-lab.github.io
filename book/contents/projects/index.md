@@ -12,12 +12,12 @@ We utilise a range of methodologies including:
 
 ---
 
-## Check out some of our on going projects
+## Check out some of our on going projects:
 
 &nbsp;
 
-::::{grid} 1 2 3 4
-:gutter: 3
+::::{grid} 1 2 3 3
+:gutter: 4
 
 :::{grid-item-card}
 :link: olm-placecells

@@ -24,7 +24,7 @@ I joined the Mellor Group as a PhD student in September 2022
 ### Research:
 
 I'm currently researching the molecular and synaptic mechanisms which underlie the sustained antidepressant 
-effects of NMDA receptor antagonists Ketamine a project jointly supervised by Jack Mellor and Emma Robbinson. 
+effects of NMDA receptor antagonists Ketamine a project jointly supervised by Jack and Emma Robbinson. 
 
 ### Current projects:
 
@@ -49,6 +49,6 @@ effects of NMDA receptor antagonists Ketamine a project jointly supervised by Ja
 
 &nbsp;
 
----
+
 
 
