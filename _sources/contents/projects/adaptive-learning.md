@@ -6,6 +6,7 @@ These projects led by [Heng Wei Zhu](../our-team/members/hengweizhu) in collabor
 ### `Single-phase deep learning in cortico-cortical networks`
 
 ::::{grid} 1 2 2 2
+:padding: 0
 
 :::{grid-item}
 
@@ -61,5 +62,7 @@ Predictions made by this model are examined using ex vivo brain slice electrophy
 ::::
 
 &nbsp;
+
+
 
 
