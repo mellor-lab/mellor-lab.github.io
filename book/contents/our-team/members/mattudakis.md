@@ -16,17 +16,17 @@ _Senior Research Associate_
 <!--[<i class="fa-brands fa-orcid" style="color: #6eee5d;"></i>](https://www.orcid.org)-->
 
 I started my neuroscience adventures with a PhD in 2012 at the University of Bath, UK where I investigated the role of nicotinic acetylcholine receptors in the 
-mechanisms of learning and memory in the prefrontal cortex, using brain slice electrophysisology with optogenetics.
-In 2016 I join Jack's lab as a postdoc where my research focuses on understanding the roles different inhibitory interneurons in the hippocmapus regulate learning and memory mechanisms. 
+mechanisms of learning and memory in the prefrontal cortex, using brain slice electrophysiology with optogenetics.
+In 2016 I join Jack's lab as a postdoc where my research focuses on understanding how different inhibitory interneurons in the hippocampus regulate learning and memory mechanisms. 
 
 
 ### Research:
  
-My research within the lab started with a project investigating the interneuron subtype specifictiy of hippocampal inhibtory synaptic plasticity.
+My research within the lab started with a project investigating the interneuron subtype specificity of hippocampal inhibitory synaptic plasticity.
 Using brain slice electrophysiology and optogenetics we uncovered inhibitory plasticity rules unique to PV and SST interneurons whilst computational modelling  in collaboration with Claudia Clopath's lab provided an hypothesis for how this plasticity might alter place cell stability. [Udakis et al 2020](https://www.nature.com/articles/s41467-020-18074-8) 
 
-Since then my research in the lab has focused on testing this hypothesis and trying to understant the role these interneurons have on hippocampal place cell formation and stability.
-I use a combinatation of 2-photon microscopy, brain slice electrophysiology and in vivo calcium imaging of place cells via miniscope recordings. 
+Since then my research in the lab has focused on testing this hypothesis and trying to understand the role these interneurons have on hippocampal place cell formation and stability.
+I use a combination of 2-photon microscopy, brain slice electrophysiology and in vivo calcium imaging of place cells via miniscope recordings. 
 
 ### Current projects:
 
