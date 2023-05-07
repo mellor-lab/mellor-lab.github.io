@@ -383,3 +383,8 @@ _Ligand-gated ion channel subunit partnerships: GABAA receptor alpha6 subunit ge
 Jones A, Korpi ER, McKernan RM, Pelz R, Nusser Z, Mäkelä R, Mellor JR, Pollard S, Bahn S, Stephenson FA, Randall AD, Sieghart W, Somogyi P, Smith AJ, Wisden W.<br>
 J Neurosci, **`1997`** ([article](https://doi.org/10.1523/JNEUROSCI.17-04-01350.1997))<br>
 
+
+&nbsp;
+
+&nbsp;
+

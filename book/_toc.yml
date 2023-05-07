@@ -14,9 +14,9 @@ parts:
     - file: contents/projects/index
       sections:
         - file: contents/projects/olm-placecells
+        - file: contents/projects/bris-neuro-data-guide
         - file: contents/projects/vr-2photon
           title: Calcium imaging during navigation in VR
-        - file: contents/projects/bris-neuro-data-guide
         - file: contents/projects/antidepressant-ketamine
           title: Sustained antidepressant effects of ketamine
         - file: contents/projects/adaptive-learning
