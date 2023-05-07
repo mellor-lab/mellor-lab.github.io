@@ -16,13 +16,14 @@ _PhD Student_
 [<i class="fa-brands fa-github" style="color: #696969;"></i>](https://www.github.com)-->
 
 
-I completed my undergraduate degree in Neuroscience at the University of Bristol in 2018. Following that, I began my PhD on the Wellcome Trust Neural Dynamics PhD programme which is co-supervised by Jack and Rui Ponte Costa. 
+I completed my undergraduate degree in neuroscience at the University of Bristol in 2018. Following that, I began my PhD on the Wellcome Trust Neural Dynamics PhD programme which is co-supervised by Jack and Rui Ponte Costa. 
 
 ### Research:
 
-My research interest lies in understanding how biologically inspired deep learning models learn and how their predictions can be used to guide experimental neuroscience 
-in studying the brain. Specifically, I am investigating the impact of cholinergic neuromodulation on cortical microcircuits related to learning and memory. 
-I have been implementing biologically plausible models of 
+My research interest lies in understanding how biologically inspired deep learning models learn, and how their predictions can be used to guide experimental neuroscience 
+in studying the brain. 
+
+Specifically, I am investigating the impact of cholinergic neuromodulation on cortical microcircuits related to learning and memory. I have been implementing biologically plausible models of 
 backpropagation to explore a role for the cholinergic system in credit assignment and have been testing these predictions using ex vivo brain slice electrophysiology.  
 
 
@@ -37,9 +38,9 @@ backpropagation to explore a role for the cholinergic system in credit assignmen
 ```{admonition} Outside of the lab
 :class: note
 
-- Playing racket sports including badminton, squash and padel. 
-- Cooking. 
-- Going on scenic walks. 
+- Playing racket sports including badminton, squash and padel
+- Cooking
+- Going on scenic walks
 
 ``` 
 

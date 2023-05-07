@@ -17,14 +17,14 @@ _PhD Student_
 
 I graduated from UCL in July 2022 with an MSci in Natural Sciences where I specialised in neuroscience and 
 pharmacology whilst also completing modules in psychology and organic/medicinal chemistry. 
-My MSci research project focused on GABAAR mutations and epilepsy. 
-I joined the Mellor Group as a PhD student in September 2022 
+My MSci research project focused on GABAaR mutations and epilepsy. 
+I joined the Mellor Group as a PhD student in September 2022. 
  
 
 ### Research:
 
 I'm currently researching the molecular and synaptic mechanisms which underlie the sustained antidepressant 
-effects of NMDA receptor antagonists Ketamine a project jointly supervised by Jack and Emma Robbinson. 
+effects of NMDA receptor antagonists ketamine a project jointly supervised by Jack and Emma Robbinson. 
 
 ### Current projects:
 

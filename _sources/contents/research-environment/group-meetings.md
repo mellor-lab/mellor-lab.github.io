@@ -24,7 +24,7 @@ will be of `general interest` to the groups attending.
 
 ### `Purpose:`
 - Opportunity to delve into the methodology 
-- Gain better understanding of the topic area
+- Gain a better understanding of the topic area
 - Improve critical thinking skills
 
 These [journal clubs](journal-club) can be used to present peer reviewed publications or published preprints.

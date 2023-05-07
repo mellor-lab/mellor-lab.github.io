@@ -6,7 +6,7 @@ We utilise a range of methodologies including:
 - 2-photon imaging in brain slices
 - Behaviour in virtual reality with 2-photon imaging 
 - Calcium imaging with miniaturised microscopes
-- Molecular Biochemistry 
+- Molecular biochemistry 
 - Animal behaviour
 - Computational modelling 
 
@@ -25,7 +25,7 @@ We utilise a range of methodologies including:
 :text-align: center
 :img-top: ../img/projects/olm-ca1.png
 
-<p style='text-align: center;'> OLM interneurons regulation of place cells </p> 
+<p style='text-align: center;'> OLM interneuron regulation of place cells </p> 
 
 :::
 

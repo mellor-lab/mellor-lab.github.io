@@ -15,11 +15,11 @@ _PhD Student_
 [<i class="fa-brands fa-researchgate" style="color: #57dba8;"></i>](https://www.researchgate.com)
 [<i class="fa-brands fa-orcid" style="color: #6eee5d;"></i>](https://www.orcid.org)-->
 
-I finished my studies in Psychology at the university of Sussex in 2016, and completed a follow-up Neuroscience MRes in 2017. My research focused predominantly on the molecular and cognitive impacts of APOE4, a genetic risk factor for Alzheimer’s disease. In 2021, I started my PhD on the BBSRC SWBio DTP, jointly supervised by Jon Witton and Jack.
+I finished my studies in Psychology at the University of Sussex in 2016, and completed a follow-up Neuroscience MRes in 2017. My research focused predominantly on the molecular and cognitive impacts of APOE4, a genetic risk factor for Alzheimer’s disease. In 2021, I started my PhD on the BBSRC SWBio DTP, jointly supervised by Jon Witton and Jack.
 
 ### Research:
  
-My PhD project is focused around investigating the role of the retrosplenial cortex in spatial cognition and cognitive flexibility, and how acetylcholine may modulate this relationship. To that end, in collaboration with the Dombeck lab group (Northwestern University), I have set up a virtual reality system that allows for in vivo two-photon imaging. 
+My PhD project is focused around investigating the role of the retrosplenial cortex in spatial cognition and cognitive flexibility, and how acetylcholine may modulate this relationship. To that end, in collaboration with the Dombeck lab group (Northwestern University), I have set up a virtual reality system that allows for in vivo 2-photon imaging. 
 
 My aim now is to utilise this setup, in combination with brain slice electrophysiology, to investigate the role of acetylcholine in the retrosplenial cortex during novelty and uncertainty.
 
