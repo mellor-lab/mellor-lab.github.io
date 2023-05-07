@@ -17,7 +17,7 @@ _Senior Research Associate_
 
 I started my neuroscience adventures with a PhD in 2012 at the University of Bath, UK where I investigated the role of nicotinic acetylcholine receptors in the 
 mechanisms of learning and memory in the prefrontal cortex, using brain slice electrophysiology with optogenetics.
-In 2016 I join Jack's lab as a postdoc where my research focuses on understanding how different inhibitory interneurons in the hippocampus regulate learning and memory mechanisms. 
+In 2016 I joined Jack's lab as a postdoc where my research focuses on understanding how different inhibitory interneurons in the hippocampus regulate learning and memory mechanisms. 
 
 
 ### Research:
