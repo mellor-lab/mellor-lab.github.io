@@ -15,16 +15,16 @@ _Research Associate_
 [<i class="fa-solid fa-envelope"></i>](mailto:jithin.nair@bristol.ac.uk)
 
 
-My interest in neuroscience began in 2016 while pursuing a master’s dissertation on unconventional glycine-binding NMDAR 
+My interest in neuroscience began in 2016 while pursuing a master’s dissertation on unconventional glycine-binding NMDA 
 receptors and their role in learning and memory formation. 
-In 2018 I moved to Bristol to join for a PhD with Jeremy Henley and Jack, 
-where I investigated the role of Kainate receptors in the plasticity of AMPA receptors. 
+In 2018 I moved to Bristol to start a PhD with Jeremy Henley and Jack, 
+where I investigated the role of kainate receptors in the plasticity of AMPA receptors. 
 In 2021 I joined the lab as a Postdoc. 
  
 
 ### Research:
  
-My research focuses the role of ion channels on the network activity of brain circuits. I am interested in understanding
+My research focuses on the role of ion channels in the network activity of brain circuits. I am interested in understanding
 the role of GluK2 pre-mRNA editing in maintaining healthy neuronal networks and its dysfunction in neurological and neurodevelopmental disorders.
 
 I am also interested in the role that AMPA receptor function has on epileptogenesis.
@@ -42,8 +42,8 @@ To investigate these topics I utilize my biochemical skill-set with brain slice 
 
 ```{admonition} Outside of the lab
 :class: note
-- I love to travel and click pictures of people, cities, landscapes, nature, and art forms. 
-- Shooting- Bullseye and clay
+- I love to travel and take pictures of people, cities, landscapes, nature, and art forms. 
+- Shooting: Bullseye and clay
 - Going for walks
 - Flying microlight
 - Listen to music whilst singing along

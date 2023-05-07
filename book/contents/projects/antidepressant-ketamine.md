@@ -12,7 +12,7 @@ This project led by [Joe Flanagan](../our-team/members/joeflanagan) in collabora
 :::{grid-item}
 
 Ketamine has shown promise as a potential therapeutic due to its sustained antidepressant effects.
-How ketamine, an antagonist to NMDA receptors, resuts in these effects is unclear.
+How ketamine, an antagonist to NMDA receptors, results in these effects is unclear.
 
 We aim to investigate synaptic and circuit alterations within the medial prefrontal cortex
 in response to ketamine administration to help us better understand its sustained antidepressant effects.
