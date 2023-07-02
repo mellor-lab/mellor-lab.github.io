@@ -83,8 +83,6 @@ _lab retreat 2012_
 ::::{grid} 1 2 3 3
 :gutter: 2
 
-:::
-
 :::{grid-item-card}
 
 <!-- 
