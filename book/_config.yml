@@ -21,7 +21,7 @@ sphinx:
             nosidebar: true
             # show_prev_next: false
             extra_footer: <p> Powered by <a href='https://jupyterbook.org/'>Jupyter Book</a></p>
-            announcement: "<p> 📢 We are currently hiring! Check out our <a href='https://mellor-lab.github.io/contents/our-team/work-with-us.html' rg/'> current positions </a></p>"
+            # announcement: "<p> 📢 We are currently hiring! Check out our <a href='https://mellor-lab.github.io/contents/our-team/work-with-us.html' rg/'> current positions </a></p>"
             analytics:
                 google_analytics_id: "G-DFGRNXM71K"
 
