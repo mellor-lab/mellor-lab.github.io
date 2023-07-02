@@ -1,6 +1,6 @@
 # Bristol neuroscience data guide
 
-This project led by [Martynas Dervinis](../our-team/current-members) and involving multiple neuroscience research groups as well as Bristol's [Advanced Computing Research Centre](https://www.bristol.ac.uk/acrc/) aims to create an open access and user friendly way to share and access large data sets that are becoming more common in modern neuroscience. 
+This project led by `Martynas Dervinis` and involving multiple neuroscience research groups as well as Bristol's [Advanced Computing Research Centre](https://www.bristol.ac.uk/acrc/) aims to create an open access and user friendly way to share and access large data sets that are becoming more common in modern neuroscience. 
 
 
 
