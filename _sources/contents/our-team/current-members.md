@@ -64,21 +64,6 @@ _Senior Research Associate_
 **`Jithin Nair`**  
 _Research Associate_  
 
-:::
-
-:::{grid-item-card}
-<!-- :link: members/martynasdervinis
-:link-type: doc -->
-
-**Martynas Dervinis**
-^^^
-
-![Martynas Dervinis](../img/members/martynas.jpg)
-
-**`Martynas Dervinis`**  
-_Research Associate_  
-
-:::
 
 ::::
 
