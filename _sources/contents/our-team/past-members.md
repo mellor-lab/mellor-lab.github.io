@@ -89,7 +89,7 @@ _lab retreat 2012_
 ![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
 -->
 
-**`Martynas Dervinis`** 
+**`Martynas Dervinis`**   
 _Postdoc_  
 
 :::
