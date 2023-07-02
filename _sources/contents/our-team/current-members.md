@@ -23,7 +23,7 @@
 ![Jack_Mellor](../img/members/jack.jpg)
 
 **`Jack Mellor`**  
-_Principle investigator_  
+_Principle Investigator_  
 
 :::
 ::::
