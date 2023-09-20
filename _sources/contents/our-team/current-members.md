@@ -66,6 +66,36 @@ _Research Associate_
 
 :::
 
+
+:::{grid-item-card}
+:link: members/lauraalberio
+:link-type: doc
+
+**Laura Alberio**
+^^^
+
+![Laura Alberio](../img/members/headshot.png)
+
+**`Laura Alberio`**  
+_Senior Research Associate_  
+
+:::
+
+
+:::{grid-item-card}
+:link: members/mattclaydon
+:link-type: doc
+
+**Matt Claydon**
+^^^
+
+![Matt Claydon](../img/members/headshot.png)
+
+**`Matt Claydon`**  
+_Senior Research Associate_  
+
+:::
+
 ::::
 
 ---
