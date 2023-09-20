@@ -19,6 +19,10 @@ iScience, **`2023`** ([article](https://doi.org/10.1016/j.isci.2023.107708)<br>
   **2022**
 
 ---
+_Single-phase deep learning in cortico-cortical networks_
+Will Greedy, Heng Wei Zhu, Joseph Pemberton, Jack Mellor, Rui Ponte Costa
+NeurIPS, **`2022`** ([article](https://proceedings.neurips.cc/paper_files/paper/2022/hash/99088dffd5eab0babebcda4bc58bbcea-Abstract-Conference.html)<br>
+
 _PDZD8 Disruption Causes Cognitive Impairment in Humans, Mice, and Fruit Flies_<br>
 Al-Amri AH, Armstrong P, Amici M, Ligneul C, Rouse J, El-Asrag ME, Pantiru A, Vancollie VE, Ng HWY, Ogbeta JA, Goodchild K, Ellegood J, Lelliott CJ, Mullins JGL, Bretman A, Al-Ali R, Beetz C, Al-Gazali L, Al Shamsi A, Lerch JP, Mellor JR, Al Sayegh A, Ali M, Inglehearn CF, Clapcote SJ.<br>
 Biol Psychiatry, **`2022`** ([article](https://doi.org/10.1016/j.biopsych.2021.12.017))<br>
