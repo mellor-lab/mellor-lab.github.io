@@ -128,7 +128,7 @@ _PhD Student_
 **Elsa Oakes** 
 ^^^
 
-![Elsa Oakes](headshot.png)
+![Elsa Oakes](../img/members/headshot.png)
 
 **`Elsa Oakes`**  
 _PhD Student_  

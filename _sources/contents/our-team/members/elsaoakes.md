@@ -1,6 +1,6 @@
 # Elsa Oakes
 
-```{image}../../img/members/headshot.png 
+```{image} ../../img/members/headshot.png 
 :class: no-scaled-link
 :width: 300
 ```
