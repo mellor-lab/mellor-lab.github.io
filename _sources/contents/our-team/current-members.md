@@ -167,8 +167,47 @@ _PhD Student_
 
 ::::
 
+---
+
+## Research Technicians
+
+::::{grid} 1 2 2 2
+:gutter: 5
+
+
+:::{grid-item-card}
+:link: members/shylinebajaba
+:link-type: doc
+
+**Shyline Bajaba** 
+^^^
+
+![Shyline Bajaba](../img/members/headshot.png)
+
+**`Shyline Bajaba`**  
+_Research Technician_  
+
+:::
+
+:::{grid-item-card}
+:link: members/aoifestevens
+:link-type: doc
+
+**Aoife Stevens** 
+^^^
+
+![Aoife Stevens](../img/members/headshot.png)
+
+**`Aoife Stevens`**  
+_Research Technician_  
+
+:::
+
+::::
 
 &nbsp;
+
+
 
 
 
