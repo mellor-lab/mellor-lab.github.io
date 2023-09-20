@@ -128,7 +128,7 @@ _PhD Student_
 **Elsa Oakes** 
 ^^^
 
-![Elsa Oakes](../img/members/joeflanagan.jpg)
+![Elsa Oakes](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
 
 **`Elsa Oakes`**  
 _PhD Student_  
