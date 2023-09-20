@@ -10,8 +10,8 @@ _A mild impairment in reversal learning in a bowl‐digging substrate determinis
 Simonas Griesius, Sophie Waldron, Katie A Kamenish, Nick Cherbanich, Lawrence S Wilkinson, Kerrie L. Thomas, Jeremy Hall, Jack R Mellor, Dominic M Dwyer, Emma S J Robinson
 Genes, Brain and Behavior, **`2023`** ([article](https://doi.org/10.1111/gbb.12865))<br>
 
-_GluK2 Q/R editing regulates kainate receptor signalling and long-term potentiation of AMPA receptors_
-JD Nair, KA Wilkinson, BP Yucel, C Mulle, B Vissel, J Mellor, JM Henley
+_GluK2 Q/R editing regulates kainate receptor signalling and long-term potentiation of AMPA receptors_<br>
+JD Nair, KA Wilkinson, BP Yucel, C Mulle, B Vissel, J Mellor, JM Henley<br>
 iScience, **`2023`** ([article](https://doi.org/10.1016/j.isci.2023.107708)<br>
 
 &nbsp;
@@ -19,8 +19,8 @@ iScience, **`2023`** ([article](https://doi.org/10.1016/j.isci.2023.107708)<br>
   **2022**
 
 ---
-_Single-phase deep learning in cortico-cortical networks_
-Will Greedy, Heng Wei Zhu, Joseph Pemberton, Jack Mellor, Rui Ponte Costa
+_Single-phase deep learning in cortico-cortical networks_<br>
+Will Greedy, Heng Wei Zhu, Joseph Pemberton, Jack Mellor, Rui Ponte Costa<br>
 NeurIPS, **`2022`** ([article](https://proceedings.neurips.cc/paper_files/paper/2022/hash/99088dffd5eab0babebcda4bc58bbcea-Abstract-Conference.html)<br>
 
 _PDZD8 Disruption Causes Cognitive Impairment in Humans, Mice, and Fruit Flies_<br>
