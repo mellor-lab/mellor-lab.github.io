@@ -7,7 +7,7 @@
 
 ---
 _A mild impairment in reversal learning in a bowl‐digging substrate deterministic task but not other cognitive tests in the Dlg2+/− rat model of genetic risk for psychiatric disorder_<br>
-Simonas Griesius, Sophie Waldron, Katie A Kamenish, Nick Cherbanich, Lawrence S Wilkinson, Kerrie L. Thomas, Jeremy Hall, Jack R Mellor, Dominic M Dwyer, Emma S J Robinson
+Simonas Griesius, Sophie Waldron, Katie A Kamenish, Nick Cherbanich, Lawrence S Wilkinson, Kerrie L. Thomas, Jeremy Hall, Jack R Mellor, Dominic M Dwyer, Emma S J Robinson<br>
 Genes, Brain and Behavior, **`2023`** ([article](https://doi.org/10.1111/gbb.12865))<br>
 
 _GluK2 Q/R editing regulates kainate receptor signalling and long-term potentiation of AMPA receptors_<br>
