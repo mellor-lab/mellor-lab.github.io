@@ -120,6 +120,21 @@ _PhD Student_
 
 :::
 
+
+:::{grid-item-card}
+:link: members/elsaoakes
+:link-type: doc
+
+**Elsa Oakes** 
+^^^
+
+![Elsa Oakes](../img/members/joeflanagan.jpg)
+
+**`Elsa Oakes`**  
+_PhD Student_  
+
+:::
+
 ::::
 
 
