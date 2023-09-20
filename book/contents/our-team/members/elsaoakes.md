@@ -1,6 +1,6 @@
 # Elsa Oakes
 
-```![image](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+```{image}../../img/members/headshot.png 
 :class: no-scaled-link
 :width: 300
 ```
