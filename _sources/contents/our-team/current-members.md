@@ -107,21 +107,6 @@ _Senior Research Associate_
 
 
 :::{grid-item-card}
-:link: members/hengweizhu
-:link-type: doc
-
-**Heng Wei Zhu** 
-^^^
-
-![Heng Wei Zhu](../img/members/heng.jpg)
-
-**`Heng Wei Zhu`**  
-_PhD Student_  
-
-:::
-
-
-:::{grid-item-card}
 :link: members/dangoodwin
 :link-type: doc
 
