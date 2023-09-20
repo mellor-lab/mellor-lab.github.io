@@ -5,7 +5,7 @@
 :width: 300
 ```
 
-**`Joe Flanagan`**  
+**`Elsa Oakes`**  
 _PhD Student_  
 [<i class="fa-solid fa-building-columns" style="color: #d74242;"></i>](https://research-information.bris.ac.uk/en/persons/elsa-oakes)
 [<i class="fa-solid fa-envelope"></i>](mailto:elsa.oakes@bristol.ac.uk)
