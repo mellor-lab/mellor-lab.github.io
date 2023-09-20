@@ -12,7 +12,7 @@ Genes, Brain and Behavior, **`2023`** ([article](https://doi.org/10.1111/gbb.128
 
 _GluK2 Q/R editing regulates kainate receptor signalling and long-term potentiation of AMPA receptors_<br>
 JD Nair, KA Wilkinson, BP Yucel, C Mulle, B Vissel, J Mellor, JM Henley<br>
-iScience, **`2023`** ([article](https://doi.org/10.1016/j.isci.2023.107708)<br>
+iScience, **`2023`** ([article](https://doi.org/10.1016/j.isci.2023.107708))<br>
 
 &nbsp;
 
