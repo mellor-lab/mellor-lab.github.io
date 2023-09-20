@@ -9,6 +9,15 @@
 
 :::{grid-item}
 
+```{image} ../img/labretreats/labphoto_2022.jpg
+:target: ../../_images/labphoto_2022.jpg
+
+```
+_lab retreat 2022_
+:::
+
+:::{grid-item}
+
 ```{image} ../img/labretreats/labphoto_2021.jpg
 :target: ../../_images/labphoto_2021.jpg
 
