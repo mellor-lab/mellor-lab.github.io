@@ -1,6 +1,6 @@
 # <center> Mellor Group <br> `Synapses, Plasticity and Cognition lab`</center> 
 
-```{image} img/lab_photo_2023.jpg
+```{image} img/lab_photo_2023.png
 :width: 750px
 :align: center
 :class: no-scaled-link
