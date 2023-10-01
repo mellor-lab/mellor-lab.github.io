@@ -4,7 +4,7 @@ options:
     title: ' title'
 parts:
   
-  - caption: Our Group
+  - caption:
     chapters:
     - file: contents/our-team/overview
       sections:
