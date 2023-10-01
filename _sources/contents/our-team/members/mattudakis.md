@@ -7,7 +7,7 @@
 
 **`Matt Udakis`**  
 _Senior Research Associate_  
-[<i class="fa-brands fa-twitter fa-lg" style="color:#2a67cf"></i>](https://twitter.com/matt_youdaykiss?lang=en-GB)
+[<i class="fa-brands fa-x-twitter fa-lg" style="color:#2a67cf"></i>](https://twitter.com/matt_youdaykiss?lang=en-GB)
 [<i class="fa-brands fa-linkedin-in fa-lg" style="color:#5a97d8"></i>](https://www.linkedin.com/in/matt-udakis-21070485/?originalSubdomain=uk)
 [<i class="fa-brands fa-researchgate" style="color: #57dba8;"></i>](https://www.researchgate.net/profile/Matt-Udakis)
 [<i class="fa-brands fa-github" style="color: #696969;"></i>](https://www.github.com/mattudakis)
