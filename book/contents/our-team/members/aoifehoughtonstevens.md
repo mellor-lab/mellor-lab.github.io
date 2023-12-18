@@ -1,11 +1,11 @@
-# Aoife Stevens
+# Aoife Houghton-Stevens
 
 ```{image} ../../img/members/headshot.png 
 :class: no-scaled-link
 :width: 300
 ```
 
-**`Aoife Stevens`**  
+**`Aoife Houghton-Stevens`**  
 _Research Technician_  
 [<i class="fa-solid fa-building-columns" style="color: #d74242;"></i>](https://research-information.bris.ac.uk/en/persons/)
 [<i class="fa-solid fa-envelope"></i>](mailto:uo19261@bristol.ac.uk)
