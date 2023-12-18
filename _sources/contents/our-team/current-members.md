@@ -35,38 +35,6 @@ _Principle Investigator_
 ::::{grid} 1 2 2 2
 :gutter: 5
 
-
-:::{grid-item-card}
-:link: members/mattudakis
-:link-type: doc
-
-**Matt Udakis**
-^^^
-
-![Matt Udakis](../img/members/mattudakis.jpg)
-
-**`Matt Udakis`**  
-_Senior Research Associate_  
-
-<!--[<i class="fa-brands fa-orcid" style="color: #6eee5d;"></i>](https://www.orcid.org)-->
-
-:::
-
-:::{grid-item-card}
-:link: members/jithinnair
-:link-type: doc
-
-**Jithin Nair**
-^^^
-
-![Jithin Nair](../img/members/jithin.jpg)
-
-**`Jithin Nair`**  
-_Research Associate_  
-
-:::
-
-
 :::{grid-item-card}
 :link: members/lauraalberio
 :link-type: doc
@@ -96,6 +64,36 @@ _Senior Research Associate_
 
 :::
 
+:::{grid-item-card}
+:link: members/jithinnair
+:link-type: doc
+
+**Jithin Nair**
+^^^
+
+![Jithin Nair](../img/members/jithin.jpg)
+
+**`Jithin Nair`**  
+_Research Associate_  
+
+:::
+
+:::{grid-item-card}
+:link: members/mattudakis
+:link-type: doc
+
+**Matt Udakis**
+^^^
+
+![Matt Udakis](../img/members/mattudakis.jpg)
+
+**`Matt Udakis`**  
+_Senior Research Associate_  
+
+<!--[<i class="fa-brands fa-orcid" style="color: #6eee5d;"></i>](https://www.orcid.org)-->
+
+:::
+
 ::::
 
 ---
@@ -104,22 +102,6 @@ _Senior Research Associate_
 
 ::::{grid} 1 2 2 2
 :gutter: 5
-
-
-:::{grid-item-card}
-:link: members/dangoodwin
-:link-type: doc
-
-**Dan Goodwin** 
-^^^
-
-![Dan Goodwin](../img/members/dangoodwin.jpg)
-
-**`Dan Goodwin`**  
-_PhD Student_  
-
-:::
-
 
 :::{grid-item-card}
 :link: members/joeflanagan
@@ -131,6 +113,20 @@ _PhD Student_
 ![Joe Flanagan](../img/members/joeflanagan.jpg)
 
 **`Joe Flanagan`**  
+_PhD Student_  
+
+:::
+
+:::{grid-item-card}
+:link: members/dangoodwin
+:link-type: doc
+
+**Dan Goodwin** 
+^^^
+
+![Dan Goodwin](../img/members/dangoodwin.jpg)
+
+**`Dan Goodwin`**  
 _PhD Student_  
 
 :::
@@ -175,15 +171,15 @@ _Research Technician_
 :::
 
 :::{grid-item-card}
-:link: members/aoifestevens
+:link: members/aoifehoughtonstevens
 :link-type: doc
 
-**Aoife Stevens** 
+**Aoife Houghton-Stevens** 
 ^^^
 
-![Aoife Stevens](../img/members/headshot.png)
+![Aoife Houghton-Stevens](../img/members/headshot.png)
 
-**`Aoife Stevens`**  
+**`Aoife Houghton-Stevens`**  
 _Research Technician_  
 
 :::
