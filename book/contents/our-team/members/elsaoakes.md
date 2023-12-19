@@ -35,7 +35,7 @@ I will use a variety of techniques including brain slice electrophysiology, in v
 - Knitting
 - Baking
 - Hiking
-- Watching Exeter Cheifs rugby
+- Watching Exeter Chiefs rugby
 
 ``` 
 
