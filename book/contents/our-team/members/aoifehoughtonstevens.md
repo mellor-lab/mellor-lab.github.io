@@ -30,11 +30,11 @@ OLM-placecells.md
 
 &nbsp;
 
-### Outside of the lab: 
+```{admonition} Outside of the lab
+:class: note
 - Reading fantasy novels
 - Learning languages
 - Kick boxing 
-
 
 ``` 
 
