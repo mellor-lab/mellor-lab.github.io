@@ -33,6 +33,7 @@ Supervision of undergraduate research project -> neuromodulation of OLM interneu
 
 ```{admonition} Outside of the lab
 :class: note
+
 - Reading fantasy novels
 - Learning languages
 - Kick boxing 
