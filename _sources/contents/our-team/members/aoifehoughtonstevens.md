@@ -26,7 +26,8 @@ Supervision of undergraduate research project -> neuromodulation of OLM interneu
 
 ### Current projects:
 
-OLM-placecells.md
+- [OLM interneurons and place cell stability](../../projects/olm-placecells)
+
 
 &nbsp;
 
