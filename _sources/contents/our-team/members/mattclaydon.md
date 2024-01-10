@@ -15,10 +15,10 @@ _Senior Research Associate_
 [<i class="fa-brands fa-orcid" style="color: #6eee5d;"></i>](https://www.orcid.org)
 [<i class="fa-brands fa-github" style="color: #696969;"></i>](https://www.github.com) -->
 
-
+My interest in neuroscience started during my undergraduate degree at UCL, and that was furthered during my MSc in molecular neuroscience at the University of Bristol. During my MSc I got a taste for research and went on to complete a PhD investigating the effects of circadian disruption and steroid treatment using brain slice electrophysiology. I have joined Jack's lab in 2024 as a postdoc and am now investigating risk genes associated with schizophrenia.
 
 ### Research:
- 
+My research in the Mellor lab will utilise two-photon imaging of dendritic calcium, combined with whole-cell electrophysiology, to assess the convergent and divergent changes in synaptic integration and physiological properties that may arise from several high-risk genetic mutations associated with schizophrenia. I use a combination of acute brain slices and cultured organotypic human brain slices.
 
 ### Current projects:
 
@@ -27,7 +27,13 @@ _Senior Research Associate_
 
 
 ```{admonition} Outside of the lab
-:class: note
+:class: note:
+
+- I love powerlifting, though am yet to compete...
+- I love getting out in nature, trail running, completed my first ultra in October '23!
+- Cooking (and eating)
+- Live music and board games
+- Watching football & rugby
 
 ``` 
 
