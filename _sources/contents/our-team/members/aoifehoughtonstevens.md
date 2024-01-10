@@ -1,5 +1,9 @@
 # Aoife Houghton Stevens
 
+```{image} ../../img/members/headshot.png 
+:class: no-scaled-link
+:width: 300
+```
 
 
 **`Aoife Houghton Stevens`**  
