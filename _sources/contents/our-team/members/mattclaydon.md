@@ -26,13 +26,13 @@ My research in the Mellor lab will utilise two-photon imaging of dendritic calci
 
 
 ```{admonition} Outside of the lab
-:class: note:
+:class: note
 - I love powerlifting, though am yet to compete...
 - I love getting out in nature, trail running, completed my first ultra in October '23!
 - Cooking (and eating)
 - Live music and board games
 - Watching football & rugby
-``` 
+```
 
 &nbsp;
 
