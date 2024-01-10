@@ -174,12 +174,12 @@ _Research Technician_
 :link: members/aoifehoughtonstevens
 :link-type: doc
 
-**Aoife Houghton-Stevens** 
+**Aoife Houghton Stevens** 
 ^^^
 
-![Aoife Houghton-Stevens](../img/members/headshot.png)
+![Aoife Houghton Stevens](../img/members/headshot.png)
 
-**`Aoife Houghton-Stevens`**  
+**`Aoife Houghton Stevens`**  
 _Research Technician_  
 
 :::
