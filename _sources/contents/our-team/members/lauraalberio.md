@@ -51,7 +51,7 @@ of schizophrenia risk genes. I use in vivo 2-photon Ca2+ imaging of place cells 
 
 _Daily rhythm in cortical chloride homeostasis underpins functional changes in visual cortex excitability_<br>
 Enrico Pracucci*, Robert T. Graham*, `Laura Alberio*`, Gabriele Nardi*, Olga Cozzolino, Vinoshene Pillai, Giacomo Pasquini, Luciano Saieva, Darren Walsh, Silvia Landi, Jinwei Zhang, Andrew J. Trevelyan and Gian-Michele Ratto <br>
-Nature communications **2023** ([article](https://www.nature.com/articles/s41467-023-42711-7))
+Nature communications, **2023** ([article](https://www.nature.com/articles/s41467-023-42711-7))
 
 _Optogenetic stimulation reveals a latent tipping point in cortical networks during ictogenesis_<br>
 Robert T Graham, R Ryley Parrish, `Laura Alberio`, Emily L Johnson, Laura Owens, Andrew J Trevelyan <br>
