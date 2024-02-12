@@ -56,6 +56,7 @@ Nature communications **2023** ([article](https://www.nature.com/articles/s41467
 _Optogenetic stimulation reveals a latent tipping point in cortical networks during ictogenesis_<br>
 Robert T Graham, R Ryley Parrish, `Laura Alberio`, Emily L Johnson, Laura Owens, Andrew J Trevelyan <br>
 Brain, **2023** ([article](https://academic.oup.com/brain/article/146/7/2814/6961100))
+
 _Gating movements and ion permeation in HCN4 pacemaker channels_<br>
 Andrea Saponaro, Daniel Bauer, M. Hunter Giese, Paolo Swuec, Alessandro Porro, Federica Gasparri, Atiyeh Sadat Sharifzadeh, Antonio Chaves-Sanjuan, `Laura Alberio`, Giacomo Parisi, Gabriele Cerutti, Oliver B. Clarke, Kay Hamacher, Henry M. Colecraft, Filippo Mancia, Wayne A. Hendrickson, Steven A. Siegelbaum, Dario DiFrancesco, Martino Bolognesi, Gerhard Thiel, Anna Moroni<br>
 Molecular Cell, **2021** ([article](https://doi.org/10.1016/j.molcel.2021.05.033))
