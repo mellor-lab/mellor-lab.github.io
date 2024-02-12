@@ -7,7 +7,7 @@
 
 **`Laura Alberio`**  
 _Senior Research Associate_  
-[<i class="fa-solid fa-building-columns" style="color: #d74242;"></i>](https://research-information.bris.ac.uk/en/persons/)
+[<i class="fa-solid fa-building-columns" style="color: #d74242;"></i>](https://research-information.bris.ac.uk/en/persons/laura-alberio)
 [<i class="fa-solid fa-envelope"></i>](mailto:laura.alberio@bristol.ac.uk)
 [<i class="fa-brands fa-researchgate" style="color: #57dba8;"></i>](https://www.researchgate.net/profile/Laura-Alberio )
 [<i class="fa-brands fa-orcid" style="color: #6eee5d;"></i>]( https://orcid.org/0000-0002-2887-3343)
