@@ -39,8 +39,8 @@ of schizophrenia risk genes. I use in vivo 2-photon Ca2+ imaging of place cells 
 :class: note
 - I like to read fiction and novels
 - Cooking, especially Italian dishes
-- I love to start more crochet projects than I can finish 
 - Looking after my plants and flowers
+- and I love to start more crochet projects than I can finish 
 ``` 
 &nbsp;
 
