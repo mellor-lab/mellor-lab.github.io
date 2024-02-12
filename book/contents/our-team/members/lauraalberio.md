@@ -50,7 +50,7 @@ of schizophrenia risk genes. I use in vivo 2-photon Ca2+ imaging of place cells 
 ### Publications:
 
 _Daily rhythm in cortical chloride homeostasis underpins functional changes in visual cortex excitability_<br>
-Enrico Pracucci, Robert T. Graham, `Laura Alberio`, Gabriele Nardi, Olga Cozzolino, Vinoshene Pillai, Giacomo Pasquini, Luciano Saieva, Darren Walsh, Silvia Landi, Jinwei Zhang, Andrew J. Trevelyan and Gian-Michele Ratto <br>
+Enrico Pracucci*, Robert T. Graham*, `Laura Alberio*`, Gabriele Nardi*, Olga Cozzolino, Vinoshene Pillai, Giacomo Pasquini, Luciano Saieva, Darren Walsh, Silvia Landi, Jinwei Zhang, Andrew J. Trevelyan and Gian-Michele Ratto <br>
 Nature communications **2023** ([article](https://www.nature.com/articles/s41467-023-42711-7))
 
 _Optogenetic stimulation reveals a latent tipping point in cortical networks during ictogenesis_<br>
@@ -62,7 +62,7 @@ Andrea Saponaro, Daniel Bauer, M. Hunter Giese, Paolo Swuec, Alessandro Porro, F
 Molecular Cell, **2021** ([article](https://doi.org/10.1016/j.molcel.2021.05.033))
 
 _A light-gated potassium channel for sustained neuronal inhibition_<br>
-`Laura Alberio`, Andrea Locarno, Andrea Saponaro, Edoardo Romano, Valérie Bercier, Shahad Albadri, Federica Simeoni, Silvia Moleri, Silvia Pelucchi, Alessandro Porro, Elena Marcello, Noemi Barsotti, Kerri Kukovetz, Arjen J. Boender, Andrea Contestabile, Shizhen Luo, Aubin Moutal, Yingshi Ji, Giulia Romani, Monica Beltrame, Filippo Del Bene, Monica Di Luca, Rajesh Khanna, Henry M. Colecraft, Massimo Pasqualetti, Gerhard Thiel, Raffaella Tonini and Anna Moroni<br>
+`Laura Alberio*`, Andrea Locarno*, Andrea Saponaro, Edoardo Romano, Valérie Bercier, Shahad Albadri, Federica Simeoni, Silvia Moleri, Silvia Pelucchi, Alessandro Porro, Elena Marcello, Noemi Barsotti, Kerri Kukovetz, Arjen J. Boender, Andrea Contestabile, Shizhen Luo, Aubin Moutal, Yingshi Ji, Giulia Romani, Monica Beltrame, Filippo Del Bene, Monica Di Luca, Rajesh Khanna, Henry M. Colecraft, Massimo Pasqualetti, Gerhard Thiel, Raffaella Tonini and Anna Moroni<br>
 Nature Methods, **2018** ([article](https://www.nature.com/articles/s41592-018-0186-9))
 
 _Yeast-Based Screening System for the Selection of Functional Light-Driven K+ Channels_<br>
