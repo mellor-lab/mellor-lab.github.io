@@ -1,6 +1,6 @@
 # Shyline Bajaba
 
-```{image} ../../img/members/headshot.png 
+```{image} ../../img/members/shyline.jpg 
 :class: no-scaled-link
 :width: 300
 ```

@@ -163,7 +163,7 @@ _PhD Student_
 **Shyline Bajaba** 
 ^^^
 
-![Shyline Bajaba](../img/members/headshot.png)
+![Shyline Bajaba](../img/members/shyline.jpg)
 
 **`Shyline Bajaba`**  
 _Research Technician_  
