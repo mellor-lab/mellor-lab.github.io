@@ -69,7 +69,7 @@ _Yeast-Based Screening System for the Selection of Functional Light-Driven K+ Ch
 Cristian Cosentino, `Laura Alberio`, Gerhard Thiel, Anna Moroni <br>
 Methods in Molecular Biology, **2017** ([article](https://link.springer.com/protocol/10.1007/978-1-4939-6940-1_17))
 
-_ Engineering of a light-gatedpotassium channel_<br>
+_Engineering of a light-gatedpotassium channel_<br>
 Cristian Cosentino,`Laura Alberio`, Sabrina Gazzarrini, Marco Aquila, Edoardo Romano, Solei Cermenati, Paolo Zuccolini, Jan Petersen, Monica Beltrame, James L. Van Etten, John M. Christie, Gerhard Thiel, Anna Moroni<br>
 Science, **2015** ([article](https://www.science.org/doi/10.1126/science.aaa2787))
 
