@@ -19,7 +19,7 @@ I received my BSc in Biochemistry and Cell Biology from Jacobs University Bremen
 
 ### Research:
 
-
+My project is researching the biological underpinnings of neurodevelopmenal disroders like schizphrenia. This project aims to provide understanding of the cellular and molecular mechanisms underlying  psychiatric disorders, thereby paving a way into better theraupetic approaches.
 
 
 &nbsp;
