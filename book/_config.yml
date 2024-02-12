@@ -9,7 +9,7 @@ html:
     home_page_in_navbar       : false
     logo_only                 : true
     extra_navbar              : "<div>your html</div>"
-    favicon                   : "favicon.ico"
+    favicon                   : contents/img/favicon.ico
     
 sphinx:
     extra_extensions:
