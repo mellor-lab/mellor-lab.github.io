@@ -18,7 +18,9 @@ To address these questions we use an array of technical approaches including ex 
 ```{admonition} Find out more 
 :class: note
 
-Check out our [current projects](projects/index) and [recent publications](publications).
+For more information about our work take a look at this [futurum article](https://futurumcareers.com/the-importance-of-memory-in-severe-mental-illness) about the lab. 
+
+Also check out our [current projects](projects/index) and [recent publications](publications).
 
 
 ```
