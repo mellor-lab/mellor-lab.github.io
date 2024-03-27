@@ -1,6 +1,6 @@
 # Matt Udakis
 
-```{image} ../../img/members/mattudakis.jpg 
+```{image} ../../img/members/mattudakis2.jpg 
 :class: no-scaled-link
 :width: 300
 ```
