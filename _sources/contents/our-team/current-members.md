@@ -85,7 +85,7 @@ _Research Associate_
 **Matt Udakis**
 ^^^
 
-![Matt Udakis](../img/members/mattudakis.jpg)
+![Matt Udakis](../img/members/mattudakis2.jpg)
 
 **`Matt Udakis`**  
 _Senior Research Associate_  
