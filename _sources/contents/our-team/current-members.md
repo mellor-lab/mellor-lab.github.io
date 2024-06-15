@@ -57,7 +57,7 @@ _Senior Research Associate_
 **Matt Claydon**
 ^^^
 
-![Matt Claydon](../img/members/headshot.png)
+![Matt Claydon](../img/members/mattclaydon.jpg)
 
 **`Matt Claydon`**  
 _Senior Research Associate_  
