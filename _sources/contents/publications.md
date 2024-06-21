@@ -2,6 +2,16 @@
 
 &nbsp; 
 &nbsp;
+&nbsp;
+
+  **2024**
+
+---
+_Hippocampal-dependent navigation in head-fixed mice using a floating real-world environment_<br>
+Sarah A. Stuart, Jon Palacios-Filardo, Aleks Domanski, Matt Udakis, Ian Duguid, Matt W. Jones & Jack R. Mellor<br>
+Scientific Reports, **`2024`** ([article](https://doi.org/10.1038/s41598-024-64807-w))<br>
+
+&nbsp;
 
   **2023**
 

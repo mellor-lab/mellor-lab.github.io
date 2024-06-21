@@ -52,6 +52,10 @@ I use a combination of 2-photon microscopy, brain slice electrophysiology and in
 
 ### Publications:
 
+_Hippocampal-dependent navigation in head-fixed mice using a floating real-world environment_<br>
+Sarah A. Stuart, Jon Palacios-Filardo, Aleks Domanski, `Matt Udakis`, Ian Duguid, Matt W. Jones & Jack R. Mellor<br>
+Scientific Reports, **2024** ([article](https://doi.org/10.1038/s41598-024-64807-w))<br>
+
 _Acetylcholine prioritises direct synaptic inputs from entorhinal cortex to CA1 by differential modulation of feedforward inhibitory circuits_<br>
 Jon Palacios-Filardo, `Matt Udakis`, Giles A Brown, Benjamin G Tehan, Miles S Congreve, Pradeep J Nathan, Alastair JH Brown, Jack R Mellor <br>
 Nature communications **2021** ([article](https://www.nature.com/articles/s41467-021-25280-5)) 
