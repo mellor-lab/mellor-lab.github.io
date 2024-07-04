@@ -11,6 +11,10 @@ _Hippocampal-dependent navigation in head-fixed mice using a floating real-world
 Sarah A. Stuart, Jon Palacios-Filardo, Aleks Domanski, Matt Udakis, Ian Duguid, Matt W. Jones & Jack R. Mellor<br>
 Scientific Reports, **`2024`** ([article](https://doi.org/10.1038/s41598-024-64807-w))<br>
 
+_Analysis of hippocampal synaptic function in a rodent model of early life stress_<br>
+Wilkinson MP, Robinson ESJ and Mellor JR<br>
+Wellcome Open Res, **`2024`** ([article](https://doi.org/10.12688/wellcomeopenres.22276.1))<br>
+
 _APP fragment controls both ionotropic and non-ionotropic signaling of NMDA receptors_<br>
 Dunot J, Moreno S, Gandin C, Pousinha PA, Amici M, Dupuis J, Anisimova M, Winschel A, Uriot M, Petshow SJ, Mensch M, Bethus I, Giudici C, Hampel H, Wefers B, Wurst W, Naumann R, Ashby MC, Laube B, Zito K, Mellor JR, Groc L, Willem M, Marie H.<br>
 Neuron, **`2024`** ([article](https://doi.org/10.1016/j.neuron.2024.05.027))<br>
