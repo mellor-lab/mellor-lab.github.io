@@ -98,6 +98,18 @@ _lab retreat 2012_
 ![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
 -->
 
+**`Aoife Houghton Stevens`**  
+_Research Technician_  
+
+:::
+
+
+:::{grid-item-card}
+
+<!-- 
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
+-->
+
 **`Heng Wei Zhu`**  
 _PhD student_  
 
