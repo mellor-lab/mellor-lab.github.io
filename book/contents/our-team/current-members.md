@@ -170,20 +170,6 @@ _Research Technician_
 
 :::
 
-:::{grid-item-card}
-:link: members/aoifehoughtonstevens
-:link-type: doc
-
-**Aoife Houghton Stevens** 
-^^^
-
-![Aoife Houghton Stevens](../img/members/headshot.png)
-
-**`Aoife Houghton Stevens`**  
-_Research Technician_  
-
-:::
-
 ::::
 
 &nbsp;
