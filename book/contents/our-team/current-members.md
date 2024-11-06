@@ -78,22 +78,6 @@ _Research Associate_
 
 :::
 
-:::{grid-item-card}
-:link: members/mattudakis
-:link-type: doc
-
-**Matt Udakis**
-^^^
-
-![Matt Udakis](../img/members/mattudakis2.jpg)
-
-**`Matt Udakis`**  
-_Senior Research Associate_  
-
-<!--[<i class="fa-brands fa-orcid" style="color: #6eee5d;"></i>](https://www.orcid.org)-->
-
-:::
-
 ::::
 
 ---
