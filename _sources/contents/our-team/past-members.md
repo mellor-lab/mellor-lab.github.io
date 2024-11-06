@@ -99,7 +99,7 @@ _lab retreat 2012_
 -->
 
 **`Matt Udakis`**  
-_Senior Research Associate_  
+_Postdoc_  
 
 :::
 
