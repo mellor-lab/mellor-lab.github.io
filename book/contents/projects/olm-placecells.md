@@ -1,12 +1,12 @@
 # OLM interneuron regulation of place cells
 
-This project led by [Matt Udakis](../our-team/members/mattudakis) aims to investigate how OLM interneurons
+This project led by Matt Udakis aims to investigate how OLM interneurons
 regulate place cell activity, formation and stability in the hippocampus. 
 
 ::::{grid} 1 3 3 3
 
 :::{grid-item}
-:columns: 8
+:columns: 8 
 ```{image} ../img/projects/inscopix_project.png 
 :class: bg-transparent no-scaled-link
 :align: center
