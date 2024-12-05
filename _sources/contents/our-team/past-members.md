@@ -98,7 +98,7 @@ _lab retreat 2012_
 ![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
 -->
 
-**`Matt Udakis`**  
+**`Matt Udąkìs`**  
 _Postdoc_  
 
 :::
