@@ -28,8 +28,10 @@ I joined Jack’s lab as a postdoc in 2023 to investigate risk genes associated 
 My research focus is to assess how dendritic Ca2+ signalling, flexibility of contextual representations and adaptive behaviour are disrupted in mice with reduced expression
 of schizophrenia risk genes. I use in vivo 2-photon Ca2+ imaging of place cells activity during precisely defined behavioural tasks in a virtual reality system.
 
-<!-- ### Current projects:
--->
+
+### Current projects:
+
+- [Genetic risk factors for Schizophrenia](../../projects/genetic-schizophrenia)
 
 
 &nbsp;
