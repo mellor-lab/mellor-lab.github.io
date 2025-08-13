@@ -22,6 +22,10 @@ parts:
         - file: contents/projects/adaptive-learning
           title: Choliniergic mediated adaptive learning
         - file: contents/projects/kainate-editing
+        - file: contents/projects/genetic-schizophrenia
+          title: Genetic risk factors for schizophrenia
+        - file: contents/projects/psilocybin-mechanisms
+          title: Actions of psilocybin
     - file: contents/research-environment/how-we-work
       sections:    
       - file: contents/research-environment/group-meetings
