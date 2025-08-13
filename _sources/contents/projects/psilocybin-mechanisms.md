@@ -18,7 +18,7 @@ We aim to investigate synaptic and circuit mechanisms by which psilocybin affect
 :::{grid-item}
 
 
-```{image} ../img/projects/psilocybin_calcium.png 
+```{image} ../img/projects/psilocybin_FOV.png 
 :align: center
 :width: 300px
 :class: bg-transparent no-scaled-link
