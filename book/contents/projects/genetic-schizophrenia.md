@@ -4,7 +4,7 @@ Schizophrenia is a severe neurodevelopmental disorder affecting ~1% of the popul
 
 Environmental and genetic underlying causes have been identified, and a research from  SCHEMA Consortium pinpointed 10 individual genes that are ultra-high risk factor, four of these being associated with synaptic calcium regulation and plasticity.
 
-[Matt Claydon] (../our-team/members/mattclaydon), [Laura Alberio] (../our-team/members/lauraalberio), Marie Sabec and [Shyline Bajaba] (../our-team/members/shylinebajaba) are working on the project integrating in vitro and in vivo approaches.
+[Matt Claydon](../our-team/members/mattclaydon), [Laura Alberio](../our-team/members/lauraalberio), Marie Sabec and [Shyline Bajaba](../our-team/members/shylinebajaba) are working on the project integrating in vitro and in vivo approaches.
 
 ### Aim:
 
@@ -13,7 +13,7 @@ Environmental and genetic underlying causes have been identified, and a research
 
 :::{grid-item}
 
-We want to assess how the stability of spatial representations and adaptive behaviour are disrupted in mice with altered expression of schizophrenia risk genes.
+We want to assess how synaptic plasticity mechanisms are disrupted in mice with altered expression of schizophrenia risk genes and how this disruption affects the stability of spatial representations and adaptive behaviour. 
 
 :::
 
@@ -33,7 +33,10 @@ We want to assess how the stability of spatial representations and adaptive beha
 
 ### Techniques:
 
-We combine in vivo 2-photon Calcium imaging of CA1 activity with precisely defined behavioural tasks in a virtual reality system.
+We perform in vitro 2-photon calcium imaging and electrophysiological recording from mouse brain slices to assess the disruption of synaptic plasticity.
+
+We use in vivo 2-photon calcium imaging of CA1 during defined behavioural tasks in a virtual reality system to assess the stability of the mouse spatial representations.
+
 
 
 &nbsp;
