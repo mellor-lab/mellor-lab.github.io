@@ -1,6 +1,6 @@
 # Actions of psilocybin 
 
-This project led by Elsa Oakes in collaboration with Emma Robinson, Jon Witton (Exeter) and COMPASS pathways aims to investigate the mechanisms by which psilocybin alters neuronal representations and neuroplasticity in the hippocampus. 
+This project led by [Elsa Oakes](../our-team/members/elsaoakes) in collaboration with Emma Robinson, Jon Witton (Exeter) and COMPASS pathways aims to investigate the mechanisms by which psilocybin alters neuronal representations and neuroplasticity in the hippocampus. 
 
 
 
