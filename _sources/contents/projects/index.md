@@ -74,7 +74,7 @@ We utilise a range of methodologies including:
 :::
 
 :::{grid-item-card}
-:link: genetic-scizophrenia
+:link: genetic-schizophrenia
 :link-type: doc
 :text-align: center
 :img-top: ../img/projects/FOV_cropped.png
