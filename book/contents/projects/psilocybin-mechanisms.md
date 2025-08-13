@@ -20,7 +20,7 @@ We aim to investigate synaptic and circuit mechanisms by which psilocybin affect
 
 ```{image} ../img/projects/psilocybin_FOV.png 
 :align: center
-:width: 300px
+:width: 500px
 :class: bg-transparent no-scaled-link
 ```
 
