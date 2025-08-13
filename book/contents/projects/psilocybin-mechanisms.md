@@ -11,7 +11,7 @@ This project led by Elsa Oakes in collaboration with Emma Robinson, Jon Witton (
 
 :::{grid-item}
 
-Aim
+We aim to investigate synaptic and circuit mechanisms by which psilocybin affects neuronal representations and plasticity in the dorsal hippocampus. 
 
 :::
 
