@@ -15,12 +15,12 @@ _PhD Student_
 [<i class="fa-brands fa-orcid" style="color: #6eee5d;"></i>](https://www.orcid.org)
 [<i class="fa-brands fa-github" style="color: #696969;"></i>](https://www.github.com) -->
 
-I graduated from the University of Exeter with a BSc in Neuroscience with Professional Placement in 2023. My research placement focused on the roles of extrasynaptic GABAergric signalling in the suprachiasmatic nucleus, and my final year project investigated the miroglial response to adeno-associated viral vector injections. I started my PhD in September 2023, jointly supervised by Jack and Emma Robinson. 
+I graduated from the University of Exeter with a BSc in Neuroscience with Professional Placement in 2023. My research placement focused on the roles of extrasynaptic GABAergic signalling in the suprachiasmatic nucleus, and my final year project investigated the miroglial response to adeno-associated viral vector injections. I started my PhD in September 2023, jointly supervised by Jack, Emma Robinson and Jon Witton supported by COMPASS pathways. 
 
 ### Research:
 My PhD project is researching the mechanisms by which psilocybin treatment alters neural plasticity in the rodent hippocampus. This project aims to provide insight into how psychedelic drugs could be used to treat psychiatric disorders such as MDD. 
 
-I will use a variety of techniques including brain slice electrophysiology, in vivo 2-photon imaging with virtual reality system and behavioural assays.
+I will use a variety of techniques including brain slice electrophysiology, in vivo imaging and behavioural assays.
 
 ### Current projects:
 
