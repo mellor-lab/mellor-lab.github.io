@@ -1,6 +1,6 @@
 # Actions of psilocybin 
 
-Introduction
+This project led by Elsa Oakes in collaboration with Emma Robinson, Jon Witton (Exeter) and COMPASS pathways aims to investigate the mechanisms by which psilocybin alters neuronal representations and neuroplasticity in the hippocampus. 
 
 
 
@@ -30,7 +30,7 @@ Aim
 
 
 ### Techniques:
-Methods
+We utilise in vivo calcium imaging techniques whilst animals explore familiar and novel environments across multiple days with the administration of a synthetic proprietary formulation of psilocybin. This work is complemented by ex vivo slice electrophysiology and computational methods to try and understand how psilocybin may affect neuronal representations at the circuit level. 
 
 
 &nbsp;
