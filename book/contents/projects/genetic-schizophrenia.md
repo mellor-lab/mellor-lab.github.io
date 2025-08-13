@@ -18,7 +18,7 @@ Aim
 :::{grid-item}
 
 
-```{image} ../img/projects/ketamine-structure.png 
+```{image} ../img/projects/FOV_cropped.png 
 :align: center
 :width: 300px
 :class: bg-transparent no-scaled-link
