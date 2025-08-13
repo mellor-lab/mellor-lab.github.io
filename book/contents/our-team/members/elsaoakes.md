@@ -18,7 +18,7 @@ _PhD Student_
 I graduated from the University of Exeter with a BSc in Neuroscience with Professional Placement in 2023. My research placement focused on the roles of extrasynaptic GABAergric signalling in the suprachiasmatic nucleus, and my final year project investigated the miroglial response to adeno-associated viral vector injections. I started my PhD in September 2023, jointly supervised by Jack and Emma Robinson. 
 
 ### Research:
-My PhD project is researching the mechanisms by which psylocibin treatment alters neural plasciticty in the rodent hippocampus. This project aims to provide insight into how psychedelic drugs could be used to treat psychiatric disorders such as MDD. 
+My PhD project is researching the mechanisms by which psilocybin treatment alters neural plasticity in the rodent hippocampus. This project aims to provide insight into how psychedelic drugs could be used to treat psychiatric disorders such as MDD. 
 
 I will use a variety of techniques including brain slice electrophysiology, in vivo 2-photon imaging with virtual reality system and behavioural assays.
 
