@@ -73,6 +73,23 @@ We utilise a range of methodologies including:
 <p style='text-align: center;'> GluK2 editing in maintaining neuronal networks </p>
 :::
 
+:::{grid-item-card}
+:link: genetic-scizophrenia
+:link-type: doc
+:text-align: center
+:img-top: ../img/projects/FOV cropped.png
+
+<p style='text-align: center;'> Genetic risk factors for schizophrenia </p>
+:::
+
+:::{grid-item-card}
+:link: psilocybin-mechanisms
+:link-type: doc
+:text-align: center
+:img-top: ../img/projects/psilocybin_calcium.png
+
+<p style='text-align: center;'> Actions of psilocybin </p>
+:::
 
 ::::
 
