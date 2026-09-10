@@ -1,7 +1,6 @@
 # Rhomboid proteolysis as a regulator of synaptic transmission
 
-This project is led by [Ashvini Wijayapala](../our-team/members/ashviniwijayapala) in collaboration with Jeremy Henley's group aims to understand 
-how GluK2 Q/R editing radically alters the KAR properties and neuronal networks.
+This project is led by [Ashvini Wijayapala](../our-team/members/ashviniwijayapala) in collaboration with 
 
 
 &nbsp;
