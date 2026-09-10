@@ -33,25 +33,42 @@ We want to assess how synaptic plasticity mechanisms are disrupted in mice with 
 
 ### Research Streams:
 
-::::{grid} 1 2 3 3 :gutter: 4
+&nbsp;
 
-:::{grid-item-card} :link: vr-imaging :link-type: doc :text-align: center :img-top: ../img/projects/mouse_VR.png
+::::{grid} 1 2 3 3
+:gutter: 4
 
-In vivo 2-photon calcium imaging
+:::{grid-item-card}
+:link: vr-imaging
+:link-type: doc
+:text-align: center
+:img-top: ../img/projects/bndg.png
 
+<p style='text-align: center;'> In vivo calcium imaging </p>
 :::
 
-:::{grid-item-card} :link: ephys-slice :link-type: doc :text-align: center :img-top: ../img/projects/ms_slice.png
+:::{grid-item-card}
+:link: ephys-slice
+:link-type: doc
+:text-align: center
+:img-top: ../img/projects/bndg.png
 
-Patch clamp electrophysiology 
-
+<p style='text-align: center;'> Electrophysiology </p>
 :::
 
+:::{grid-item-card}
+:link: human-culture
+:link-type: doc
+:text-align: center
+:img-top: ../img/projects/bndg.png
+
+<p style='text-align: center;'> Human brain cultures </p>
 :::
 
-
+::::
 
 &nbsp;
+
 
 
 
