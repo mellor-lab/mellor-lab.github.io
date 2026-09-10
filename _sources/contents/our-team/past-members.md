@@ -98,7 +98,29 @@ _lab retreat 2012_
 ![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
 -->
 
-**`Matt Udąkìs`**  
+**`Jithin Nair`**  
+_Postdoc_  
+
+:::
+
+:::{grid-item-card}
+
+<!-- 
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
+-->
+
+**`Dan Goodwin`**  
+_PhD Student_  
+
+:::
+
+:::{grid-item-card}
+
+<!-- 
+![`img`](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png) 
+-->
+
+**`Matt Udakis`**  
 _Postdoc_  
 
 :::
