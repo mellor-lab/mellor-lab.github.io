@@ -4,6 +4,13 @@
 &nbsp;
 &nbsp;
 
+  **2025**
+
+---
+_Hippocampal OLM interneurons regulate CA1 place cell plasticity and remapping_<br>
+Matt Udakis, Matthew D.B. Claydon, Heng Wei Zhu, Elsa C. Oakes, Jack R. Mellor<br>
+Nature Communications, **`2025`** ([article](https://doi.org/10.1038/s41467-025-64859-0))<br>
+
   **2024**
 
 ---
