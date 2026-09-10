@@ -24,6 +24,8 @@ I will use a variety of techniques including brain slice electrophysiology, in v
 
 ### Current projects:
 
+- [Effects of psilocybin on hippocampal plasticity](../../projects/psilocybin-mechanisms)
+
 
 &nbsp;
 
