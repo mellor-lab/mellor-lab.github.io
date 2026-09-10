@@ -20,7 +20,7 @@ We want to assess how altered expression of high-risk genes for schizophrenia im
 
 ```{image} ../img/projects/hip_firing_small.gif
 :align: center
-:width: 700px
+:width: 300px
 :class: bg-transparent no-scaled-link
 ```
 
