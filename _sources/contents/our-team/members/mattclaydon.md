@@ -20,7 +20,9 @@ My interest in neuroscience started during my undergraduate degree at UCL, and t
 ### Research:
 My research in the Mellor lab will utilise two-photon imaging of dendritic calcium, combined with whole-cell electrophysiology, to assess the convergent and divergent changes in synaptic integration and physiological properties that may arise from several high-risk genetic mutations associated with schizophrenia. I use a combination of acute brain slices and cultured organotypic human brain slices.
 
+### Current projects:
 
+- [Genetic risk factors for Schizophrenia](../../projects/genetic-schizophrenia)
 
 &nbsp;
 
