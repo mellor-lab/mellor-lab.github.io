@@ -18,13 +18,6 @@ parts:
           title: Sustained antidepressant effects of ketamine
         - file: contents/projects/genetic-schizophrenia
           title: Genetic risk factors for schizophrenia
-          sections:
-            - file: contents/projects/vr-imaging
-              title: In vivo calcium imaging
-            - file: contents/projects/ephys-slice
-              title: Electrophysiology
-            - file: contents/projects/human-culture
-              title: Human brain cultures
         - file: contents/projects/psilocybin-mechanisms
           title: Actions of psilocybin
         - file: contents/projects/rhomboid-synapses
