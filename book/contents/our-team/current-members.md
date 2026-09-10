@@ -136,7 +136,7 @@ _PhD Student_
 **Ashvini Wijayapala** 
 ^^^
 
-![Ashvini Wijayapala](../img/members/headshot.png)
+![Ashvini Wijayapala](../img/members/ashvini.PNG)
 
 **`Ashvini Wijayapala`**  
 _PhD Student_  
