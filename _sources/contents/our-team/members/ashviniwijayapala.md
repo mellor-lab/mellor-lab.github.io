@@ -1,6 +1,6 @@
 # Ashvini Wijayapala
 
-```{image} ../../img/members/mattclaydon.jpg
+```{image} ../../img/members/ashvini.PNG
 :class: no-scaled-link
 :width: 300
 ```
