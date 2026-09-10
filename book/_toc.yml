@@ -19,7 +19,7 @@ parts:
         - file: contents/projects/genetic-schizophrenia
           title: Genetic risk factors for schizophrenia
         - file: contents/projects/psilocybin-mechanisms
-          title: Actions of psilocybin
+          title: Effects of psilocybin on hippocampal plasticity
         - file: contents/projects/rhomboid-synapses
           title: Rhomboid proteolysis and synaptic plasticity
         - file: contents/projects/neuromodulation
