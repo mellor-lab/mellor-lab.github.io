@@ -20,29 +20,12 @@ We utilise a range of methodologies including:
 :gutter: 4
 
 :::{grid-item-card}
-:link: olm-placecells
-:link-type: doc
-:text-align: center
-:img-top: ../img/projects/olm-ca1.png
-
-<p style='text-align: center;'> OLM interneuron regulation of place cells </p> 
-
-:::
-
-:::{grid-item-card}
 :link: bris-neuro-data-guide
 :link-type: doc
 :text-align: center
 :img-top: ../img/projects/bndg.png
 
 <p style='text-align: center;'> Bristol neuroscience data guide </p>
-:::
-
-:::{grid-item-card}
-:link: vr-2photon
-:link-type: doc
-:img-top: ../img/projects/mouse_VR_thumb.png
-<p style='text-align: center;'> Calcium imaging during exploration in virtual reality </p> 
 :::
 
 :::{grid-item-card}
@@ -53,16 +36,6 @@ We utilise a range of methodologies including:
 
 <p style='text-align: center;'> Ketamine’s sustained antidepressant effects </p>
 :::
-
-:::{grid-item-card}
-:link: adaptive-learning
-:link-type: doc
-:text-align: center
-:img-top: ../img/projects/ms_slice.png
-
-<p style='text-align: center;'> Cholinergic mediated adaptive learning and machine learning models </p>
-:::
-
 
 :::{grid-item-card}
 :link: kainate-editing
@@ -89,6 +62,15 @@ We utilise a range of methodologies including:
 :img-top: ../img/projects/psilocybin_calcium.png
 
 <p style='text-align: center;'> Actions of psilocybin </p>
+:::
+
+:::{grid-item-card}
+:link: rhomboid-synapses
+:link-type: doc
+:text-align: center
+:img-top: ../img/projects/rhomboid.png
+
+<p style='text-align: center;'> Rhomboid proteolysis and synaptic plasticity </p>
 :::
 
 ::::
