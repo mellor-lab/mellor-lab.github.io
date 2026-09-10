@@ -155,6 +155,37 @@ _Research Technician_
 
 ::::
 
+## Masters Students 
+
+::::{grid} 1 2 2 2
+:gutter: 5
+
+:::{grid-item-card}
+
+**Ani Boja** 
+^^^
+
+![Ani Boja](../img/members/headshot.jpg)
+
+**`Ani Boja`**  
+_Masters Student_  
+
+:::
+
+:::{grid-item-card}
+
+**Noah Collins** 
+^^^
+
+![Noah Collins](../img/members/headshot.jpg)
+
+**`Noah Collins`**  
+_Masters Student_  
+
+:::
+
+::::
+
 &nbsp;
 
 
