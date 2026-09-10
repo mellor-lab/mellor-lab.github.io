@@ -13,15 +13,12 @@ parts:
         - file: contents/our-team/work-with-us
     - file: contents/projects/index
       sections:
-        - file: contents/projects/olm-placecells
         - file: contents/projects/bris-neuro-data-guide
-        - file: contents/projects/vr-2photon
-          title: Calcium imaging during navigation in VR
+          title: Bristol Neuroscience data guide
         - file: contents/projects/antidepressant-ketamine
           title: Sustained antidepressant effects of ketamine
-        - file: contents/projects/adaptive-learning
-          title: Choliniergic mediated adaptive learning
-        - file: contents/projects/kainate-editing
+        - file: contents/projects/rhomboid-synapses
+          title: Rhomboid proteolysis and synaptic plasticity
         - file: contents/projects/genetic-schizophrenia
           title: Genetic risk factors for schizophrenia
         - file: contents/projects/psilocybin-mechanisms
