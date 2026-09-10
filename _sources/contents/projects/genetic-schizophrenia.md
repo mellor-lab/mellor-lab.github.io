@@ -44,7 +44,7 @@ We want to assess how synaptic plasticity mechanisms are disrupted in mice with 
 :text-align: center
 :img-top: ../img/projects/vrenv.png
 
-<p style='text-align: center;'> In vivo calcium imaging </p>
+<p style='text-align: center;'> Stability of Spatial Representations </p>
 :::
 
 :::{grid-item-card}
