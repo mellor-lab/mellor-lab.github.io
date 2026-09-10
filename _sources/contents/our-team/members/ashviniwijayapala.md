@@ -20,6 +20,9 @@ I graduated from the University of Warwick with an MBio in Biomedical Science wi
 ### Research:
 I am now pursuing a PhD at the University of Bristol under the supervision of Prof. Jack Mellor and Dr Adam Grieve. My current work investigates the role of rhomboid proteases in regulating synaptic transmission. Using a combination of cell biology, proteomics and electrophysiology techniques the project aims to understand how rhomboid proteolysis contributes to neuronal development and function.
 
+### Current projects:
+
+- [Rhomboid proteolysis and synaptic plasticity](../../projects/rhomboid-synapses)
 
 &nbsp;
 
