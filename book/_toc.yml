@@ -23,7 +23,7 @@ parts:
               title: In vivo calcium imaging
             - file: contents/projects/ephys-slice
               title: Electrophysiology
-            - file: contents/projects/human-slice
+            - file: contents/projects/human-culture
               title: Human brain cultures
         - file: contents/projects/psilocybin-mechanisms
           title: Actions of psilocybin
