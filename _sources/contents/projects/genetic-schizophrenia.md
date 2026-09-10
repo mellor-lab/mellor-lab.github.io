@@ -4,7 +4,7 @@ Schizophrenia is a severe neurodevelopmental disorder affecting ~1% of the popul
 
 Environmental and genetic underlying causes have been identified, and a research from  SCHEMA Consortium pinpointed 10 individual genes that are ultra-high risk factor, four of these being associated with synaptic calcium regulation and plasticity.
 
-[Matt Claydon](../our-team/members/mattclaydon), [Laura Alberio](../our-team/members/lauraalberio), Marie Sabec and [Shyline Bajaba](../our-team/members/shylinebajaba) are working on the project integrating in vitro and in vivo approaches.
+[Matt Claydon](../our-team/members/mattclaydon), [Laura Alberio](../our-team/members/lauraalberio), [Marie Sabec](../our-team/members/mariesabec) and [Shyline Bajaba](../our-team/members/shylinebajaba) are working on the project integrating in vitro and in vivo approaches.
 
 ### Aim:
 
@@ -20,7 +20,7 @@ We want to assess how synaptic plasticity mechanisms are disrupted in mice with 
 :::{grid-item}
 
 
-```{image} ../img/projects/FOV_cropped.PNG 
+```{image} ../img/projects/schizophrenia.PNG 
 :align: center
 :width: 300px
 :class: bg-transparent no-scaled-link
