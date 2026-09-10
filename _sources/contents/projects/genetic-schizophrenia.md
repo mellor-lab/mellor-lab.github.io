@@ -20,7 +20,7 @@ We want to assess how synaptic plasticity mechanisms are disrupted in mice with 
 :::{grid-item}
 
 
-```{image} ../img/projects/schizophrenia.PNG 
+```{image} ../img/projects/schizophrenia.png 
 :align: center
 :width: 300px
 :class: bg-transparent no-scaled-link
