@@ -165,7 +165,7 @@ _Research Technician_
 **Ani Boja** 
 ^^^
 
-![Ani Boja](../img/members/headshot.jpg)
+![Ani Boja](../img/members/headshot.png)
 
 **`Ani Boja`**  
 _Masters Student_  
@@ -177,7 +177,7 @@ _Masters Student_
 **Noah Collins** 
 ^^^
 
-![Noah Collins](../img/members/headshot.jpg)
+![Noah Collins](../img/members/headshot.png)
 
 **`Noah Collins`**  
 _Masters Student_  
