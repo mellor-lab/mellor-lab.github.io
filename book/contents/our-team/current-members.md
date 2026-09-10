@@ -78,6 +78,20 @@ _Research Associate_
 
 :::
 
+:::{grid-item-card}
+:link: members/mariesabec
+:link-type: doc
+
+**Marie Sabec**
+^^^
+
+![Marie Sabec](../img/members/headshot.png)
+
+**`Marie Sabec`**  
+_Senior Research Associate_  
+
+:::
+
 ::::
 
 ---
@@ -126,6 +140,20 @@ _PhD Student_
 ![Elsa Oakes](../img/members/Elsa.jpg)
 
 **`Elsa Oakes`**  
+_PhD Student_  
+
+:::
+
+:::{grid-item-card}
+:link: members/elsaoakes
+:link-type: doc
+
+**Ashvini Wijayapala** 
+^^^
+
+![Ashvini Wijayapala](../img/members/headshot.png)
+
+**`Ashvini Wijayapala`**  
 _PhD Student_  
 
 :::
