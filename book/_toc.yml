@@ -18,6 +18,7 @@ parts:
           title: Sustained antidepressant effects of ketamine
         - file: contents/projects/genetic-schizophrenia
           title: Genetic risk factors for schizophrenia
+          sections:
               - file: contents/projects/vr-imaging
                 title: In vivo calcium imaging
               - file: contents/projects/ephys-slice
