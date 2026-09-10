@@ -41,7 +41,7 @@ We utilise a range of methodologies including:
 :link: genetic-schizophrenia
 :link-type: doc
 :text-align: center
-:img-top: ../img/projects/schizophrenia.png
+:img-top: ../img/projects/2pFOV.png
 
 <p style='text-align: center;'> Genetic risk factors for schizophrenia </p>
 :::
