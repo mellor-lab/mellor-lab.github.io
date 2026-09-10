@@ -64,6 +64,15 @@ We utilise a range of methodologies including:
 <p style='text-align: center;'> Rhomboid proteolysis and synaptic plasticity </p>
 :::
 
+:::{grid-item-card}
+:link: neuromodulation
+:link-type: doc
+:text-align: center
+:img-top: ../img/projects/olm-ca1.png
+
+<p style='text-align: center;'> Neuromodulation in the hippocampus </p>
+:::
+
 ::::
 
 &nbsp;
