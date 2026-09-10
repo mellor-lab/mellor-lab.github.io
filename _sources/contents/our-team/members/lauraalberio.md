@@ -52,7 +52,7 @@ of schizophrenia risk genes. I use in vivo 2-photon Ca2+ imaging of place cells 
 ### Publications:
 
 _Intrinsic Cell-Class-Specific Modulation of Intracellular Chloride Levels and Inhibitory Function, in Cortical Networks, between Day and Night_<br>
-Laura Alberio, Amy Marshall, Robert T Graham, Connie MacKenzie-Gray Scott, Luciano Saieva, Sarah E Gartside, Gian Michele Ratto, Andrew J Trevelyan <br>
+`Laura Alberio`, Amy Marshall, Robert T Graham, Connie MacKenzie-Gray Scott, Luciano Saieva, Sarah E Gartside, Gian Michele Ratto, Andrew J Trevelyan <br>
 eNeuro, **2025** ([article](https://www.eneuro.org/content/12/12/ENEURO.0325-25.2025))
 
 _Daily rhythm in cortical chloride homeostasis underpins functional changes in visual cortex excitability_<br>
