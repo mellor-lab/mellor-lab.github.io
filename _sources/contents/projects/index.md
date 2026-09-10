@@ -52,7 +52,7 @@ We utilise a range of methodologies including:
 :text-align: center
 :img-top: ../img/projects/psilocybin_calcium.png
 
-<p style='text-align: center;'> Actions of psilocybin </p>
+<p style='text-align: center;'> Effects of psilocybin on hippocampal plasticity </p>
 :::
 
 :::{grid-item-card}
