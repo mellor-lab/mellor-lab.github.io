@@ -31,11 +31,23 @@ We want to assess how synaptic plasticity mechanisms are disrupted in mice with 
 ::::
 
 
-### Techniques:
+### Research Streams:
 
-We perform in vitro 2-photon calcium imaging and electrophysiological recording from mouse brain slices to assess the disruption of synaptic plasticity.
+::::{grid} 1 2 3 3 :gutter: 4
 
-We use in vivo 2-photon calcium imaging of CA1 during defined behavioural tasks in a virtual reality system to assess the stability of the mouse spatial representations.
+:::{grid-item-card} :link: vr-imaging :link-type: doc :text-align: center :img-top: ../img/projects/mouse_VR.png
+
+In vivo 2-photon calcium imaging
+
+:::
+
+:::{grid-item-card} :link: ephys-slice :link-type: doc :text-align: center :img-top: ../img/projects/ms_slice.png
+
+Patch clamp electrophysiology 
+
+:::
+
+:::
 
 
 
