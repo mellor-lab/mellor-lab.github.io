@@ -22,6 +22,8 @@ parts:
           title: Actions of psilocybin
         - file: contents/projects/rhomboid-synapses
           title: Rhomboid proteolysis and synaptic plasticity
+        - file: contents/projects/neuromodulation
+          title: Neuromodulation in the hippocampus
     - file: contents/research-environment/how-we-work
       sections:    
       - file: contents/research-environment/group-meetings
