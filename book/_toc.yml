@@ -21,10 +21,6 @@ parts:
           title: Rhomboid proteolysis and synaptic plasticity
         - file: contents/projects/genetic-schizophrenia
           title: Genetic risk factors for schizophrenia
-            - file: contents/projects/vr-imaging
-              title: VR imaging
-            - file: contents/projects/ephys-slice
-              title: Electrophysiology and slice work
         - file: contents/projects/psilocybin-mechanisms
           title: Actions of psilocybin
     - file: contents/research-environment/how-we-work
