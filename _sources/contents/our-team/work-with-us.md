@@ -1,6 +1,6 @@
 # Working with us
 
-**We are currently recruiting 3 postdoctoral positions and 1 technician to the project [Control of when and what to learn by neuromodulation](../projects/neuromodulation.md)** 
+**We are currently recruiting 3 postdoctoral positions and 1 technician to the project [Control of when and what to learn by neuromodulation](../projects/neuromodulation.md)** [<i class="fa-solid fa-envelope"></i>](mailto:jack.mellor@bristol.ac.uk)
 
 We are always interested in new ideas and collaborations so please get in touch if you would like to discuss.
 
