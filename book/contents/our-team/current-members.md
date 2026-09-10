@@ -116,21 +116,6 @@ _PhD Student_
 :::
 
 :::{grid-item-card}
-:link: members/dangoodwin
-:link-type: doc
-
-**Dan Goodwin** 
-^^^
-
-![Dan Goodwin](../img/members/dangoodwin.jpg)
-
-**`Dan Goodwin`**  
-_PhD Student_  
-
-:::
-
-
-:::{grid-item-card}
 :link: members/elsaoakes
 :link-type: doc
 
