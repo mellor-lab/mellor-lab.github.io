@@ -51,7 +51,7 @@ We want to assess how synaptic plasticity mechanisms are disrupted in mice with 
 :link: ephys-slice
 :link-type: doc
 :text-align: center
-:img-top: ../img/projects/bndg.png
+:img-top: ../img/projects/temp.png
 
 <p style='text-align: center;'> Electrophysiology </p>
 :::
@@ -60,7 +60,7 @@ We want to assess how synaptic plasticity mechanisms are disrupted in mice with 
 :link: human-culture
 :link-type: doc
 :text-align: center
-:img-top: ../img/projects/bndg.png
+:img-top: ../img/projects/temp.png
 
 <p style='text-align: center;'> Human brain cultures </p>
 :::
