@@ -65,20 +65,6 @@ _Senior Research Associate_
 :::
 
 :::{grid-item-card}
-:link: members/jithinnair
-:link-type: doc
-
-**Jithin Nair**
-^^^
-
-![Jithin Nair](../img/members/jithin.jpg)
-
-**`Jithin Nair`**  
-_Research Associate_  
-
-:::
-
-:::{grid-item-card}
 :link: members/mariesabec
 :link-type: doc
 
