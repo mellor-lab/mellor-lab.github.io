@@ -14,19 +14,17 @@ parts:
     - file: contents/projects/index
       sections:
         - file: contents/projects/bris-neuro-data-guide
-          title: Bristol Neuroscience data guide
         - file: contents/projects/antidepressant-ketamine
           title: Sustained antidepressant effects of ketamine
-        - file: contents/projects/rhomboid-synapses
-          title: Rhomboid proteolysis and synaptic plasticity
         - file: contents/projects/genetic-schizophrenia
           title: Genetic risk factors for schizophrenia
         - file: contents/projects/psilocybin-mechanisms
           title: Actions of psilocybin
+        - file: contents/projects/rhomboid-synapses
+          title: Rhomboid proteolysis and synaptic plasticity
     - file: contents/research-environment/how-we-work
       sections:    
       - file: contents/research-environment/group-meetings
       - file: contents/research-environment/one-to-ones
     - file: contents/publications 
     - file: contents/funding
-
