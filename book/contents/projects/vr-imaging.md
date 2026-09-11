@@ -1,6 +1,6 @@
 # Stability of spatial representations
 
-This project led by [Laura Alberio](../our-team/members/lauraalberio) and [Marie Sabec](../our-team/members/mariesabec) aims to investigate the stability and flexibility of spatial representations in mice with decreased expression of high-risk genes for schizophrenia. 
+This project, led by [Laura Alberio](../our-team/members/lauraalberio) and [Marie Sabec](../our-team/members/mariesabec), aims to investigate the stability and flexibility of spatial representations in mice with altered expression of high-risk genes for schizophrenia. 
 
 
 
@@ -11,7 +11,7 @@ This project led by [Laura Alberio](../our-team/members/lauraalberio) and [Marie
 
 :::{grid-item}
 
-We want to assess how altered expression of high-risk genes for schizophrenia impacts on the stability of neuronal representations in the dorsal hippocampus. We also want to investigate if a pharmacological rescue is possible for the observed effects.
+We aim to determine how downregulating high-risk schizophrenia susceptibility genes impairs the stability of spatial representations, and to evaluate whether targeted pharmacological intervention can rescue these network-level deficits.
 
 :::
 
@@ -30,7 +30,7 @@ We want to assess how altered expression of high-risk genes for schizophrenia im
 
 
 ### Techniques:
-We utilise in vivo calcium imaging techniques whilst animals navigate familiar and novel virtual reality environments across multiple days. This work is complemented by ex vivo slice electrophysiology.
+Using in vivo two-photon calcium imaging in virtual reality, we record CA1 pyramidal neurons to determine how neural activity correlates with behaviour during navigation of familiar versus novel environments.
 
 
 &nbsp;
