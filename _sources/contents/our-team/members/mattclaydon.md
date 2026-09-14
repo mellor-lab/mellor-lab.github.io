@@ -43,7 +43,7 @@ My research in the Mellor lab utilises two-photon imaging of dendritic calcium, 
 ### Publications:
 
 _Inhibition of cortico-amygdala projections underlies affective bias modification by psilocybin_<br>
-Matthew D. B. Claydon, Justyna K. Hinchcliffe,... Emma S. J. Robinson <br>
+`Matthew D. B. Claydon`, Justyna K. Hinchcliffe,... Emma S. J. Robinson <br>
 BioRxiv **2026** ([preprint](https://www.biorxiv.org/content/10.64898/2026.03.02.709133v1.full)) 
 
 _Hippocampal OLM interneurons regulate CA1 place cell plasticity and remapping_<br>
