@@ -18,7 +18,7 @@ We aim to characterize how schizophrenia risk genes change physiology on a cellu
 :::{grid-item}
 
 
-```{image} ../img/projects/hip_firing_small.gif
+```{image} ../img/projects/human_ap_short.gif
 :align: center
 :width: 300px
 :class: bg-transparent no-scaled-link
