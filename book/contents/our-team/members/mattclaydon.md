@@ -1,6 +1,6 @@
 # Matt Claydon
 
-```{image} ../../img/members/mattclaydon.jpg
+```{image} ../../img/members/website_mc_headshot.jpg
 :class: no-scaled-link
 :width: 300
 ```
@@ -15,7 +15,7 @@ _Senior Research Associate_
 [<i class="fa-brands fa-orcid" style="color: #6eee5d;"></i>](https://www.orcid.org)
 [<i class="fa-brands fa-github" style="color: #696969;"></i>](https://www.github.com) -->
 
-My interest in neuroscience started during my undergraduate degree at UCL, and that was furthered during my MSc in molecular neuroscience at the University of Bristol. During my MSc I got a taste for research and went on to complete a PhD investigating the effects of circadian disruption and steroid treatment using brain slice electrophysiology. I have joined Jack's lab in 2024 as a postdoc and am now investigating risk genes associated with schizophrenia.
+My interest in neuroscience started during my undergraduate degree at UCL, and that was furthered during my MSc in molecular neuroscience at the University of Bristol. During my MSc I got a taste for research and went on to complete a PhD investigating the effects of circadian disruption and steroid treatment using brain slice electrophysiology. I joined Jack's lab in 2024 as a postdoc and am now investigating risk genes associated with schizophrenia.
 
 ### Research:
 My research in the Mellor lab utilises two-photon imaging of dendritic calcium, combined with whole-cell electrophysiology, to assess the convergent and divergent changes in synaptic integration and physiological properties that may arise from several high-risk genetic mutations associated with schizophrenia. I use a combination of acute brain slices and cultured organotypic human brain slices.
