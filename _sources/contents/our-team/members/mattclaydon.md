@@ -1,6 +1,6 @@
 # Matt Claydon
 
-```{image} ../../img/members/website_mc_headshot.jpg
+```{image} ../../img/members/website_mc_headshot2.jpg
 :class: no-scaled-link
 :width: 300
 ```
