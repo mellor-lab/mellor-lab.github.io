@@ -1,6 +1,6 @@
 # Control of when and what to learn by neuromodulation in the hippocampus
 
-**We are currently recruiting 3 postdoctoral positions and 1 technician to this project.[Work With Us - Job Advent Links Here](../our-team/work-with-us.md)**
+**We are currently recruiting 3 postdoctoral positions and 1 technician to this project. [Work With Us - Job Advent Links Here](../our-team/work-with-us.md)**
 
 ## Overview:
 In a constantly changing environment, the brain must store and update information in a way that depends on uncertainty. The hippocampus is central to this continual process but relies on inputs that signpost new information and regulate the extent to which it is incorporated in future estimates. Our central hypothesis proposes that this signposting is performed by functionally overlapping neuromodulator systems interacting in an integrated fashion to signal different types of error and uncertainty. This signal enables appropriate updating of memories stored in the hippocampus providing realistic expectations on which to base decision making in uncertain situations, a fundamental process whose disruption is a core feature of multiple psychiatric disorders.
