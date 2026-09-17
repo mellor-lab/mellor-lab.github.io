@@ -7,8 +7,8 @@ We are a friendly and approachable group who work together to do the best scienc
 Find out more about our [current](current-members) and [past](past-members) group members 
 ```
 
-![Hippocampus](../img/lab_photo_2023.png)
-*Our annual lab retreat Devon, UK, 2023* 
+![Hippocampus](../img/lab_photo_2026.png)
+*Our annual lab retreat Devon, UK, 2026* 
 
 &nbsp;
 
