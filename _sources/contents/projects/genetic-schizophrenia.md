@@ -51,7 +51,7 @@ We want to assess how synaptic plasticity mechanisms are disrupted in mice with 
 :link: ephys-slice
 :link-type: doc
 :text-align: center
-:img-top: ../img/projects/neuron_website.png
+:img-top: ../img/projects/neuron_website2.png
 
 <p style='text-align: center;'> Electrophysiology </p>
 :::
