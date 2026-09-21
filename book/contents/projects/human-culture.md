@@ -17,7 +17,7 @@ We aim to determine how downregulating high-risk schizophrenia susceptibility ge
 :::{grid-item}
 
 
-```{image} ../img/projects/hip_firing_small.gif
+```{image} ../img/projects/temp.png
 :align: center
 :width: 300px
 :class: bg-transparent no-scaled-link
