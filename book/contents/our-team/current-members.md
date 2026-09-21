@@ -177,7 +177,7 @@ _Masters Student_
 **Noah Collins** 
 ^^^
 
-![Noah Collins](../img/members/headshot.png)
+![Noah Collins](../img/members/noahcollins.png)
 
 **`Noah Collins`**  
 _Masters Student_  
