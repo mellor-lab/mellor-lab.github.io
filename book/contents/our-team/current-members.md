@@ -2,7 +2,7 @@
 
 &nbsp;
 
-![Hippocampus](../img/lab_photo_2023.png)
+![Hippocampus](../img/members/lab_photo_2026.jpg)
 
 &nbsp;
 
@@ -42,7 +42,7 @@ _Principle Investigator_
 **Laura Alberio**
 ^^^
 
-![Laura Alberio](../img/members/headshot.png)
+![Laura Alberio](../img/members/Laura-Alberio.png)
 
 **`Laura Alberio`**  
 _Senior Research Associate_  
